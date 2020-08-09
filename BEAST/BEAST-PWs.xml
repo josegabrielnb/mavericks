@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='Standard' beautistatus='noAutoSetClockRate' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" required="BEAST v2.5.2" version="2.5">
+
+
+    <data id="PWs_4BEAST" dataType="aminoacid" name="alignment">
+                    <sequence id="seq_Aaustralis2" taxon="Aaustralis2" totalcount="20" value="DLS-Y-YCYRVQDGNGLRGFQGLPVMYGAGVGGIFHSLFK-AIPLLKRGLEI--KPCVKSATQNIAKNVISQVLGKQEGLGLII-QRKRSP-------"/>
+                    <sequence id="seq_Aaustralis3" taxon="Aaustralis3" totalcount="20" value="PLG-Y-IHKQNKGSNGLPGFQGVPVMYGVGVGGIFYSLFR-TMPLV?KGFEI--KQHIKSTAQDIAKNVVSEVLDKQEGSGLVI-QRKRPP-------"/>
+                    <sequence id="seq_Aaustralis4" taxon="Aaustralis4" totalcount="20" value="DLA-Y-NY?KSPGCNGLLVFKA--VMYGAGVGGIFHSPFR-SVPLLKRGLEI--KPHVKIAAQDAAKN?VSKVLDKQEGLGLVI-QRKR---QKKP--"/>
+                    <sequence id="seq_Aaustralis5" taxon="Aaustralis5" totalcount="20" value="DQA-Y-IYYR?QTGNGLTGFQGVSVRYGVGLGGIFCSLFR-AALLLKRGGGI--KSHVKSAVQEIAKSVISKV?GKPEGLTLVI-PRDVPS-KGEWSS"/>
+                    <sequence id="seq_Aaustralis6" taxon="Aaustralis6" totalcount="20" value="DPA-C-NYYRAQASNGLPGFQG?SCL------------------------EI--KPH?KSATQDIAKNMVSKVLDKQEGLGLVI-QRKR---------"/>
+                    <sequence id="seq_Acallipter1" taxon="Acallipter1" totalcount="20" value="D-SKYVKYYLSQAG-GLGGY-GTSTQYGTGLGGLFRSLFRFAVPLFKKGVSIVK?PHLKTAASGIVSDVITNI-TRQDGNGLYVYTKKTPP-KRKKPR"/>
+                    <sequence id="seq_Acallipter10" taxon="Acallipter10" totalcount="20" value="DPHRFVRYY-GQVGGSLPGFYGAPVMYGRGIGSIFSRLFRF-VPLFKSGFAVA?KPHLKTAATNIATDAVKRVMGKQEGGGMMVLSRKRPPGER-K--"/>
+                    <sequence id="seq_Acallipter14" taxon="Acallipter14" totalcount="20" value="DPHRFVRYY-GQVGGSLPGFYGAPVMYGRGIGSIFSRLFRF-VPLFKSGFAVA?KPHLKKAATNIATDAVKRVMGKQEGGGMMVLSRKRPPGDR-K--"/>
+                    <sequence id="seq_Acallipter15" taxon="Acallipter15" totalcount="20" value="DNNRFIGYY-TQAGNGLPGFSGAPVIYGRGIASIFSKLFRF-VPFIKRGVS?IAKPHLKSAVKGFASDIVTSSLSNQEGSGLTLISRKRPPGQRKKRR"/>
+                    <sequence id="seq_Acallipter17" taxon="Acallipter17" totalcount="20" value="DPHRFVRYY-GQVGGSLPGF-GAPVMYGRGIGSIFSRLFRF-VPLFKTGFAVA?KPHLKTAATNIATDAVKRVMGKQEGGGMMVLSR------R-K--"/>
+                    <sequence id="seq_Acallipter20" taxon="Acallipter20" totalcount="20" value="G-AKYVRYYLNQAG-GLGGY-STSMQYGAGLGGLFRSLFRFAVPLFRKGVSIVK?PHLKTAASGIVSDVVSNI-TKQDGNGVYVYTNKTPP-KCKKPR"/>
+                    <sequence id="seq_Acallipter22" taxon="Acallipter22" totalcount="20" value="D-AKYLKYYLAQAG-GLGGY-GTSTQYGAGLGGLFRSLFRFAVPLFKKGVSIVK?PHLKTAASGIVSDVISKI-TKQDGNGVYVYA?KTPP-KRKKPR"/>
+                    <sequence id="seq_Acallipter23" taxon="Acallipter23" totalcount="20" value="D-AKYVRYYLNQAG-GLNGY-GTSTQYGAGLGGLFSSLFRIAVLLFKKGVSIVK?PHLKTAASGIVSDVISNI-TRQDGNS?CVYTKKTPP-KRKKPR"/>
+                    <sequence id="seq_Acallipter24" taxon="Acallipter24" totalcount="20" value="D-SKYVKYYLSQAG-GLGGY-GTTTQYGSGLGGLFRSLFRFAVPLFKKGVSIVK?PHLKTAASGIVSDVITNI-TRRDGNGLYVF?KKTPP-KRKKPR"/>
+                    <sequence id="seq_Acallipter25" taxon="Acallipter25" totalcount="20" value="P-LYFSSYYISESGVGFNGY-GTSTQYGAGLGGLFSSLFRIAVPLFKKGVSIVK-PHLKTAA---?QDVISNI-TKQDGNGLYA-IKISLP-KVK-EH"/>
+                    <sequence id="seq_Acallipter5" taxon="Acallipter5" totalcount="20" value="D-SKYVKYYLSQAG-GLGGY-GTSTQYGTGLGGLFRSLFRFAVPLFKKGVSIVK?PHLKTAASGIVSDVITNI-TRQDGNGLYVYTKKTPP-KRKKPR"/>
+                    <sequence id="seq_Acallipter8" taxon="Acallipter8" totalcount="20" value="DPHRFVRYY-GQVGGSLPGFYGAPVMYGRGIGSIFSRLFRF-VPLFKSGFAVA?KPHLKTAATNIATDAVKRVMGKQEGGGMMVLSRKRPPGER-K--"/>
+                    <sequence id="seq_Acarolinen2" taxon="Acarolinen2" totalcount="20" value="DPG-Y-NYYRAQAGNGLPGYHGIPQMYGSGLGGIFRSLFR-AVPLLRRGLDI--KPHAKTAARNIAKDMFTQVLN-QEGSGLMI-RRK-PP-KRKAQR"/>
+                    <sequence id="seq_Acarolinen3" taxon="Acarolinen3" totalcount="20" value="DPG-Y-NYYSAQAGNGLPGYQGLPQMYGSGLGGIFRSLFR-AVPLLRRGLDI--KPHAKTAARNIAKDMITQVLN-QEGSGFMI-RRK-PP-KRKVQR"/>
+                    <sequence id="seq_Acitrinell10" taxon="Acitrinell10" totalcount="20" value="DNNRFMPYY-TQAGHGLPGFSRAPVTYGKGFASMFSKLFRF-VPFLRRGFS-VVQPHLKTAVKNIASDEVTNQEAR--GSGVVYLAREAPTARRHLPS"/>
+                    <sequence id="seq_Acitrinell3" taxon="Acitrinell3" totalcount="20" value="D-NKYLNYYINQAG-GMPGF-GSSMQYGNGLGGIFRSLFRFAILLLKRGFNI?AKPHLKSAATGIIGDVLLNI-ARQEGHGLMAYTKKRPP-KRKATK"/>
+                    <sequence id="seq_Acitrinell4" taxon="Acitrinell4" totalcount="20" value="DNNRFIAYY-AQAGHGLPGFTGAPVMYGRGLASMFAKLFRF-VPFVKRGFS-VAQPHLKTAVKNIASEVFTKAVSHQEGAGIAVLSRKRPPGTRKNPK"/>
+                    <sequence id="seq_Acitrinell5" taxon="Acitrinell5" totalcount="20" value="D-TKYLNYYINQAG-GIPGF-GSSVQYGNGLGGIFRTLFRFAVPLLKKGFNI?AKPHLKS---?IVSDVVSNI-ARQEGNGLLVYTKRSPP-KRKKRR"/>
+                    <sequence id="seq_Acitrinell9" taxon="Acitrinell9" totalcount="20" value="---KCVHYTFTTRA-N-----STSVQYGNGLGGIFRSLFRFAVPLLKREFNI-AKPH?KSAATGIVSDVVSNI-ARQEGNGLLVYAKRSPP-KRKKKK"/>
+                    <sequence id="seq_Ahaastii1" taxon="Ahaastii1" totalcount="20" value="DQA-Y-IYYR?QTGNGLTGFQGVSVRYGVGLGGIFCSLFR-AALLLKRG?GI--KSHVKSAVQEIAKSVISKV?GKPEGLTLVI-PRDVTS-KVRVE-"/>
+                    <sequence id="seq_Ajaponica1" taxon="Ajaponica1" totalcount="20" value="DPHRYVDYYTAQAGNGLLGFSGGSIMYGGGLGGIFRGLFRMALPLLKKGLNI?AKPHLASAAKNIAKDVITNVVSRKEGSRLMVMTRKRPPGR-SMPK"/>
+                    <sequence id="seq_Ajaponica15" taxon="Ajaponica15" totalcount="20" value="DPHRYVDYYTAQAGNGLPGFSGGSVMYGGSLGGIFRGLFRMALPLLKKGFNI?AKPHLASAAKNIAKDVITNVASCQAGSELMVMMRKRPPGR-SRPK"/>
+                    <sequence id="seq_Ajaponica18" taxon="Ajaponica18" totalcount="20" value="DPQHYVT-YQTQAGGLLPGYAGSTVMYGSGLSGIFCGLSRMAVPLLKKGFN-IAKPHLKTAAKNIVSEVVSNVMTTQGGSGRLVMSRKRPPGRRKKNK"/>
+                    <sequence id="seq_Ajaponica20" taxon="Ajaponica20" totalcount="20" value="DPHRYVDYYMGQAVNGLPGFSGGSVMYGGGLGGIF-GLFRMDLPLLKKGFNI?AKPHLASAAKNIAKDVITNVVSRQEGSGLMVMTRKRPPGR-SRPK"/>
+                    <sequence id="seq_Ajaponica22" taxon="Ajaponica22" totalcount="20" value="YP--YIDYYTAQAGNGLPGLSGGSVMYGGGLGSIFRGLFRMALLLLKKGFNI-AKPHLFSAAKNIAKDVITNVVSRKEGSRLMVMTRKRPPGR-SRSK"/>
+                    <sequence id="seq_Ajaponica23" taxon="Ajaponica23" totalcount="20" value="DSLSFL---RSQAGGVLPGYAGSTVMYRSGLGGIFRGLFRMAVPLLKKGFN-IAKPHLKTAAKNIVSEVVSNVMTTQGGSGLLEMSRKRPPGRHKKNK"/>
+                    <sequence id="seq_Ajaponica24" taxon="Ajaponica24" totalcount="20" value="------DYYTEQAGNGLPGFSGGSVMYGGGLGGIFRGLFRKK--V?KKGLNI-AKPHLASAAKNIAKDVITNVVSRQEGSGLMVMTRKRPPGR-SM?S"/>
+                    <sequence id="seq_Ajaponica25" taxon="Ajaponica25" totalcount="20" value="DPHRYVDYYMAQAGNGLPGFSGRSVMYGGGLAVFFKAYF?MALPLLKKGFNI-AKPHLASAAKNIAKDVITNVVSRQAGSGLMVMTQKRPPGL-SRPK"/>
+                    <sequence id="seq_Ajaponica27" taxon="Ajaponica27" totalcount="20" value="NPQHYVAYYENQAGG?FAGYAGSTVMYGSGLGAIFR-LFRMAMLLLKKGFN-IAKPHLKTAAKNIVSEVVSNVMTTQGGSGMLVMT-KRPSGKRKTNK"/>
+                    <sequence id="seq_Ajaponica4" taxon="Ajaponica4" totalcount="20" value="YLHRYVTYYQNQAGGVLPRYAGSIVMYGSGLGGIFRRLFRMAVPLLKKGFN-IAKPHLKTAAKNIVSEVVSNVMTTQGGSGLLVMSRKRPPGRRKRNK"/>
+                    <sequence id="seq_Ajaponica5" taxon="Ajaponica5" totalcount="20" value="DPQHYVAYYQNQAGGVLSGYAGSTVMYRSGLGGIFRGIFQMAVPLLK?GLN-IAKPHLKTAAKNIVSEVVSNVMTTQGGSGMLVMSRKRPPGRRKKNK"/>
+                    <sequence id="seq_Alimnaeus14" taxon="Alimnaeus14" totalcount="20" value="DQNRFVHFY-SQAGGTLPGFY?ALVMYGRGIGSLFS-LFCY-VPMIKRGFALV-KPHLKKAATGVASDVIGNVMTKQERSGIMILSKKHPPGNRKK--"/>
+                    <sequence id="seq_Alimnaeus3" taxon="Alimnaeus3" totalcount="20" value="DPNRFIQYY-TQAGGNLPGFRGTPVYYGWGIGSLFSRLFRF-VPLICKGFSIVK?PHLRKAAMGIASDVIGSAVNRQDRSGLIVL?RKRESGQL-K--"/>
+                    <sequence id="seq_Alimnaeus7" taxon="Alimnaeus7" totalcount="20" value="DQNCFVHYY-SQAGGTLPGFYGAPVMYGRGIGSLFS?LFRY-V?MIKRGFALA-KPHLKNAATGFASDVIGNVMTKQEG?GIMVLSKKHPLGKRKK--"/>
+                    <sequence id="seq_Amarmoratu1" taxon="Amarmoratu1" totalcount="20" value="DPECYVSYYQNQAGGFMPGYTGS?TMY??GIG?VFRNLFRMAIPFFKRGFN?IAKPHLKSAAKHIVSDIVSNGLIKQDGSSMLVMTRKRPPGRRKKTK"/>
+                    <sequence id="seq_Amarmoratu10" taxon="Amarmoratu10" totalcount="20" value="DPSRLVSYYKKQVSRGMPGYAGSPTMYGAGF?-VFRNVLRIAI-LFKRGFS--AKPHLKTAAKHIVGDIVSN-LT-QDGS-L-VMAKKR--GQ-KK-T"/>
+                    <sequence id="seq_Amarmoratu13" taxon="Amarmoratu13" totalcount="20" value="--E-PIHLY---SGDTISGY-TGGLMYSTRFGGVFRNVFRMTILFFKRGLSI-AKPHLK?VAK-I-SDIVST-LTRQD-SGTET-GRKR--GKRKQ-R"/>
+                    <sequence id="seq_Amarmoratu18" taxon="Amarmoratu18" totalcount="20" value="DPE--LSYYQNQTGGVMPGYTGSPTMYGAGIGGVFRNLFRMAIPFFKRGFNIA?KPHLKTAAKHIVSDIVSNGLT?QDGSGMLVMARKRPTGRCKETK"/>
+                    <sequence id="seq_Amarmoratu7" taxon="Amarmoratu7" totalcount="20" value="DPELYISYYQNQVK--MPGYTGSLTMY?AGFGGIFSNLFRMTISLFNRRVSIASYL--KTA-KNVVSNIFSKVLTMEEGSGMMVMARSKPP-R-SK-R"/>
+                    <sequence id="seq_Amexicanum16" taxon="Amexicanum16" totalcount="20" value="EPY-Y-DYYRLQAGYGNP-FQGAPVMYGAGFGSIFRSLFR-AMPFLRKGFEL-AKPHVKTAATNIAKDVAT-IANRQEGSGMVV---KRPM-KKGSTK"/>
+                    <sequence id="seq_Amexicanum39" taxon="Amexicanum39" totalcount="20" value="EPH-Y-VYYRRQTGYGNP-FQGAPVMYGEGLGSIFRSLFW-AIPFLRKGFEL-AKPHLKTAATNIAKDVAT-IANRQDGSGLLV---K----------"/>
+                    <sequence id="seq_Amexicanum74" taxon="Amexicanum74" totalcount="20" value="EPH-Y-DYYRRQPSNGNP-FQGAPVMYGAGLGSIFRSLFR-AMPFLRKGFEL-AKPHMKTAATNIAKDVAT-IANCQEGPGLVV---KRPP-KKRSTN"/>
+                    <sequence id="seq_Amexicanum76" taxon="Amexicanum76" totalcount="20" value="EPH-Y-DYYRRQAGYGNP-FQGA------GLG?IFRSLFR-AMPFLRKGFEI-PKPHMKTAATNIAKDVAT-IANRQEGSGLVV--?KRL--KNEQQS"/>
+                    <sequence id="seq_Amexicanus1" taxon="Amexicanus1" totalcount="20" value="DPERYVSYYQNQAGGGMPGYAGSPAMYGAEFGEVFRNLFRMAIPFFKKGIS?IAKPHLKTAAKHIVSDIVSNGLSHQDGSGMLVMARKRPPGRRKKTK"/>
+                    <sequence id="seq_Amexicanus5" taxon="Amexicanus5" totalcount="20" value="-PQIYVDYYKHQAGNGLPGYYGSPVMYGSGLGGIFKSLFRMAVPILKRGITIA?KPHLKTAAKSIVSDVVSNVVKSQEGDGLAF-AYRRPPGRKNKRK"/>
+                    <sequence id="seq_Amexicanus6" taxon="Amexicanus6" totalcount="20" value="-PQTYVDYYKHQAGNGLPGFHGTPTMYGSGFGGIFKALFRMAV?LIKRGITIV-KPHLKTAAKGIVTDVVSNIVSNQEGSGLAI-TRRRPPGRINKRK"/>
+                    <sequence id="seq_Amexicanus8" taxon="Amexicanus8" totalcount="20" value="DPERYVSYYQNQAGGGMPGYAGSPAMYGAGFGGVFRNLFRMAIPFFKKGIS?IAKPHLKTAAKHIVSDIVSNGLSHQDGSGMLVMARKRPPGRRKKTK"/>
+                    <sequence id="seq_Amexicanus9" taxon="Amexicanus9" totalcount="20" value="DPERYVSYYQNQAGGGMPGYAGSPAMYGAGFGGVFRNLFRMAIPFFKKGFS?IAKPHLKTAAKHIVSDIVSNGLSHQDGSGMLVMARKRPPGRRKKTK"/>
+                    <sequence id="seq_Amississip12" taxon="Amississip12" totalcount="20" value="NPN-Y-NYYKAQAGYGLPRYQGVPVMYGIGVGGILLSLFR-AILLLRKGLDI--KPHTKNVAQNIAKDVISQVLDKQEGSSLMI-QRMR-L-KRR---"/>
+                    <sequence id="seq_Amississip15" taxon="Amississip15" totalcount="20" value="YPN-Y-NYYKAQAGHGLPGYRGC?MMYGAGVGGIFRSLFR-AILLLRRGLEI--NPHTKM?AQTIAEDVIS-VLEKQEGSSLVI-QRKTPP-KK?--R"/>
+                    <sequence id="seq_Amississip17" taxon="Amississip17" totalcount="20" value="DPH-Y-NYDKA-VGYGLPGYKGAPVMYRAGVGGIFHSFFR-AILLLRRGLEI--KPHTK----NIAK?LVSQVLDKQEGSGLMI-QRKRPP-KKK--R"/>
+                    <sequence id="seq_Amississip18" taxon="Amississip18" totalcount="20" value="EPT-Y-NYYKAQGGYGLPG-KGVPMMYRVGVEGIFHNLFR-AILLLKRGLEI--KPHVKHA-QNIAKDVVSQVLDKQEGSGLMI-K-RI?P-KRKR-N"/>
+                    <sequence id="seq_Amississip2" taxon="Amississip2" totalcount="20" value="DPN-Y-NYYKAQAGYGLPGYQGVPMMYGAGMGGKFCSLFR-AILLLRRGLEI--KPHAKNAAQNIAKDMISRVLDKQDRSGLVI-QRKRPP-RKK--R"/>
+                    <sequence id="seq_Amississip20" taxon="Amississip20" totalcount="20" value="DSI-Y-SYYKSQAGHHLPMHKGVPVMYRAGMRGIFHSLFR-ATPLCRRGLGI--KPH?KNVAQSIAKDMISHVMDKQE-SGLM--KRE-PP-KRRI--"/>
+                    <sequence id="seq_Amississip23" taxon="Amississip23" totalcount="20" value="DST-Y-NYYKNQAGYALPGYQGVPVTYGAGVGSIF?CTFR-AILLLKRRLEI--EPHVKNVAQNIAQD-VSQVLTKQDR-LFSS-KRKRK--------"/>
+                    <sequence id="seq_Amississip25" taxon="Amississip25" totalcount="20" value="NPN-Y-NYYKAQASYGLPGYQEVPVMYGARVGGIFCSLFG-AIPLLRRGLEF--KPHMKNMAQNIPKHVLSLLLYKREGFSLMN-PRRR-P-Q?R--G"/>
+                    <sequence id="seq_Amississip36" taxon="Amississip36" totalcount="20" value="EAA---NKKGAQAGCGLPGYQGMPMMYGAGVGGIFHSFFK-ATPLLRRGLKI----HAKNAAQNIAKDMVS-VSDKQEGSGLVI-QRKR-P-RKRE-R"/>
+                    <sequence id="seq_Amississip38" taxon="Amississip38" totalcount="20" value="DPT-Y-NYYTAQVGHGLPSHQGLPMMYRTGIGG?FCSLFR-VV--LKWGLEI--KPYVKNMAQN?GRDVISQLLDKQEGPGLLV-SGKK-?-KKK--K"/>
+                    <sequence id="seq_Amississip41" taxon="Amississip41" totalcount="20" value="DTK-Y-NYYALA-GYGLPGHQGVPVMYGAGLGDILPCLFR-AIPLLRRDLEI--?TLIMQL--KTAKDVISQVKHKQDGSGLIT-VNKK-K-RKTG--"/>
+                    <sequence id="seq_Amississip42" taxon="Amississip42" totalcount="20" value="NPA-Y-NYYRTQAGYGLPGYQGMPVMYGAGVGGIFRSLFR-AISLLKRGLEI--KPHVKNAAQN?AQDVVSQVLDKQGGSGLVI-KKKRPP-KRKK-R"/>
+                    <sequence id="seq_Amississip43" taxon="Amississip43" totalcount="20" value="DPA-Y-NYYKIQAGYGLPGYQGMPVMYGAGVGSIFCSLFR-AIPLLKRGLEI--KPHVKNTAQNIAQDVVSQVLDKQGRSGLVI-KKKRPP-KRTK-R"/>
+                    <sequence id="seq_Amississip45" taxon="Amississip45" totalcount="20" value="DPN-Y-NYYNAQAGYGLPGYQGMPMMYGAGVGGIFRSLFR-AVPLLRRGLEI--KPHAKNAAQNI?KDVVS-VLDKQEGSGLMI-QRKR-P-KKK--R"/>
+                    <sequence id="seq_Amississip46" taxon="Amississip46" totalcount="20" value="DPM-Y-NYYKAQAGYGLPGYQWVPVMYRAGVGGIFHSLFR-AVPLLRRGLEI--KPHTKNAVQNIAKDVVSRVLDKQEGSGLVF-QIKRPP-RKK--R"/>
+                    <sequence id="seq_Amississip51" taxon="Amississip51" totalcount="20" value="DPN-Y-NYYKAQAGYGLSGYQGMPVMYGAGMRGTFRSLFR-AIPLLRRGLEI--KPH?KNAA-NIAKDVVSRVLDKQEGSCLII-QRKTPP-?KK--K"/>
+                    <sequence id="seq_Amississip57" taxon="Amississip57" totalcount="20" value="DPN-Y-KYYKAQAGYG---YQWVPVMNGTDVGGIFHSLFR-AILLLRRGLEI--KP?VKNAVQNIARDVSSRVLDKQEGSSVVI-QRKRP?-LKK--T"/>
+                    <sequence id="seq_Amississip58" taxon="Amississip58" totalcount="20" value="DPN-Y-HYYKAQAGYGLPGYQGVPVMYGAGMGGIFCSLFR-AVPLLRRGLEI--KPHAKNAAQNIAKDVIS-VLDKNSGSGLV------AA-Q----R"/>
+                    <sequence id="seq_Amississip59" taxon="Amississip59" totalcount="20" value="DPN-Y-NYYKAPG?-GLPRYQGVPMMYRAGVGGIFCSLFR-AVPFLRRGLEI--KPHAKNTAQNIAKDVIRAVLDKLEGSGLMI-QRNKPP-KKK---"/>
+                    <sequence id="seq_Amississip61" taxon="Amississip61" totalcount="20" value="DPN-Y-NYYKAQAGYSLPRYQGVPVMYRAGVGGIFCSLFR-AIPLLR?GLEI--KPH?KNAVQNIAKDMISQLLDKQEGSSLMI-QRKRPP-KKR--Q"/>
+                    <sequence id="seq_Aocellaris1" taxon="Aocellaris1" totalcount="20" value="DPHRFIRYY-SQAAGSLLRFYGAPVMYGWGIGSLFSKLFCF-MPLVKKGFDI?AKPHLKTAATNIVSDVAYRAAGKQEGAGIMVLSCKRPPGERIK-K"/>
+                    <sequence id="seq_Aocellaris2" taxon="Aocellaris2" totalcount="20" value="DPHRFIRYY-SQAGGSLPGFFGAPVMYGRGIGSLFSKLFRF-VLLVKKGFDI?AKPHLKTAATNIVSDVAQRAAGKQEGGGIMVLSRKHPPSERKK-R"/>
+                    <sequence id="seq_Aocellaris3" taxon="Aocellaris3" totalcount="20" value="DPHRFVSYY-NQVGGTLPGFYGSPVMYGRGIGSIFSKLFRF-VPLVKKGFTIVK?PHLKTAATNIASDVFKHAVGKQEGGGLMVLSRRRPPGQRNK-R"/>
+                    <sequence id="seq_Aocellaris4" taxon="Aocellaris4" totalcount="20" value="DPHRFVSY--NQVGGALPGFYGSPVMCGRDIGSIFSKLFSF-VPLVKNGFAL-AKPHLASAAKNTASDVLSHAIN-QEGGGIMVLARKR-PSHRL---"/>
+                    <sequence id="seq_Aowenii1" taxon="Aowenii1" totalcount="20" value="DQA-Y-IYYR?QTGNGLTGFQGVSVRYGVGLGGIFCSLFR-AALLLKRG?GI--KSHVKSAVQEIAKSVISKV?GKPEGLTLVI-PRDVTS-KVRVE-"/>
+                    <sequence id="seq_Apercula1" taxon="Apercula1" totalcount="20" value="DPHRFIRYY-SQAGGSLPGFFGAPVMYGRGIGSLFSKLFRF-VPLVKKGFDI?AKPHLKTAATNIVSDVAQQAAGKQEGGGIMVLSRKHPPSERKK-R"/>
+                    <sequence id="seq_Apercula2" taxon="Apercula2" totalcount="20" value="DPHRFIRYY-SQAGGSLPGFYRAPVMYGWGIRSLFSKLFRF-VSLVKKGFDI?AKPHLKTAATNIVSDVAQRAAGKQAGGGIMVLSRKRPPGERQK-R"/>
+                    <sequence id="seq_Apercula3" taxon="Apercula3" totalcount="20" value="DPHCFIRYY-SQAAGSLLRFYGAPVMYGWGIGSLFSKLFCF-MPMVKKGFDI?AKPHLKTAATNIVSDVAYRAAGKQEGAGIMVLSRKRPPGERIK-K"/>
+                    <sequence id="seq_Apercula4" taxon="Apercula4" totalcount="20" value="DPHRFVSY--NQVGGALPGFYGSPVMCGRDIGSIFSKLFRF-VPLVKNGFAL-AKPHLASVAKNTASDVLSHAIN-QEGGGIMVLARKR-PSHRS---"/>
+                    <sequence id="seq_Apolyacant1" taxon="Apolyacant1" totalcount="20" value="DPHRFIRYY-SQAGGSLPGFYGAPVMFGRGIASLFSKLFRF-VPLVKKGFD?IAKLHLKTAATNIVSDVAHRAAGKQEGGGIMVLSRKRPPGERKK-S"/>
+                    <sequence id="seq_Apolyacant2" taxon="Apolyacant2" totalcount="20" value="DPHRFIRYY-SQVGGSLPGFYGAPVMYGRGIGSLFSKLFRF-V----KGFDV-AKPHLKTAATNIVSDVAHRAVGKQEGGGIMVLSHNRPPGERKK-K"/>
+                    <sequence id="seq_Arostrata1" taxon="Arostrata1" totalcount="20" value="DPQHYVAYYQNQASGVLPGYAGSTVMYRTGLG----GIFQMAVPLFK?GFK-IAKPHLKTAAKNIVSEVVSNVMTTQGGSGMLVMSRKRPPGRRKKNK"/>
+                    <sequence id="seq_Arostrata2" taxon="Arostrata2" totalcount="20" value="DPHRYVDYYTAQAGNGLPGFSGGSVMYGGSLGGIFRGLFRMALPLLKKGFNI?AKAHLASAAKNIAKDVITNVVSRQAGSGLMVMMRKRPPGR-SRPK"/>
+                    <sequence id="seq_Arostrata3" taxon="Arostrata3" totalcount="20" value="DPQRYVTYYQNQAGGVLLGYAGSTVMYGSGLGGIFHGLFRMAVPLLKKGFN?IAKPHLKTAAKNIVSEVVSNVMTTQGGSGLLVMSRKRPPGRRKKSK"/>
+                    <sequence id="seq_Arostrata4" taxon="Arostrata4" totalcount="20" value="DPHRYIDYYTAQAGNELPGFSGGSIMYGGGLGGIFRGLFRMALLLLKNGFNI?ANPHLASAAKNIAKDVITNVVSRQEGSGLMVMTRKRPPGH-SRPK"/>
+                    <sequence id="seq_Arostrata6" taxon="Arostrata6" totalcount="20" value="DLHRYVDYYMAQAGNGLPGFSGGSVMYGGGFGGIF-GLFRMDLPLLKKGFNI?AKPHLASAAKNIAKDLITNVARRQEGLGLMVMTRKRPPGC-SRPK"/>
+                    <sequence id="seq_Arostrata8" taxon="Arostrata8" totalcount="20" value="EAHRYVT-YQNQAGGVLPRYVGSIVMYGSGLGGIFRRLFRMAVPLLKKGFN-MAKPHLKTAAKNIVSEVVSNIMTTKGGSGLLVMSHKRPPGRRKRNK"/>
+                    <sequence id="seq_Arostrata9" taxon="Arostrata9" totalcount="20" value="NPQYYVAYYENQAGG?FAGYAGSTVMYGSGLGAIFR-LFRMAMLLLKKGFN-IAKPHLKTAAKNIVSEVVSNVMTTQGGSGMLVMTRKRPSGKRKTNK"/>
+                    <sequence id="seq_Arowi1" taxon="Arowi1" totalcount="20" value="DQA-Y-IYYR?QTGNGLTGFQGVSVRYGVGLGGIFCSLFR-AALLLKRG?EI--KSHVKSAVQEIAKSVISKV?GKPEGLTLVI-PRDVPS-KVRVE-"/>
+                    <sequence id="seq_Asinensis12" taxon="Asinensis12" totalcount="20" value="DPA-Y-NYYKTQAGYGLPGYQGMPVMYGAVVGGIFHNLFR-AIRLLKRDHEI--KPHVKNTAQDIARDVISQVLDKQDGSSLVI-KKKS---KGHR-R"/>
+                    <sequence id="seq_Asinensis18" taxon="Asinensis18" totalcount="20" value="NPN-Y-NYYKAQTGYGLPGYRGA?VMYGAGVGGIFCSLFR-AVLLLRRVLGI--KPHAKNAVQTIAKDVVS-VLDKKEGSGLMI-ERKRPP-KKK--R"/>
+                    <sequence id="seq_Asinensis20" taxon="Asinensis20" totalcount="20" value="DPH-Y-NYDKA-VGYGLPGYKGAPVMYGAGVGGIFHSFFR-AILLLRRGLEI--KPHAK----NIAK?LVSQVLDKQEGSGLMI-QRKRPP-KRR--G"/>
+                    <sequence id="seq_Asinensis25" taxon="Asinensis25" totalcount="20" value="DPT-E-NYYKTQAGYGLSSYQ?DALMFGAGVG?IFLSLFR-AVPLLKRGLEI--KPHVKNTAQNIAQDMVSAVMNKQGGSSLMI-KRKRLP-REAK-P"/>
+                    <sequence id="seq_Asinensis29" taxon="Asinensis29" totalcount="20" value="DPT-Y-NYYEAQARSGLPSYQGMLVMYRPGVGGIFCSLFR-AILLFKRGLEI--NPHIKNAAEN?AQDVISQVLNNQDGSGLMI-KRK-MP-KRKK-R"/>
+                    <sequence id="seq_Asinensis30" taxon="Asinensis30" totalcount="20" value="DPN-C-NYYKVQARYGLPGYQGVPMMYGAGVRGIFCSLFR-AV-LFRK?LEI--KPPVK?ATQNIAKDVISQVLGKQEGSGLMF-QRQKS?-KRR--E"/>
+                    <sequence id="seq_Asinensis31" taxon="Asinensis31" totalcount="20" value="EPT-Y-NYYKAQGGYGLPG-KGVPMMYRVGVEGIFHNLFR-AILLLKRGLEI--KPHVKHA-QNIAKDVVSQVLDKQEGSGLMI-K-R-R?-KRKR-N"/>
+                    <sequence id="seq_Asinensis41" taxon="Asinensis41" totalcount="20" value="DSL-Y-NYYKAQSAHGLSSYQGVPIMYGAGVRSIFCSLFR-AILLLKTGLEI--QVNV-NMAQNIAKDIISQVLDKQEESSLMI-PRKRPL-KRK--K"/>
+                    <sequence id="seq_Asinensis42" taxon="Asinensis42" totalcount="20" value="DPN-Y-NYYKAQAEYVLPRYQGVPMMYRAGVGDIFCSLFR-AILLLRRGL----KPHARNAAQNKAKDVVS-ILDKQEGSRLMI-QRQR-D-PKR--R"/>
+                    <sequence id="seq_Asinensis43" taxon="Asinensis43" totalcount="20" value="DPT-Y-NYYTAQVGHGLPSHQGLPMMYRTGIGG?FCSLFR-VV--LKWGMEI--KPYVKNMAQN?GRDVISQLLDKQEGK---L-SGRR-N-KAK--R"/>
+                    <sequence id="seq_Asinensis44" taxon="Asinensis44" totalcount="20" value="DPT-Y-NYYKSQAGHGIP-YKRVPMMYG?GMGSIFHSLFR-AVP-LKKGLD---KPHVKNEAQNIAK-TVS-SLSR?K-SGLVV-ARSE---RRER-I"/>
+                    <sequence id="seq_Asinensis46" taxon="Asinensis46" totalcount="20" value="DMK-Y-NYYALT-GYGLPGHQGVPVMYGAGLGDIFPCLFR-AIPLLRRGLEI--?T-L?NAAQNSRR--LYL---S--GVWSVS-KKKR-P-KRRG-R"/>
+                    <sequence id="seq_Asinensis47" taxon="Asinensis47" totalcount="20" value="DPN-Y-K-YYAQARYGLPGYQGVPVMYRAGVRDIFRSLFR-AI-LLR-GLEI--KPHAKNVVQNIAKDVVS-VLDKQEG--------K--V-VE----"/>
+                    <sequence id="seq_Asinensis49" taxon="Asinensis49" totalcount="20" value="QPK-W-NYYKAQAWYSLSRYQSVPVMYGAIVGSIFCSLFR-AIPFLRRGLEI--KPYSKNVAQN?AKDMIL?VLDKQEGSRLMI-QRKRHP-LGDAS-"/>
+                    <sequence id="seq_Asinensis57" taxon="Asinensis57" totalcount="20" value="DPN-Y-HYYKAQAGYGLPGYQGVPVMYGAGVGGIFCSLFR-AVPLLRRGLEF--KPHAKNAAQNIAKDVISRVLDK-EGSDLMI-QRKRPP-KKK--R"/>
+                    <sequence id="seq_Asinensis59" taxon="Asinensis59" totalcount="20" value="DPN-Y-NYYKAQVGYGLPGYHGVPMMYGAGVGGIFRSLFR-AVPLVRRGLEI--KPHAKNAAQNIAKDVIS?VLDKQEGSGLKI-QRKRPP-KKK--K"/>
+                    <sequence id="seq_Asinensis60" taxon="Asinensis60" totalcount="20" value="DPA-Y-NYYKTQAGYGLSSYQGMPVMYGAGVRGIFRSLFR-AIPLLKRGLEI--KPHVKNANQNIAQDVVSQVLDEQGRSGFVI-KKKRPP-KRTK-R"/>
+                    <sequence id="seq_Asinensis62" taxon="Asinensis62" totalcount="20" value="DPN-Y-NYYKAQAGYSLPGYQGVPVIYRAGVGGIFCSLFR-AIPLLRKGLEI--KPH?KNAAQNIAKDVVSRVLDKQEGSGLVI-QRKRPS--KK--R"/>
+                    <sequence id="seq_Asinensis63" taxon="Asinensis63" totalcount="20" value="DPN-Y-NYYKAQARYGLPGYQGVPVTYGAGVVGIFRILFR-AVLLLRRGLEI--KPHAKNAAQNTAKDVVS-VLDKQEGSGFVI-QRKIPT-KKK--R"/>
+                    <sequence id="seq_Asinensis67" taxon="Asinensis67" totalcount="20" value="DPM-Y-NYYKAQAGYGLPGYQWVPVMYRAGVGGIFHSLFR-AVPLLRRGLEI--KPHAKNAVQNIAKDVVSRVLDKQEGSSLVI-QIKRPP-KKK--R"/>
+                    <sequence id="seq_Asinensis69" taxon="Asinensis69" totalcount="20" value="DPN-Y-NYYKAQAEYGLPRYQGVPMMY------?FRSLFR-AIPLLRGGLEI--KPHAKNVAQNIAKDVISRVLDKQEGSGLMI-QRKTPP-KKK--K"/>
+                    <sequence id="seq_Asinensis70" taxon="Asinensis70" totalcount="20" value="DPN-Y-KYYRDQAGYG---YQWVPVMYGTDVGGIFHSLFR-AILLLRRGLEI--KP?VKNAVQNIARDVSSRVLDKQEGSSLVI-QRKRLM-QKK--T"/>
+                    <sequence id="seq_Asinensis71" taxon="Asinensis71" totalcount="20" value="DPN-Y-SYYKPQAGYGLPRYQGVPVMYRAGVGGIFCSLFR-AILLLRRG?EI--KLHSKNAVQNIAKDMISQLLDKQEGSSLMI-QRKRPP-KRR--Q"/>
+                    <sequence id="seq_Asinensis72" taxon="Asinensis72" totalcount="20" value="DPN-Y-NYYKAQTGYGLPRYWGA?VMYGAVVGGIFHSLFR-AIPLLRRGLEI--KPHAKNAVQNIAKDVVS-GLDKQEGFSLMI--QRELP-KRR--R"/>
+                    <sequence id="seq_Asinensis73" taxon="Asinensis73" totalcount="20" value="DPS-Y-NYYKA?AG-GLPRYQGVPMMYRAGVGGIFCSLFR-AVPFLRRGLEI--KPHAKNTAQNIAKDVISRVLDKLEGFGLMI-QRNKPP-KKK--S"/>
+                    <sequence id="seq_Astriatus1" taxon="Astriatus1" totalcount="20" value="SSQRLVNYY-NRTGAGLGGFVGAPVVYGRGLSAVLSRAFRF-VPFLKQGVN?IVKPHLKSAAKGIAADVV-GTVNRQEGSGLPRIASTRVS-------"/>
+                    <sequence id="seq_Atestudine20" taxon="Atestudine20" totalcount="20" value="DPQRFVSYY-NQV-GGLAGFHGAPVMYGRGIGSIFSKLFRF-VPFLKKGVSVV?KPHLRTAAKNIASDVLSKAVHRQEGSGLMILSRKRPPGERKK?-"/>
+                    <sequence id="seq_Atestudine26" taxon="Atestudine26" totalcount="20" value="-GEKGLSSY-NQVGGGLPGFHGAPVIYGRGIG-IFSELFR?-VPFLKKGVSIV-KPHLTSAANNIASDMLTKAVQQQEGSGVMVLSRKQPPGQPKSL-"/>
+                    <sequence id="seq_Atestudine3" taxon="Atestudine3" totalcount="20" value="DPHRFVSYY-NQVGGGLAGFHGAPVMYGRGIGSIFSKLFRF-VPFLKKGVSV?VKPHLASAAKNIASDLLTNAVQRQEGSGIMVLSRKHPPGERKKE-"/>
+                    <sequence id="seq_Atestudine6" taxon="Atestudine6" totalcount="20" value="DPHRFVSYY-NQVGGGLAGFHGAPVMYGRGIGSIFSKLFRF-VPFLKKGVSV?VKPHLASAAKNIASDLLTNAVQRQEGSGIMVLSRKHPPGERKKE-"/>
+                    <sequence id="seq_Bglaciale1" taxon="Bglaciale1" totalcount="20" value="D-NRYMTYYMNQAG-SLPSF-GGHLQYGSGLGGIFRNLFRFALPLLKRGFNI?AKPHLKTAAKNIAGDVITRVVARQEGSGLMVYNRKRPP-RRK---"/>
+                    <sequence id="seq_Bsplendens1" taxon="Bsplendens1" totalcount="20" value="NVDKYISYYTSQAGRDSPGYSGVSSQYGAGLRGIF-GLFRMAFPLLKKGLHIAA-PPLQSAARNIDSDVVTNVTT-?EGSRM-MMAR--PA--KEKAQ"/>
+                    <sequence id="seq_Bsplendens2" taxon="Bsplendens2" totalcount="20" value="DPYRFVSYY-DQVGSGLSGFAGAPAQYGRGLGSMFSKLFRF-VPLVKSGFRV?AKPHLATAAKNIASDVVRKAVRRQEGSGIMVLARKRPPGQRKR--"/>
+                    <sequence id="seq_Bsplendens6" taxon="Bsplendens6" totalcount="20" value="----YVEIK-NQ---------NNPVKFAYG----NAQCFRF-VPLVKRGFSV-AKPHLAAATKNIATNAMRKAVRRQEGSGIMVLARKRPPG?RKR--"/>
+                    <sequence id="seq_Bsplendens8" taxon="Bsplendens8" totalcount="20" value="-------Y--KQTNKWL-GISGAPAQYYRGIGSMFSRLLRF-VPLVKKGFS?VAKPHLTAAAKNIATDDMSKAVSRPEGSGIMLLS-KEPTG--KKTR"/>
+                    <sequence id="seq_Cacus1" taxon="Cacus1" totalcount="20" value="DPSRFVSYY-NQVGGALPGFAGAPMMYVRGIGSIFSKLFCF-V-LLKSGFAV?AKPHLKMAASNIAADAAKRVIGKREGGGVLVLSRKRLPGSRSK--"/>
+                    <sequence id="seq_Cacus2" taxon="Cacus2" totalcount="20" value="-PSRFVSYC-NQVGGAQPGFAGALMMYGRGIGSILSKLFCF-V-FLKSGFAM-AKPHLKTAASNIAADMAKRMMGKQEGGGVLVLSRKHPPGSRSK--"/>
+                    <sequence id="seq_Cauratus1" taxon="Cauratus1" totalcount="20" value="DPERYVAYYQNQAGNGLPGYAGGGVMYGMGLGGLFRGLFRMAIPLLKRGFS?IARPHLKSAAKNILSDVVSNTLTHQDGSGLMVMSRK-PPGRRK?RK"/>
+                    <sequence id="seq_Cauratus10" taxon="Cauratus10" totalcount="20" value="ETADYVSYYRNQAGGDLPGYAGGGVMYGAGLGGLFRGLFRMAVPLLKRGFSIA?KPHLKSAAKNIVSDVVSNVLTRQDGSGLMVMARK-PPGRRGTT?"/>
+                    <sequence id="seq_Cauratus18" taxon="Cauratus18" totalcount="20" value="DPERYVTYYRNQASNGLPRYTGGPVMYGAGIGGIFKSLFRTALPLLKRGFS?MVKPHLKTAARNIASDVVTSTLSRQNGNGLMVMSRK-PPGCLKKAK"/>
+                    <sequence id="seq_Cauratus19" taxon="Cauratus19" totalcount="20" value="DPERYVAYY?NQAGNGLPVMAGGGVMYGMGLGGLFRG?FRMAIPLLKRGFS-IARPHLKS?AKNNTKPMLSNTLTHQDGSGLM?MSRR-PPGRRK-RK"/>
+                    <sequence id="seq_Cauratus22" taxon="Cauratus22" totalcount="20" value="DPERYVTYYRNQAGNGLPGYADGPVMYGAGIGCIFKSLFRTALLLLKRDFSIV?KPHIKTAARNIASDVVTSALSRQNGNGLMVMSR--PPGHLKNAK"/>
+                    <sequence id="seq_Cauratus24" taxon="Cauratus24" totalcount="20" value="DPERYVTYYRNQAGNGLPGYAGGPVVYGAGIGGIFKSLFRTALPLLKRGFSIV?KPHLKTAARNIACDVVTSALSRPDGSGLIYMRR--PR----RSR"/>
+                    <sequence id="seq_Cauratus25" taxon="Cauratus25" totalcount="20" value="D---YVNYY?GD-G---PYAWG--VIY-AGLGELFRGLFRLAIQLLKR-FSI-AK-QLKLATKNIGTDIFSNVMSRQDGSGFT--RRK-----KKKRK"/>
+                    <sequence id="seq_Cauratus27" taxon="Cauratus27" totalcount="20" value="DPERHVTYYQNQV-NGFPGYAGGPVL-GS-IG-IFRSLFR-TLPLLKRGFSIM---Y------NL-S-IMTN--NK--GNGLMVMSRRRPP-KRKS--"/>
+                    <sequence id="seq_Cauratus28" taxon="Cauratus28" totalcount="20" value="DPHKHL--Y---AGKNL-GF-G--S-YSAGL-SIFRAVNRM-I?LLKRGLSIV-KPHLKTAARNITSDVVS-ALSRNNGNGLMM-SRK-PPGRRKASR"/>
+                    <sequence id="seq_Cauratus29" taxon="Cauratus29" totalcount="20" value="K-NKMI-YYKSQA-TG--GYHF--V-RG-GFGRPVQGS------L-KHGFSI?TR-HLKSAAKNILSDAVSNTLNKQTNTG-MVVSSKRPPGRRKK-R"/>
+                    <sequence id="seq_Cauratus30" taxon="Cauratus30" totalcount="20" value="DPERYVTYYRNQAGNGLPGYAGGPVMYGAGIGGIFKALFRTALPLLKRGFSIV?KPHLKTAARNIASDVVTSALSRQNGHGLMVMSRK-PPGRLKKAK"/>
+                    <sequence id="seq_Cauratus42" taxon="Cauratus42" totalcount="20" value="DPERYVAYYQNQAGNGLPGYAGGGVMYGMGLGGLFRGLFRMAIPLLKRGFS?IARPHLKSAAKNILSDVVSNTLTHQDGSGLMVMSRR-PPGRRK?RK"/>
+                    <sequence id="seq_Cauratus5" taxon="Cauratus5" totalcount="20" value="ETADYVSYYRNQAGGDLPGYAGGGVMYGAGLGGLFRGLFRMAVPLLKRGFSIA?KPHLKSAAKNIVSDVVSNVLTRQDGSGLMVMARK-PPGRRGTT?"/>
+                    <sequence id="seq_Cauratus51" taxon="Cauratus51" totalcount="20" value="ETAEYVSYHRNQAGGDLPGYAGGGVMYYAGLGGLFRGLFRMAIPLLKRGFSIT?KPHLKSATKKIVSDIISNVLTQQDGSGLMVMARK-PPGRRGTT?"/>
+                    <sequence id="seq_Ccarpio10" taxon="Ccarpio10" totalcount="20" value="DPELYVAYYQNQAGNGLPGYAGGGVMYRAGLGGFFRGLFRMAIPLLKRGFS?IARPHLISAAKNILSDV-SNTLTHQGGSGLMVMSRR-PPERRKR?K"/>
+                    <sequence id="seq_Ccarpio14" taxon="Ccarpio14" totalcount="20" value="ETADYVSYYRNQAGEDLPGDAGGGVMYGAGLGGLFRGLFRMAIP-LKRGFSIA?KPHLKSAAKNIVSNVVSNVLTRQDGSSLTVMARK-PPGRRGTT?"/>
+                    <sequence id="seq_Ccarpio17" taxon="Ccarpio17" totalcount="20" value="NPERYVKYYRNQAGNGLPGYAGGPVMYGAGIGGIFKSLFRTALPLLKRGFSIV?KPHLKTAARNIASDVVTSALSRQNGNGLMVMSRK-PPGRLKKAK"/>
+                    <sequence id="seq_Ccarpio18" taxon="Ccarpio18" totalcount="20" value="DPECYVPYYQNQAGNGLPGYAG?GVMYGMGLGGLFRG?FRMAVPLLKRGFS-IARPHLKSAAKNMLSDVVSNTLTHQDGSGLMVMSRR?PPGRSK-?K"/>
+                    <sequence id="seq_Ccarpio21" taxon="Ccarpio21" totalcount="20" value="DPERYVTYYRNQAGNGLPWYAGGPVMYGSGI?GHFRSLFRTALPLLKRGFSI-VKPHLKTAASYIASDVVTSALSRQNGNGFMVMSRK-PPGRLKKAK"/>
+                    <sequence id="seq_Ccarpio22" taxon="Ccarpio22" totalcount="20" value="DPERYVTYYRNQAGNGLPGYAGGPVMYGSGIGGIFRS?FRTALPLLKRGFSI-AKPHLKTAARNIASDVVTRALSRQNGNGLMVMSQK-PPG-LKKAK"/>
+                    <sequence id="seq_Ccarpio24" taxon="Ccarpio24" totalcount="20" value="ETANYVSYYRNQAGGDLSGYAGGGVMYRAGLGGLFRGLFRMAIPLLKRGFSIA?KPHLKSAAKNIVSDVVSKRIDAQDGSGLMVMARK-?RGRR----"/>
+                    <sequence id="seq_Ccarpio26" taxon="Ccarpio26" totalcount="20" value="--D-YIDYYRNQARGRLPIYAGGAVMYGARLGGLFRGLFRMAVPLLK-GFN?IAKPHLKAADHH---QKLFNIQCPQKGSGFYIRYM----GKKKR-K"/>
+                    <sequence id="seq_Ccarpio4" taxon="Ccarpio4" totalcount="20" value="NVADYIDYYRNQAGGGLPGYAGGAVMYGAGLGELFRGLFRMAVPLLKKGFN?IAKPHLKAAAKNIVSDVVSNAMSRQDGTGLMVMARK-PPGRRKKTK"/>
+                    <sequence id="seq_Ccarpio6" taxon="Ccarpio6" totalcount="20" value="NVADYIDYYRNQAGGGLPG?L?GAVMYRASLGGLFRGLFRMAVPLLKKGFS-IAKPHLKAAAKNIVSDVVSNAMTRQDGSSLMVMARK-PPGRRKKTK"/>
+                    <sequence id="seq_Ccarpio8" taxon="Ccarpio8" totalcount="20" value="DPERYVTYYQNQAGNGIPGYAGGGVMYGAGVGGIFRGLFRMAIPLLKRGF?NIAKPHLRSAAKNILSDVVSNTLTRQDGSGLMVMSRR-PPGRRKKRR"/>
+                    <sequence id="seq_Ccasuarius1" taxon="Ccasuarius1" totalcount="20" value="DPA-Y-KYYRAQASYGLPGFQGIPVMYGAGVGGIFCSLFR-AAPLLKRRSEI--KPHIKSTTQDIAKNVVSKFLDKQEGLGLVI-QRRAPP-------"/>
+                    <sequence id="seq_Ccasuarius5" taxon="Ccasuarius5" totalcount="20" value="--------Y?AQSSNRIPGFQGAPVTYGVGIGSIFGSLFG-ALPVFQRGLEI--KLHIKSTSQDIAKNVISKVPDKRKGSGLVI-QRKRPP-KRRMGR"/>
+                    <sequence id="seq_Ccasuarius6" taxon="Ccasuarius6" totalcount="20" value="DPS-Y-NYDRTQASNSLPSFQGIPVMYG--VGGKSHSLFR-VILLLKQCLEI--KPYVKSATQD?WKNMVSKALDMQEGSGFAI-QRKRPL-KRRMGT"/>
+                    <sequence id="seq_Ccasuarius7" taxon="Ccasuarius7" totalcount="20" value="--------YNTCSGLGLDGVCGEMRQLNQGGGGVFNCLFR-TVLLLKRGLE?--MTHIKSAGRDFAKNLVSKVSDKQEGSGLAI-QRKGSP-RSRKGR"/>
+                    <sequence id="seq_Ccasuarius8" taxon="Ccasuarius8" totalcount="20" value="--------YRAQAGNGLPGFQGVPVMYGAGIGGICHSLFG-AVPLLKRALEI--KPHVKSAAQDIVKNVVSKILNKQQGLGLVI-QRKSNP-QKKQ--"/>
+                    <sequence id="seq_Charengus1" taxon="Charengus1" totalcount="20" value="DPQRYVAYYHNQAGGFMPGFTGGTTMYGAGLGGLFRGLFRMAMPLLRKGIGI?AKPHLKAAAKNIVGDVISRVVNHQAGSGMLVMSRKRPPGRRKRGK"/>
+                    <sequence id="seq_Charengus4" taxon="Charengus4" totalcount="20" value="-------------------LNGASSMYGAGLGGLFRGLFRMAMPLLKKGIGI-AKPHLKAAAKNIVSDVISKVVNHQGGSGMLVMSRKRPPGRRKKGK"/>
+                    <sequence id="seq_Cmydas10" taxon="Cmydas10" totalcount="20" value="DPT---NYYKAQAGYTLPAYPGAPMMYGTGVGGIFHSLFR-AIPLLRRGLEV--KPHVKTAAQNIAKDMVSRVLEKQEVSGLMI-KRKRSP-KRRATH"/>
+                    <sequence id="seq_Cmydas13" taxon="Cmydas13" totalcount="20" value="DPT-Y-NYYKTQAGYALPGYHGASMMYGAGVGRIFHSLFQ-AIPLLRRELGI--KPHVKNAPQNIV-?V----LEKQERSGLMI-KRKRPP-KRRATR"/>
+                    <sequence id="seq_Cmydas14" taxon="Cmydas14" totalcount="20" value="D---HAAYFK?QSS------TG--T--GAG-GG-FSS----SVPLLNEGL-VT-E--VK-A--NVAS-VFT---NK-EGS-L-IL-RRRPPG-RQ--R"/>
+                    <sequence id="seq_Cmydas15" taxon="Cmydas15" totalcount="20" value="DPF-Y-NYYKAQAGYSLPGYQGLPVMYGAGLGGIFHNLFRMK?PLLKRDFEI--KPHMKTAAKNITRDVMFSVINKAHATGYFK-TRLS-P-RRK?VK"/>
+                    <sequence id="seq_Cmydas16" taxon="Cmydas16" totalcount="20" value="DPT-Y-NDDKAQAGYALPGYHG?PAMYGAHMGGIFHSV-S-AILLLRRGLEI--KPHVKTAVQNIVNHFV---LQKQEGLGLMI-KRKR-G-KRKS-K"/>
+                    <sequence id="seq_Cmydas18" taxon="Cmydas18" totalcount="20" value="DPT-Y-NYYKAQAEYTLPGYHGAPTIYGAGVGGIFHSLFK-AIPLLRRGLEI--K-?VKTAFQNI--DIIS-ALGK-EGSGLMI-KRQK-P-KTSV-R"/>
+                    <sequence id="seq_Cmydas19" taxon="Cmydas19" totalcount="20" value="DST-Y-NYYK?QTGYALPRYHGDPVMF?GGMGGIFHSLF--AIQVWRKWLEI--KSHLKTATQNIAREVIS-VLEKQEGSGLMI-KRKR----IKL--"/>
+                    <sequence id="seq_Cmydas2" taxon="Cmydas2" totalcount="20" value="DPN-Y-NYYKAQAGYALPGYHGAPVMYGAGGGEIFRSLFQ-AVPLLRRG?EI--KPHVKTAAQNIAKDVVSCVLEKQEGLGLMI-KRKRPP-KRRATC"/>
+                    <sequence id="seq_Cmydas6" taxon="Cmydas6" totalcount="20" value="D-L-C-NYYKAQAGYSLPGFQGLPVTYRAGLGGIFCSLFR-AMLLLRSGFEI--KPHMKTATKNITREVVSSIINKQEGSGLVM-MRKRPP-?KKKAR"/>
+                    <sequence id="seq_Cmydas7" taxon="Cmydas7" totalcount="20" value="DPT-Y-NYYKAQSGYALPGYHEAPMMYGAGMGGIFRSLFR-AIPLF?RGLEI--KP-------------VSRVLEKQEGSGLMI-KRKR-----RAMC"/>
+                    <sequence id="seq_Cpicta10" taxon="Cpicta10" totalcount="20" value="DPT-Y-NYYKAQAGYALPGYHG?GV-YEAGVGGIFCSLFR-AVPLLRRGLEI--KPHVKTTPQNIAKDVVSHVLEKQEGSGLMI-KRKRPP-KSRATR"/>
+                    <sequence id="seq_Cpicta13" taxon="Cpicta13" totalcount="20" value="DPT-Y-NYYKAQAGYALSGYHG?PVMYGAGVGGIFHSLFR-AVPLLRRGLEI--KPHIKTAAQNIAKDVVSCVLEKQERSGLMI-KRKRPP-K-?ATR"/>
+                    <sequence id="seq_Cpicta16" taxon="Cpicta16" totalcount="20" value="DPS---------SGSVPP?YHGAPVMYGAGVGGIFRSLFQ-AVPLLRRGLEIIAKPSVKTAAQNIAKDVVSRVLEKQEGSGRMI-KRKRPP-KRRATR"/>
+                    <sequence id="seq_Cpicta19" taxon="Cpicta19" totalcount="20" value="GPT-E-NY---------------------SMGGIFRSLFR-AVPILRRGLEI--KPHIKTAAQNIARDVISRVLEKQEESGLMI-KRKRSQ-RHRQQ-"/>
+                    <sequence id="seq_Cpicta20" taxon="Cpicta20" totalcount="20" value="TP--Y-NYYKVQAGYALPG-HGAPVMYGAGMGGIFHSRLQ-AIPLLRRGLEI--KPYVKNAAQNIAP-----VLEKQEGLGLMI-KSKR-----PPT-"/>
+                    <sequence id="seq_Cpicta23" taxon="Cpicta23" totalcount="20" value="AQT-E-EHYKAQAGYTLPGYHGVPVMYGAGVGGIFRSLFR-AVPLLRRGLEI--KPHVKTAAQNIAKDVVSCVLEKQEGSGLMI-KRKR-P-RRRA--"/>
+                    <sequence id="seq_Cpicta26" taxon="Cpicta26" totalcount="20" value="DPF-Y-NYYKAQAGYGLLGYQGLPVMYGASLGGIFHSLFR-AVPLLRWGFKI--KPHMKTATKNITRDVMSSVINKQEGSGLVL-MRKR---------"/>
+                    <sequence id="seq_Cpicta27" taxon="Cpicta27" totalcount="20" value="?PT-Y-NYYKAQVGFALPGYHGAPVMYGAGVGGIFRSLFR-AVLLLRRRLEI--KPHVKTAAQNIAKDMVSRVLEKQEGSGLMI-KRKRPP-KRRATR"/>
+                    <sequence id="seq_Cpicta3" taxon="Cpicta3" totalcount="20" value="DPT-Y-NYYKTQAGHALPGYHGAPVMYGAGVGGIFRSFFQ-AVPLLRRGLEI--KPHVKTATQNIAKDVVSRVLKKQEGSGLMI-KRKRPP-KRRATR"/>
+                    <sequence id="seq_Cpicta30" taxon="Cpicta30" totalcount="20" value="?PT-Y-NYYKAQAGYALPGYHGAPMMYGAGVGGIFRSLF--AVPLLRRGLEI--KPHVKTAAQNIAKDVVSRVLEKQEGSGLMI-KRKRTE--SVSRH"/>
+                    <sequence id="seq_Cpicta33" taxon="Cpicta33" totalcount="20" value="DPT-Y-NYYKDQAVYTLPGYHGAPMLYGAGVGGIFRSLFR-AIPLLRRGLEI--KPHIKTAAQNIAKDVVSRVLEKQEGS--------QSP--?KKGR"/>
+                    <sequence id="seq_Cpicta39" taxon="Cpicta39" totalcount="20" value="DPI-----YKAQAGHTLPGYHAG?VMYGAGVDGIFRSLFQ-AVPLLRRGLEI--KPHVKTA?KH-----V---LEKQERSGLMI-GRKR-P-PQER-R"/>
+                    <sequence id="seq_Cpicta4" taxon="Cpicta4" totalcount="20" value="DPT-Y-NYYKAQAGYALPGYHGAPVMYGAGVGGIFRSFFR-AVPLLRRGLEI--KPHVKTAAQNIAKDVVSWVLEKQEGSGLMI-KRKRPP-KRRATH"/>
+                    <sequence id="seq_Cpicta40" taxon="Cpicta40" totalcount="20" value="HPT-Y-NCYKTQAGYALHGYHEPPIIYGAGLGRIFHSLFQ-AVPLLRRGLEM--KLHIKTATQNI----VS-WCSGQKGSGLML-KRKK-T-RRKR-R"/>
+                    <sequence id="seq_Cpicta7" taxon="Cpicta7" totalcount="20" value="NPT-Y-NYYKVQAGYTLPGYHGAPVMYGADVGGIFRSLFR-AVPLLRRGLEI--KPHVKTAAQNIAKDVVSRVLEKQEGSGLMI-KRKRPP-KRRATH"/>
+                    <sequence id="seq_Cpicta8" taxon="Cpicta8" totalcount="20" value="DPT-Y-NYYKAQAGYALPGYHGVPVMYGAGVGGIFHSLFR-AVSLLRRGLEI--KPHVKTAAQNIAKDVVSRVLEKQEGSGLMI-KRKKPP-KRRATR"/>
+                    <sequence id="seq_Cpicta9" taxon="Cpicta9" totalcount="20" value="DST-Y-NYYKAQAGYALPGYHEAPVMYGAGVGGICHSLFR-AVPLLRRGLEI--KP?VKTAVQNIAKDVVSRVLEKQEGSGLMI-KRKRPP-KRRATR"/>
+                    <sequence id="seq_Cporosus10" taxon="Cporosus10" totalcount="20" value="DRA-Y-NYYKAQAGYGLPGDQGMPMMYGAGVGAIFHSLCR-AIPLLKRGLE?--KPHVKNAAQNIAQDVVSQVLDKQGRSGLVI-KNKRLP-KRKK-R"/>
+                    <sequence id="seq_Cporosus19" taxon="Cporosus19" totalcount="20" value="DPN-Y-NYYKAQDGYGLPG-YGVPVMYGAGVGGIFRSLFR-AVPLLRWSLEI--KPHAKNAAQNIAKDVVSQVLDKQEGSGLLI-QIKRPP-KNK--R"/>
+                    <sequence id="seq_Cporosus22" taxon="Cporosus22" totalcount="20" value="DPN-Y-NCYKAQARYGLPRYQGVPVMYRAGVGGIFRSLFR-AVLLLRRGLEI--KPYAKNAAQNIAKDVVSRVLGKQKGSSLVI-KQKRPP--KK--K"/>
+                    <sequence id="seq_Cporosus25" taxon="Cporosus25" totalcount="20" value="DPN-Y-NYYKAWAGFGLPGYHGVPVLYRAGVGSTFCSLFR-SIPLLRSRLEM--KHHTK?AVQNIAKDVVSQVLDKQEGSSLMI-QRKRPP-KKR--A"/>
+                    <sequence id="seq_Cporosus26" taxon="Cporosus26" totalcount="20" value="NPN-Y-NYYKVQARSGLPRYQGVPMMYGAGVGDIFCSLFR-VILLLRRGLEI--KPHARNAAQNIAKDVVS-VLDKQEGSSLII-QRKRMP-SPD---"/>
+                    <sequence id="seq_Cporosus31" taxon="Cporosus31" totalcount="20" value="DPT-Y-TYYKVQGWYGIPDYQVRPMMYRDGVGE------H-PLPLLKRVLEI--KPHIKNVAQNIAKDVISQVLDKKEKSSLMI-KRKRLP-K?R---"/>
+                    <sequence id="seq_Cporosus32" taxon="Cporosus32" totalcount="20" value="DTK-Y-NYYASA-GYGLPGYQGVPVMYRVGLGGIFPCLFR-AIPLLRRGLEV--ESHTNNAVQN?AKDVISR------GSGLVI-?KKR-P-KRRG--"/>
+                    <sequence id="seq_Cporosus38" taxon="Cporosus38" totalcount="20" value="------------AEHGLPKHQGVPMIYGTGMGGIFHSLFR-AIPLLKRGLEI--KPH?KHVAQNITKDVVSQVLDKQRGS-WL----RN---KFKR-R"/>
+                    <sequence id="seq_Cporosus52" taxon="Cporosus52" totalcount="20" value="DPN-Y-NYYKAQAGCGLPGYQGVPVMYRAGVGGIFHSLFR-AVPLLRKGLEI--KPHTKNEAKNISIDVVS-VLDKQEGSSLMI-QRKRPP-K-----"/>
+                    <sequence id="seq_Cporosus56" taxon="Cporosus56" totalcount="20" value="DPN-Y-NYYKA-AGYGLPEYQGVPMMYGAGVGSIFCSLFR-AVPFLRRGLEI--KPHSKNTAQNIAKDVVSRVLDKQEWSSLMV-QRKRPT-KKK--R"/>
+                    <sequence id="seq_Cporosus66" taxon="Cporosus66" totalcount="20" value="EPN-Y-NYYKAQAGYSLPRYQGVPMMYGDGMG?I--------------------KLHAKNAAQNIAKDVVSQVLDKQEGSGLMV-QRKRPP-KKK--R"/>
+                    <sequence id="seq_Cporosus67" taxon="Cporosus67" totalcount="20" value="DPT-Y-NYYETQARYGLPSYQGMPVMYRAGV?GIFCSLFK-AILLFK-GLEI--KPHIKNAAEN?AQDVVSQVQNKYDGSSLMI-KRKI-P-KRKK-R"/>
+                    <sequence id="seq_Csemilaevi1" taxon="Csemilaevi1" totalcount="20" value="DPHRFVHYY-SQVGRDLPGFHGAPVMYGSGIGSLFSKLFRF-VPLVKKGVTL?AKPHLKAAASNITSDVFSHVMSRHEEGGIMVLSRKRPPGVRNK-P"/>
+                    <sequence id="seq_Csemilaevi2" taxon="Csemilaevi2" totalcount="20" value="DPHCFVHYY-SQVGR?LPGFHGAPVLYGCGIG?LFSKLFRF-VPLVKKSFTL-AKPHLEAAASNIASDVFSHVMSRQEGGGIMVLS?KRTPGVRNK-P"/>
+                    <sequence id="seq_Cvariegatu2" taxon="Cvariegatu2" totalcount="20" value="DPHRFIHYY-NQVGGNLGGFSGAPVL-GRGIGTIFSRLFR?-CPLFKSGFSI-AKPHLKRAVSGIASDVIGKAMKKQNSSGLMLLSRKRPPGERNK--"/>
+                    <sequence id="seq_Cvariegatu3" taxon="Cvariegatu3" totalcount="20" value="DPHRFIHYY-NQVGGDLGGFSGAPVLYGRGIGAIFSRLFRF-VPLFKSGFSI?AKPHLKRAASGIASDVIGKAMKTQDGSGLMLLS-KRPPGEHRK--"/>
+                    <sequence id="seq_Cviridis2" taxon="Cviridis2" totalcount="20" value="NPQ-Y-AYYRAQAGGGLPGFRGAPIMYGTGLG?LFRGLFQ-AMPFLRRGLEI--KPHVKSAAKNIVRDVVSQIVERQDGSG-LI---KNPP--KKRVK"/>
+                    <sequence id="seq_Cviridis3" taxon="Cviridis3" totalcount="20" value="SPQ-Y-AYYRAQVGGGLPGFQGAPIMYGTGLGSLFCGHF--AMPFLRRGLEI--KPHVKSAAKNIARDVVSQVVERQDGSG-LI---KNPP-KKRRVK"/>
+                    <sequence id="seq_Cviridis5" taxon="Cviridis5" totalcount="20" value="NPQ-Y-AYYKAQAVGGLPGFQGASIMYGTGLGGLFHGLFR-AMPFLRGGLEI--KPHVKSAAKNIVRDIVSQVVERQDGSG-LI---KNLP-KKRRVK"/>
+                    <sequence id="seq_Ddracula12" taxon="Ddracula12" totalcount="20" value="NAGEYIDYYRNQAGGGLSGFRGVPVLYGNGLGGLFKNLFRIAMPIFKRGF?NIAKPHLKSAAKNIVTDVVTDVLTRQAGSGLMVMSRK-PPRTE?EKE"/>
+                    <sequence id="seq_Ddracula14" taxon="Ddracula14" totalcount="20" value="NAGEYIDYYRNQAGGGLSGFQGVPVLYGKGLGGLFKNLFRIAMPILKRGF-------?NI?AKNIVTDVVTNVLTRQAG-GLMVMSRK-PP?RR-KKK"/>
+                    <sequence id="seq_Ddracula2" taxon="Ddracula2" totalcount="20" value="NAGEYIDYYRNQAGGGLSGFRGVPVLYGNGLGGLFKNLFRIAMPILKRGF?NIAKPHLKSAAKNIVTDVVTNVLTRQAGSGLMVMSRK-PPGRR?KKK"/>
+                    <sequence id="seq_Drerio1" taxon="Drerio1" totalcount="20" value="DAERYVSYYQNQAGNGLPGYAGGGVMYGAGLGGIFRGLFRMAIPLLKRGFS?IAKPHLKSAAKNILTDVVSNTLSRQDGSGLMVMARK-PPGRRKR?K"/>
+                    <sequence id="seq_Drerio15" taxon="Drerio15" totalcount="20" value="EISDYVNYYQNQAGGGLPGYAGGGVMYGSGLGGLFRGLFRMAVPLIKKGFN?IAKPHLKSAAKNIASDVISNVLSRQDGSGLMVMARK-PPGRRKPT-"/>
+                    <sequence id="seq_Drerio18" taxon="Drerio18" totalcount="20" value="EISDYVNYYQNQAGGGLPGYAGGGVMYGSGLGVLFRGLFRMAVPLLKKGFN?IAKPHLKSAAKNIASDVI-NVLSRQDGSGLMVMARK-PPGRRKRN-"/>
+                    <sequence id="seq_Drerio19" taxon="Drerio19" totalcount="20" value="EINDYVNYYQNQAGGGLPGYAGGAVMYGSGLGGLFRGLFRMAVPLLKTGFN?IAKPHLKTAAKN?ASDFISNMLSRQDGSGLMVMARK-PPGRRKRA-"/>
+                    <sequence id="seq_Drerio2" taxon="Drerio2" totalcount="20" value="DAERYVSYYQNQAGNGLPGYAGGGVMYGAGLGGIFRGLFRMAIPLLKRGFS?IAKPHLKSAAKNILTDVVSNTLSRQDGSGLMVMARK-PPGRRKR?K"/>
+                    <sequence id="seq_Drerio21" taxon="Drerio21" totalcount="20" value="DPGRYVSYYQNQAGNGMPGYAGGPIMYGAGLGGIFRSLFRAALPLLKRGFS?IAKPHLKTAAKGIVSDVVTTALTKQNGNGLMVMTRK-PPGRRKKKR"/>
+                    <sequence id="seq_Drerio7" taxon="Drerio7" totalcount="20" value="EISDYVNYYQNQAGGGLPGYAGGGVMYGSGLGGLFRGLFRMAVPLLKKGFN?IAKPHLKTAAKNIASEVISNVISRQDGSGLMVMARK-PPGRRKRT-"/>
+                    <sequence id="seq_Drerio9" taxon="Drerio9" totalcount="20" value="DPGRYVSYYQNQAGNGMPGYAGGPIMYGAGLGGIFRSLFRAALPLLKRGFS?IAKPHLKTAAKGIVSDVVTTALTKQNGNGLMVMTRK-PPGRRKKKR"/>
+                    <sequence id="seq_Eelectricu10" taxon="Eelectricu10" totalcount="20" value="-PQVYVDYYKQQAGNGLPRFAGTPMMYGSGLGAIFKALYRMAVPIIKRGIS?IAKPHLKSLLTILRSNFTWAD---HLS--------GSHHSDHVQRR"/>
+                    <sequence id="seq_Eelectricu11" taxon="Eelectricu11" totalcount="20" value="----YVNYYRNQ-GNGL-GFAG--TMYG-G----FGKLFRMAVPIIKRGS?I-AKP-L--PQ-NIVTDAVSNIM-RRDGSGEMIIWRKRPGGQNKQ--"/>
+                    <sequence id="seq_Eelectricu2" taxon="Eelectricu2" totalcount="20" value="-QNVYVDYYKHQAGHGLPRFAGTPMMYGSGLGGIFKVLYRMTVPIIKRGIS?IAKPHLKSAARGIIRAVVSNIITRQERSGLAI-TYRRPPGRAKPLS"/>
+                    <sequence id="seq_Eelectricu6" taxon="Eelectricu6" totalcount="20" value="-PQVYVDYYKHQAGNGLPGFARTPMMYGYGHGAIFKALFRMAVPIIKRGISIAK?PHLKSAAKGIVSDVVTSSCVKREQEFVYP-VGGQPPGSRLL?P"/>
+                    <sequence id="seq_Elucius17" taxon="Elucius17" totalcount="20" value="DPQRYVEYYTTQAGNGLPWYHGSTAMYGAGLGGLFRGLFRMAIPLLKRGFSI?AKPHLKNAARNILGEVVSNIMARQDGLEVV-MPRKR?PGR--KKK"/>
+                    <sequence id="seq_Elucius23" taxon="Elucius23" totalcount="20" value="DPQRYVEYYTTQAGNGLPGYHGSAAMYG?GLGGLFRGLFRMAIPLLKRGFSI-AKPHLKNAARNIVGDV---VMSRQDGSGLMVVVHLKTESRN-KVK"/>
+                    <sequence id="seq_Elucius42" taxon="Elucius42" totalcount="20" value="DPQSCVENYTTHAGNGLPGYHGSAAMYGAGLEGLFRGLFWMAIPLLKR?TSV-AKPHLNNAARNIVGDVVNSVLS-QDGSGLMVMTRKRPPGRRKK?K"/>
+                    <sequence id="seq_Elucius76" taxon="Elucius76" totalcount="20" value="DPQRYVYYYTTQAGNGLPGYH------GRGWSGPF?GFFQMAIPLLKRGFSI-AKPHLKNAARNIVGDVVSSVTTKQDGSGLMVMT--------?--K"/>
+                    <sequence id="seq_Fheterocli1" taxon="Fheterocli1" totalcount="20" value="DPHRFVSYY-SQVGGALPGFYGAPVMYGRGIGSIFSKLFRF-VPLVKSGFAIAK?PHLKRAATNIASDVIGKAMTKQEGSGVMVLSKKRPPGQRHK-L"/>
+                    <sequence id="seq_Fheterocli14" taxon="Fheterocli14" totalcount="20" value="EPACFVHYY-GSLGGGVSGF?GSGVMYGRGIGSIFSKLFCL-VPLVKSGFAIA-KLHQKKAATNIASDVIGKAMTKQEGAGVMVLSRKRPPGKRQK--"/>
+                    <sequence id="seq_Fheterocli17" taxon="Fheterocli17" totalcount="20" value="--HSFVPYY-GQVRGALPGFYGAPIMY?RGIGSIFSKLFHF-VPLVKSGFIIAK-PHLKKAATNIASDVIGKAMTKQEGSGVMVL-RKRPPGQRQM--"/>
+                    <sequence id="seq_Gaculeatus1" taxon="Gaculeatus1" totalcount="20" value="D-GRYMAYYMNQAG-ELPGF-GSQTQYGNGLGGIFRGLLRMALPLLKRGFSL?AKPHLKTAATNIIGDVVSNI-AKQQGHGMLIHTRKRPP-KKCGRK"/>
+                    <sequence id="seq_Gaculeatus2" taxon="Gaculeatus2" totalcount="20" value="D-WRYTAYYMNQAG-GLPGF-ESQTQYSNGFGGIFRGLLRMALPLLKRGFSL?AKPHLKTAATNIIEDVVSNI-AKQQGHGMLIHTRKRPPISR-KRT"/>
+                    <sequence id="seq_Gagassizii10" taxon="Gagassizii10" totalcount="20" value="GPT-Y-NCYKAQAVYAFPGYHG?PVMYVADVGGISRSLFQ-AIPLLK?GLEI--KPHVKTAIQNRVRDVVSRLLENQEGSRLII-KRKRPA-YRER-R"/>
+                    <sequence id="seq_Gagassizii11" taxon="Gagassizii11" totalcount="20" value="DPH-L-KLLQSQAGYMLPEYHGVPTIYEAGVGGIFCSLFK-AIPLLRRRLEI--K-?VKTAAQNI--DMIS-ALRKQEGSGMMI-KRQK-P-KTSV-R"/>
+                    <sequence id="seq_Gagassizii12" taxon="Gagassizii12" totalcount="20" value="----Y-NYYKAQPE-----YHGAPVMYRAGVGRIFCRLFQ-AILLLRKG-EM--KLV-KTAAQNIVRDM---VLEEQEGLGLMI-KRKRPP-KSRA-R"/>
+                    <sequence id="seq_Gagassizii3" taxon="Gagassizii3" totalcount="20" value="DPF-Y-NYYKAQAGYGLPGYQGLPVTYGVGLGGKFCSLFR-AVPLLKRGSDI--KPHMKTAAKNITKDKVSSVINKQEGSSLVV-IRKRPP-?KIKAR"/>
+                    <sequence id="seq_Gagassizii4" taxon="Gagassizii4" totalcount="20" value="DFT-Y-NYYK?QTGYALPRYHGAPLMFAAGMGGIFHSLF--ALQLWRRGLEI--KSHLKISAQNIAREVISLVLEKQKGSELII-KRKR----RKA--"/>
+                    <sequence id="seq_Gagassizii5" taxon="Gagassizii5" totalcount="20" value="DPT-Y-NYYKAQAGYALPGYHGAPVMYGAGVGGIFRSLFR-AVPLLRRGLEI--KPHVKTAAQNIAKDVVSRVLEKQEGSGLMI-KRKRPP-KRRTTR"/>
+                    <sequence id="seq_Gagassizii9" taxon="Gagassizii9" totalcount="20" value="DPF-Y-NYYKAQAGYGLPRYH---VMYGSGL-----VVMR-KKSAL?-?FDI--KPHMKTAAKNITEDIVSSVINKQEGSGLVV-MRKKPP-KRKKAR"/>
+                    <sequence id="seq_Ggangeticu16" taxon="Ggangeticu16" totalcount="20" value="DPN-Y-NYI-AQAGYGLPRYQGVPVMYGAHVGGIFCSLFR-AVQLLRRGLEI--KPRAKNAAQNIGNDMISGVLNNQEGSGLMI-QRKSPP--KK--R"/>
+                    <sequence id="seq_Ggangeticu19" taxon="Ggangeticu19" totalcount="20" value="DPN-Y-NYYKAQAGYGLPGYQGVPMMYGAGVGGIFYSLFR-AVLLFRRGLES--KPYAKNEAQIIAKDVVS-VLDKQEKSSLVS-QRKRPP-KKK--R"/>
+                    <sequence id="seq_Ggangeticu20" taxon="Ggangeticu20" totalcount="20" value="DLA-Y-NYYKAQAGYSLPGYQRMPMMNGAGVGGIFHNLFI-AISLLKRGLEI--KPYIKNAA-NIAQDMIS-VLDKQGGSGLVI-KKKR-P-------"/>
+                    <sequence id="seq_Ggangeticu22" taxon="Ggangeticu22" totalcount="20" value="DPA-Y-NYYK?QAGYGLPIYQGRPVMYGAGVGGIFCSLFR-AIPLLKRGLEI--KLHVKSTAENIAQDIIYQVLNKQDGASIMI-KRKRPP-Q?KS-F"/>
+                    <sequence id="seq_Ggangeticu23" taxon="Ggangeticu23" totalcount="20" value="EPT-Y-NYYNAQGGYGLPG-KGVPMMYRAVVEGAFHNLFR-AILLLRRGLGI--KPHVKHT-QNIAKDVISQVLDKQEGSCLMI-K-KKRP-KKKK-K"/>
+                    <sequence id="seq_Ggangeticu25" taxon="Ggangeticu25" totalcount="20" value="DLT-Y-NYYEAQARYSLPSYQGMPMMYRAGVGDIFCSLFR-AILLFKRGLNI--KPHIKNAAEN?AQDVISQFLNKQSGSGLVF-QRE-VH-TKER--"/>
+                    <sequence id="seq_Ggangeticu26" taxon="Ggangeticu26" totalcount="20" value="DSI-Y-NYYKTQAGHGLSSYQGVPLMYEAGVRSIFCSHFT-AI------LEI--KVDI?NKAQNIARDMISQVLDKQERSSLMI-QRKRPL-?KK--Q"/>
+                    <sequence id="seq_Ggangeticu29" taxon="Ggangeticu29" totalcount="20" value="-PT-Y-NYYKAQAWYSLPRHQRVPVMYGVVMRSIFCSLFR-AIPFLRRGLEI--KPYAKNVAQN?AKDMFSQVLDKQEGSRLVI-QRKRCP-LHPQTR"/>
+                    <sequence id="seq_Ggangeticu36" taxon="Ggangeticu36" totalcount="20" value="DPN-Y-NYYKA-AGYGLPEYQGVPVMYGAGVGGIFPSLFR-VIPLLRRGLEI--KPHAKNAAQNTAKDVVSQVLDKQEWSGLMI-QRKRPP-KKN--R"/>
+                    <sequence id="seq_Ggangeticu42" taxon="Ggangeticu42" totalcount="20" value="DPN-Y-NYYRAQARYGLPRCWGA?VMYGAGVGGIFLILFR-AVLLLRRGLEI--KPHTKNVAQNTAKDVVSQVLDNKEVSGLII-QRKRPL-KKK---"/>
+                    <sequence id="seq_Ggangeticu43" taxon="Ggangeticu43" totalcount="20" value="DPN-H-NYYKAQAGYGLPGYHGVPMMYRAGVRGIFCSLFR-VIPLLRRCLEI--KPQAKYAAQNIAKDVVS?VLDKQEGSGFMI-QRKRPP-KKK--R"/>
+                    <sequence id="seq_Ggangeticu44" taxon="Ggangeticu44" totalcount="20" value="DPN-Y-NYYKAQAGYGLPAYQGVPMMYGPGVEGIFHSLFR-AFPLFRRG?EI--KPYAKIAAQNIGKDKVS-VLDKQEGSGLVI-?KERIP-KRR---"/>
+                    <sequence id="seq_Ggangeticu45" taxon="Ggangeticu45" totalcount="20" value="DPN-Y-NYYKAQAGYGLTRYQGVPVMYGAGVGGIFHSLFR-DVLLLRRGLET--KPHAKNMTQNIAKEVVS-VLDKQQGFGLMI-QRKK?P-KKK--R"/>
+                    <sequence id="seq_Ggangeticu47" taxon="Ggangeticu47" totalcount="20" value="DPN-Y-NYYEAQAGYALPGYQGVPVMYGAGEGRLFHSFFK-AIPLLRRGLKI--DD-------------LLSVLDKQEGSCLMI-PRREPP-KKK--S"/>
+                    <sequence id="seq_Gjaponicus1" taxon="Gjaponicus1" totalcount="20" value="-PN------KLQAGYALPSYHGAPVMY--GVGGIFRSLF--AVPILRRGFEL--P?HVKTTT-NIAKDEVSAILDKQEGSGLM?-QRK-PP-KRKAVR"/>
+                    <sequence id="seq_Gmorhua1" taxon="Gmorhua1" totalcount="20" value="D-NKYVQYYLYQAG-SLPGY-GSSTQYGTGIGGMFRSLFRMAIPLFRQGVSI?AKPHLKTAAKHIIGDVMTNI-AHQQGSGMRVYARKYPP-RRKNKL"/>
+                    <sequence id="seq_Gmorhua2" taxon="Gmorhua2" totalcount="20" value="D-NKYVQYYLNQAG-SLPGY-GSSTQYGAGIRGMFRSLFRMAIPLFRRGVSI?AKPHLKTAARHIIGDVMTNI-AHQQGSGMRVYARKYPP-RRENKL"/>
+                    <sequence id="seq_Hhucho13" taxon="Hhucho13" totalcount="20" value="DPNRYVSYYVDQVDNGLPGYHGAPTMYGSGIGGIFRNLFRMILPFMKSGLS?IAKPHLKSAAKNIVSEVVANAMTRQEGSGLMLLSRKRPPGRRKK?R"/>
+                    <sequence id="seq_Hhucho20" taxon="Hhucho20" totalcount="20" value="DPNRYVSYYVNQVGNGLPGYHGAPTMYGSGIGGIFRNLFRMVLPIMKRGLS?IAKPHLKSVAKNIVSEVVANAMTRQEGSGLMLLSQKRPLGRRKK?Q"/>
+                    <sequence id="seq_Hhucho3" taxon="Hhucho3" totalcount="20" value="DPNRYVSYYVDQVGNGLPGYYGAPTMYGSGIGGIFRNLFRMVLPFMKRGLS?IAKPHLKSAAKKRVSEVVANAMTRQEGSGLMLLSRKRPPGRRKK?R"/>
+                    <sequence id="seq_Hhucho32" taxon="Hhucho32" totalcount="20" value="DPNRYVSYYVDQVGNGLPGYHGAPTMYGSGIGGIFRDLFSMVLPFLKRGLS?IAKPHLKSAAKNIVS-VVANAMTRQEGSGLMLLSRKRPPGMRKK?R"/>
+                    <sequence id="seq_Hhucho33" taxon="Hhucho33" totalcount="20" value="DHNRYVSYYVDQVGNGLPGYHGAPTMYRSGIRGIFHNLFRMVLLFMKRGLS?IAKPHLKSAAKNIVSEVVANAMTRQEGSGLILLSRKRPPGRRKK?R"/>
+                    <sequence id="seq_Hhucho35" taxon="Hhucho35" totalcount="20" value="DPNRYALYYVDQVGNGLPGYHGTPTMYGLGIGGIFRNLLRKVLPLMKRGLS?IAKPHLKSAAKNIVSEVVANAMTREEGSGLMML?R-------KK-G"/>
+                    <sequence id="seq_Hhucho36" taxon="Hhucho36" totalcount="20" value="DPNRYVSYYVDEVGNGLPGYHETPTMYGSGLVGIFRNLFRMVLPFMKRGLS?IAKPHLKS---?IVSEVVANAMTRQESLGLMLLSRMRPPGRHKK-W"/>
+                    <sequence id="seq_Hhucho38" taxon="Hhucho38" totalcount="20" value="DPNRYVSYYVDQVGNGLPGYHGTPTMYGSGIGSIFRNL?RMVLPFMKRGLS-IAKPHLKSAAKNIVSEVVANAMTR--------LIK?P--SRRKK-Q"/>
+                    <sequence id="seq_Hhucho39" taxon="Hhucho39" totalcount="20" value="LENLH-NWWL--------------TKYFF?T--VFRNLFRMVLPFMKRSLS-IAKPHLKSAAKNILSEVVANAMTRQEGSGLMLLSPKRPPGRRKK-W"/>
+                    <sequence id="seq_Hhucho8" taxon="Hhucho8" totalcount="20" value="DPNRYVSYYVNQVGNGLPGYHGAPTMYGSGIGCIFRNLFRMVLPFMKRGLS?IAKPHLKSAAKNIVSEVVANAMTRQEGSGL?VV--KETSGRMKK-R"/>
+                    <sequence id="seq_Ipunctatus2" taxon="Ipunctatus2" totalcount="20" value="DPLHYVQYYQNQAGNGLPGYAGGGVMYRAGLGGVFRGLFRMAIPLLKRGFS?IAKPHLKSAAKNILSDVVSNTLSHQDGSGLVVMARR-PPGRRMKRK"/>
+                    <sequence id="seq_Ipunctatus20" taxon="Ipunctatus20" totalcount="20" value="-PQSYVDYYVHQAGNGLPGFQSAPTMYGSGLEGLFKGLFGMVVPFLKRGFAIA?KPHLKTAAKGLVCNVVSNIMSKQDGSGILI-TRKRLPGRHNRLK"/>
+                    <sequence id="seq_Ipunctatus23" taxon="Ipunctatus23" totalcount="20" value="-PQTYVDCYVHQAGN?LPEFQGTPTMYGSG?GGLFKGLFRMAVPFLKRGFAIA-KPHLKTAAKGFVSDIVRNIMSKQDGLGLLI-V-----GRHNRCK"/>
+                    <sequence id="seq_Ipunctatus31" taxon="Ipunctatus31" totalcount="20" value="DPLRYVQYYQNQAGNGFPGYAGGGVMYGAGLGGVFKGLFQNGHSF---AFSIAK?PHLKSAAKNILSDVVSNTLSHQDGSGLMVMARK-PPGRRK?RK"/>
+                    <sequence id="seq_Ipunctatus37" taxon="Ipunctatus37" totalcount="20" value="-P-K----YKVDVGPFT-GYKE--NMKL-AI-SVYRRLFRMTIP?LLKHFSI-AKPH?--AA-KILSEVVSNLL-HNNNSGLMVMARRRPPGKRKKSK"/>
+                    <sequence id="seq_Ipunctatus46" taxon="Ipunctatus46" totalcount="20" value="-KEHFMNPSYKRAGNGLPGFQGAPTMYGSGLGGLFKGLFRMAVPFLKRGFAIA?KPHLKTAAKVFVSDVFSNIMSKQDRSGLLI-VRKRLPGRCNRRK"/>
+                    <sequence id="seq_Ipunctatus50" taxon="Ipunctatus50" totalcount="20" value="DPQ-YVDYYVHQAGNGLAFQ-GAPTMYGLGLGGLFKDLFRMAVPFLIRGFAI?VKPHLKTAKG-V-SDVVSN-MSKQH-SGLLI-AKRR--G--RQ-R"/>
+                    <sequence id="seq_Ipunctatus6" taxon="Ipunctatus6" totalcount="20" value="DPLRYVQYYQDQAGNGLPGYAGGGVMYGAGLGGVFRGFSRMAIPML--------KPHLKPAAKNILSDVVSNTLSHHDGSGLAVRARR-APGRRMKRK"/>
+                    <sequence id="seq_Kmarmoratu1" taxon="Kmarmoratu1" totalcount="20" value="DSERFVQYY-NQAEGTLLGFYGAPVMYGRGIGSLFSKLFCF-VPL?KKGFAIA-KPHLKTAASNIASDVIGKAVSKQEGSGILILAKKRPPDQSNKSR"/>
+                    <sequence id="seq_Lcalcarife1" taxon="Lcalcarife1" totalcount="20" value="----ILGFK--------PGK-FTIPPYS-----LFRHIFRMAIPLLKRGFSI-AKPHLKSATTNIVGDMVLNI-ARQEGNGLLAYARKRPP-KRKKKH"/>
+                    <sequence id="seq_Lcalcarife10" taxon="Lcalcarife10" totalcount="20" value="D-SRFMSYYMNQAG-GLPGL-GTSTQYGSGL-GIFCSLFRMAIPLLKRGFRT?AKPHLKSAATNIVGDVVSNI-VRQEGKGLLVYAKKRPP-KCKAKK"/>
+                    <sequence id="seq_Lcalcarife13" taxon="Lcalcarife13" totalcount="20" value="-PAAYLMGL-SQVGGNLPGFYGAPVMYSRGIGSLFSKLFRF-VPLVKKGFTIA?KPHLKAAASNISSDVFSHAMGRQKGGGIMVLSRN?PPGEHNK-R"/>
+                    <sequence id="seq_Lcalcarife16" taxon="Lcalcarife16" totalcount="20" value="DPHCFVHDY-SQVGGNL-------VLQ-------FAIC--F-VPLMKKGFAI-AKPYLKAAASNIASDVFSQAMGRQEGGGIMVLS-K?TSGRRNKS-"/>
+                    <sequence id="seq_Lcalcarife5" taxon="Lcalcarife5" totalcount="20" value="D-SRYTSYYMNQAG-GLPGF-GTSTQYGSGLGG?FRSLFRIAIPLFKRGFST-AKPHLKSAATNIVGGVVSNI-ARQEGNGLLVYARKRQP-ERKAKK"/>
+                    <sequence id="seq_Lcrocea1" taxon="Lcrocea1" totalcount="20" value="DPHRFINYY-SQVGGALPGFYGAPVMYGRGIGSIFSRLFRF-VPLVKKGFAI?AKPHLKSAASNIASDVIKTAVGSQEGGGIMVLSRRRPPGDRNK-R"/>
+                    <sequence id="seq_Lcrocea22" taxon="Lcrocea22" totalcount="20" value="DPHCFINYY-SQVGGALPGFYGAPVMYGWGIGSIFSRLFRF-VPL?KKGFAIA-KPHLKSAASNTASDVIKNW---QEGGGIMVLSRRRPPGDCNK-R"/>
+                    <sequence id="seq_Lcrocea6" taxon="Lcrocea6" totalcount="20" value="DPHRFINYY-SQVGGALPGFYGAPVMYGRGIGSIFSRLFSF-VPLVKKGFAI?AKLHLKSAASNIASGVIKTAVGSQEGGGIMVLLRRRPPGDRNK-R"/>
+                    <sequence id="seq_Lcrocea7" taxon="Lcrocea7" totalcount="20" value="DPHHFVQYY-RQVGGDLPGFYGAPLMYGRGIGSLFSRLFRF-VPLVKKGFTIVK?PHLKMAASNIVSDVFNQAVGKQEVGGIMFLSRRQPPGQRNK-H"/>
+                    <sequence id="seq_Lcrocea9" taxon="Lcrocea9" totalcount="20" value="NPHRFINYY-SQVGGALPGFYGAPVMYGRGIGSIFSRLFRF-VPLVKKGFAI?AKP------?NIASDVITVIITTQEGGGIMVLSRRRPPGDRNK-R"/>
+                    <sequence id="seq_Llota1" taxon="Llota1" totalcount="20" value="D-KKYVQYYLNQAG-SLLGY-GSSTQYGAGICGMFRSLFRMAMPLFRRGVSI?AKPHLKAATRNIIGDVMTNI-AN?AGVAS---LRKYPP-RGKNKV"/>
+                    <sequence id="seq_Lwaleckii2" taxon="Lwaleckii2" totalcount="20" value="ETADYVSYYRNQAGGGLPGYAGGGVMYGAGLGGLFRGLFRMAIPLLKRGFSIA?KPHLKSAAKNIVSDVVSNVLTRQDGSGLMVMARK-PPGRGGTT?"/>
+                    <sequence id="seq_Lwaleckii3" taxon="Lwaleckii3" totalcount="20" value="ESADYVDYYRNQAGGALPGYAGGGVMYGAELGGLFRGLFRMAIPLLKRGFSIA?K?HLKSDAKNIVSDVVSNVLTRQDGSGLMVMARK-PPGRRK?TT"/>
+                    <sequence id="seq_Lwaleckii4" taxon="Lwaleckii4" totalcount="20" value="-CCEYVNYYQNHAGGGLPGYSGGGVMYGAGLGGLFRGLFRMAIPLLKRGFSI?TKPHLKSAAKNIVSDVVSNVLTHQDGSGLMVMARK-PPGRRKKTM"/>
+                    <sequence id="seq_Lwaleckii6" taxon="Lwaleckii6" totalcount="20" value="DPHRYISYYQAQTGHGMPGYAGTGVMNGSGIGGLFRGLYRMAIPFLRRGFSI-AKPHIKAAAKNIVSDVVTSALSRQSGHGLMVKRRK-PPGRM-QTR"/>
+                    <sequence id="seq_Lwaleckii7" taxon="Lwaleckii7" totalcount="20" value="NTADYVDYYRNQAGGGLPGYAGGGVMYGAGLGGLFRGLFRMAIPLLKRGF?SITKPHLKSAAKNIVSDVISNVLTHQDGSGLMVMARK-PPGRRKKTR"/>
+                    <sequence id="seq_Malbus10" taxon="Malbus10" totalcount="20" value="NPYRFLAYY-SQAGSGHGYFVGAPIQYGQGLGSMFSKLFRF-VPLVKKGFNV-ARPHLTSAAKNIASDVLSKAIGRQEGGGIMVLARRRPPGQC?K-R"/>
+                    <sequence id="seq_Malbus16" taxon="Malbus16" totalcount="20" value="DPHRMLTYY-NQAGSGLSALNGLQMQYGRGIGAVFSKLFRF-APLMKKGFNL-AKPHLSSAAKNIASDVVSKAVTKQEGSGFMVL-------EHKR-R"/>
+                    <sequence id="seq_Malbus20" taxon="Malbus20" totalcount="20" value="DPYRFISYY-NQVGTGISGFSGSSVQYGKGIGAILSKLFCF-VPLMKTGFNL-AKPHLASAAKNIASDVLS----R------IVF--KGAPEKRK--R"/>
+                    <sequence id="seq_Malbus27" taxon="Malbus27" totalcount="20" value="KQMYTALYF-NQASSGLG-FMGAPTQYRRGIGSVFSKLFRF-VPLVKKGFSVA?RPHLSSAAKT?ASDMLSKAVGR-EGSGIMVLARRCPPGQHKK--"/>
+                    <sequence id="seq_Marmatus19" taxon="Marmatus19" totalcount="20" value="N--RLLRYY-NQAG-GLVGF-GAHSQYGNGLGGLFRNLFRWAVPLFRNGFN-L?AP-?KSAATNIVGDVMSNI-SRQEGRGVAVYTRNRPPGKRKGAR"/>
+                    <sequence id="seq_Marmatus2" taxon="Marmatus2" totalcount="20" value="S--QLLRYY-NQAG-GLHGF-GAHTQYGNGLGGLFRNLFRWAVPLLRNGFN-LAKPHLKSAAANIAGDVMSNI-SRQEGGGVAVYTRKRPPGKRKSSR"/>
+                    <sequence id="seq_Marmatus22" taxon="Marmatus22" totalcount="20" value="D--TLLRYY-NQAG-GFNGF-GAHTQYGNSPGGLFRNLFRWAVLLLRNGFN-LAKPHLKSAAANM-?DVMSNI-LRQEGGGVAVYARKRPPGKCKSSR"/>
+                    <sequence id="seq_Marmatus26" taxon="Marmatus26" totalcount="20" value="EP-----YM-CQRG-RMVVF-GGHTQYGSGLGGLFRSLFRMAVPLFGSGLT-IAKLHLKT-ATNIMGEVVSNI-TCQEGGGVAVYTRKRP--RRV---"/>
+                    <sequence id="seq_Marmatus30" taxon="Marmatus30" totalcount="20" value="---STGWVY-SQSD-GLPES-GLRTQYGDGLGGLFRSLFRMAVPLFKNVF?SIAKPHLKTAATNIMGCKVSNV-SRQEGGVGSVYTRKRPPR---KHK"/>
+                    <sequence id="seq_Marmatus44" taxon="Marmatus44" totalcount="20" value="E--RLLRYY-AQAG-GLPGF-GSRMQYGNGLGGLFRSLFRMAVPLFKSGFAI?ARPHLKTAAANIAGEVVSKV-SRQEGGGVSVFTRKRPPGK--KEK"/>
+                    <sequence id="seq_Marmatus53" taxon="Marmatus53" totalcount="20" value="D--RLLRYY-NQAG-GLHGF-GAHTQYGNGLGGLFRNLFRWAVPLLRNGFN-LAKPHLKSAAANIAGDVMSNI-SRQEGGGVAVYTRKRPPGKRKSSR"/>
+                    <sequence id="seq_Marmatus69" taxon="Marmatus69" totalcount="20" value="D--RLLRYY-NQAG-GLHGF-GAHTQYGNGLGGLFRNLFRWAVPLLRNGFN-LAKPHLKSAAANIAGDVMSNI-SRQEGGGVALYKRKRPPGKRK?SR"/>
+                    <sequence id="seq_Mcapensis1" taxon="Mcapensis1" totalcount="20" value="D-GRYMTYYMNQAG-GLPGF-GSSTQYGNGLGGIFRSLFRMAVPLLKRGFNL?AKPHLKTAATNIMGDVVSNI-ARQEGSGLMVYSRKRPP-KRKVKR"/>
+                    <sequence id="seq_Mfloridanu1" taxon="Mfloridanu1" totalcount="20" value="DPHRFVSYY-NQVGGALPGFNGAPVMYGRGIGSIFSKLFRF-VPLMKRGFAIAK?PHLKSAAKNIASEAITHAVGKQEGGSMMVIEHVRPPY---K--"/>
+                    <sequence id="seq_Mfloridanu2" taxon="Mfloridanu2" totalcount="20" value="NVDKYVAYYTVQAGGDLPGYSGLGAQYGAGLGGIFRGLFRLAFPLLKKGFTFVA-PHLKTTAKNIASDVITNVIF-QFGSGL-FMDT--PD-RRSKT?"/>
+                    <sequence id="seq_Mfloridanu3" taxon="Mfloridanu3" totalcount="20" value="NTDKYVAHYIAHVGGDLPGYSGLGCQYGAWSGGIFRGLFRLA?PLLKKGFTFAA-PHLKTAAKNNMADVITNVMS-QQGSGI-VMAK-TRA-RK-ISR"/>
+                    <sequence id="seq_Mjaponicus1" taxon="Mjaponicus1" totalcount="20" value="EPRDLIHYY-NEACSVM-GFAGAPVQYGGGIGSYF?KLFRF-IPLVRSGFAI-TKPHLKSAAKNVASDVL---------G?VMVLARKRPPGER-K--"/>
+                    <sequence id="seq_Mmiiuy1" taxon="Mmiiuy1" totalcount="20" value="DPHRFISYY-SQVGGALPGFYGAPVMYGRGIGTIFLRLF-?-VPLVKKVFAIA-KPHLKSAASNTASDVIKNAVGNQEGRGIMVLLRRRPPGDCHK-R"/>
+                    <sequence id="seq_Mmiiuy2" taxon="Mmiiuy2" totalcount="20" value="DPHRFINYY-SQ?GVHLTGFYRAPVMYGWGIGSIFSRLFRL-VPLV?--FAI-AKPHLKLAASNITSDVIKNAVGNQEGGGIMVLSRRRLPGDRHK-C"/>
+                    <sequence id="seq_Mmiiuy3" taxon="Mmiiuy3" totalcount="20" value="DPHRFINYY-SKVGGALPCFYGAPVMYGQGIGSIFSRLFHF-APLVKKGFAI-AKPHLKSAASNIASDVIKNAVGNQEGGGIMVLSRRRPPGDRHK-R"/>
+                    <sequence id="seq_Mmola11" taxon="Mmola11" totalcount="20" value="N-LKDMSYYLNPAG-?LLAF-GTSTQYGNGLRDRFHSLFRMAVPLLN?GFSI-AKPHLKTASTNIVRDIVSNI-VRT-GNGLMVHARKKIY-REKK--"/>
+                    <sequence id="seq_Mmola2" taxon="Mmola2" totalcount="20" value="HHIYVGRRF-RQVGGALPGFHGSPVMYRCGLGSIFSRLFRF-VPLVTTGFFI?AKPHLKTSAKNIASDVV-?AVAKQEGG---VLYSKEQ-GQSYK-H"/>
+                    <sequence id="seq_Mmola3" taxon="Mmola3" totalcount="20" value="DPHRYVRY--YQVGEAFPGIHGPTLMYSRRLGSIFSRLFRF-VSLVKTGFSI?AKPHLKTAKKNAPT-VFDQAVAKQKG-GIMVLSQKHPPSRRNK-R"/>
+                    <sequence id="seq_Mmola4" taxon="Mmola4" totalcount="20" value="EPSSSIMYY-NKVDRALPGFHGTPVMYSRGLCSIFSRLFCF-VPLVKTGFSIA?KPHLKIAAKNIASDIFGQAVAKQEG?EIKVLSRKHVFCMDKV-R"/>
+                    <sequence id="seq_Mmola7" taxon="Mmola7" totalcount="20" value="DPHRFV-YYDNQVGG?FPGFHSAPVM-GRGMGSIFF-LFCF-V-LLKTGFSIT-KP-LKTAVKNI-TDVVAK-MTKEEGSGIMVISRQ-PP-RRKT-R"/>
+                    <sequence id="seq_Mpeelii1" taxon="Mpeelii1" totalcount="20" value="DPHCFVSYY-NQAGGGLPGFYGAPVIYGRGM?SIFSKLFRF-VPLLKRGFAI-AKPHLKSAASNIASDIISHTMGKQEGSGIMVLSRKRPPGQH-K-K"/>
+                    <sequence id="seq_Mpeelii3" taxon="Mpeelii3" totalcount="20" value="DPHRFVSYY-NQAGGGLPGFYGAPVRYGRGIGSIFSKLFHF-VPVLKRGFA?IAKPHLKSAASNIASNVIRHTMGKQEGSGIMVLSWKHPPGQRKK-K"/>
+                    <sequence id="seq_Mterrapin11" taxon="Mterrapin11" totalcount="20" value="NPT-S-NYYKAQAGYTLPGYHGAPVMYGAGMGGIFHSLFR-DVPLFRRGLEI--KPYVKTAAQNTASDMVSHVLKKQEGSGLMI-KRKRAP-KRKAMR"/>
+                    <sequence id="seq_Mterrapin12" taxon="Mterrapin12" totalcount="20" value="DPT-Y-NYYKAQAGYALPGYHG?GV-YEAGVGGIFRSLFR-AVPLLRRGLEI--KSHVKTAAQYIAKDVVFHVLEKQEGSGLMI-KRKRPP-KSRATR"/>
+                    <sequence id="seq_Mterrapin13" taxon="Mterrapin13" totalcount="20" value="DST-Y-NYYKAQAGYALPGYHEAPVMYGAGVGGICHSLFR-AVPLLRRGLEI--KPHVK?AAQNIAKDVVSRVLEKQEGSGLMI-KRKR---------"/>
+                    <sequence id="seq_Mterrapin15" taxon="Mterrapin15" totalcount="20" value="NPT-Y-NYYKAQAGCALPGYHG-PH?RDRAVGGIFRSLFR-AVPLLRRGLEI--KPHVKTATQNIAKDVVSHVLEKQEGSGLMI-KRKRPP-KRRATH"/>
+                    <sequence id="seq_Mterrapin19" taxon="Mterrapin19" totalcount="20" value="DST-Y-NYYKAQAGYALPGYH?GPVMYG?GVGGICHSLFR-AVP?FEEGLEI--KPHVK?AAQNIAKDVVSRVLEKQEGSGLMI-KRRRPP-KRRATR"/>
+                    <sequence id="seq_Mterrapin2" taxon="Mterrapin2" totalcount="20" value="DPT-Y-NYYKAQAGYALPGYHGAPVMYGAGVGGIFRSLFR-AVPLLRTGLEI--KPCVKTAAQNIAKDVVSRVLEKQEGSGLMI-KRKRPP-KRRATR"/>
+                    <sequence id="seq_Mterrapin20" taxon="Mterrapin20" totalcount="20" value="-PL-Y-NYYKVQAGYALPG-HGAPVMYGAGVGGIFHSRLQ-ATPLLRRGLE?--KPYVKTAAQNIAP-----VLEKQEGSGLMI-KRKR---KSAS--"/>
+                    <sequence id="seq_Mterrapin21" taxon="Mterrapin21" totalcount="20" value="DPT-Y-NYYKAQAGYALPDIMG?PVMYGA?VGGIFHSLFK-PYA-FERG?EI--NP?CKTAAQNIA?DVVSRVLEKQEGSGLMI-KRKRPP-KRRATR"/>
+                    <sequence id="seq_Mterrapin26" taxon="Mterrapin26" totalcount="20" value="HPT-Y-NYYKAQTGYALPGYHGAPVMYGAGVGGIFRSLFR-AIPLLRRGLEI--KPHVKTAAQNIAKDVVSRVLEKQEGSGLMI-KRKRPP-KRRATR"/>
+                    <sequence id="seq_Mterrapin29" taxon="Mterrapin29" totalcount="20" value="DPT-Y-NYYKAQAGYALPEYHGAPVMYRAGVGGIFRSLFR-AVPLLRRGLEI?-KPHIKTAAQNIVKDVVSCVLEKQEGLGLMI-KRKRPP-K--STC"/>
+                    <sequence id="seq_Mterrapin3" taxon="Mterrapin3" totalcount="20" value="DPT-Y-NYYKAQAGYALPGYHGAPVMYGAGVGGIFRSLFR-AVPLLRRGLEI--KPHVKTAAQNIAKDVVSRVLEKQEGSGLMI-KRER----RDAQR"/>
+                    <sequence id="seq_Mterrapin30" taxon="Mterrapin30" totalcount="20" value="DPF-Y-NYYKVQAGYGLLGYQGLPVMYGASLGGIFHSLFR-AVPLLRWGFEI--KPHMKTATKNITRDVMSSVINKQEGSGLVL-MRKRSP-?KKKAR"/>
+                    <sequence id="seq_Mterrapin33" taxon="Mterrapin33" totalcount="20" value="VPF-Y-NYYKAQAGYALLGYQGLLVMYAASLGGIFRSLFR-AMPLLR-GFEI--KPHMKTAAKNITRDIESSVINKQEGSGLVV-MRKRPP-?KKSC?"/>
+                    <sequence id="seq_Mterrapin34" taxon="Mterrapin34" totalcount="20" value="DPN-Y-NYYKAQTEYTLPGYHGAPVMYGAAMGGIFRSLFR-AIVLLR?GLEI--KPHIKITAKNIARDVVSYVLEKQEGSGLMI-KRKRPP-KRRAVR"/>
+                    <sequence id="seq_Mterrapin35" taxon="Mterrapin35" totalcount="20" value="DPT-Y-NYYKAQAVYTLPGYHGAPVLYGAGVGGIFHSLFR-AVPLLRRGLEI--KPHVKTAAQNIAKDVVSRVLEKQQG----------SP--RQGQR"/>
+                    <sequence id="seq_Mterrapin38" taxon="Mterrapin38" totalcount="20" value="DPF-Y-NYYKTHAGCALPGYQGLPIMYRAGLGVIFRSLFR-AVPLLRRGLEI--KPYVKTATKNITRDILSSVMHKPEHSCLAV-MKKRPP-FKIK--"/>
+                    <sequence id="seq_Mterrapin4" taxon="Mterrapin4" totalcount="20" value="DPT-Y-NYYKAQAGYALPGYHGAPVMYGAGVGGIFHSLFR-AVSLLRRGLEI--KPHVKTAAQNIAKDVVSRVLEKQEGSKLMI-KRKKPP-K-RATR"/>
+                    <sequence id="seq_Mterrapin40" taxon="Mterrapin40" totalcount="20" value="EVF-Y-NYYKAQASDALSRYQELPVMYGAGLGGIFCSLFR-AVLLLRKGVEI--KPHMKTAAKNITRDIMSSVINKQEGSSLVV-MGKR---------"/>
+                    <sequence id="seq_Mterrapin43" taxon="Mterrapin43" totalcount="20" value="DST-Y-NYYNA-----LPGYHGG?VMYGAGVGGIFRSFF--AVPLLRRGLEI--KSHVKTATQNI-----ASVLEKQEASGLMI-KRKRPT--PHTVL"/>
+                    <sequence id="seq_Mterrapin44" taxon="Mterrapin44" totalcount="20" value="GPT-Y-NCYKAQAGYAFPGYHG?PVMYVAGVGGIFRSLFQ-AIPLLK?GLEI--KPHVKIAIQNRARDVVS-LLEKQEGSRLII-KRKRYA-SLSH-T"/>
+                    <sequence id="seq_Mterrapin45" taxon="Mterrapin45" totalcount="20" value="DPT-Y-NYYKAQAGYTLPGYHGAP-MMGAGMGRIFCSLF?-ALPLLRRGLEI--KTHVNTTAEKIAKDVVSRVLEKQEGLGLMI-KRKR-------?H"/>
+                    <sequence id="seq_Mterrapin46" taxon="Mterrapin46" totalcount="20" value="DP?-Y-NYYKAQADT?LPGYHGAPVMYG?GVGGIFVA?---AVPLLRRG?EI--KP?RKNA-AQIA-NVVS?VLEKQEGSGLMI-KRKRPP--K?ATR"/>
+                    <sequence id="seq_Mterrapin47" taxon="Mterrapin47" totalcount="20" value="DST-Y-NYYK?QTGYALPRYHGAPVMCGAGMGGIFHSLF--AVQLWRRG?EI--KTHLKTAA-NMAREVVS-VLEKQEGSGLMI-KRKR----TAV--"/>
+                    <sequence id="seq_Mterrapin5" taxon="Mterrapin5" totalcount="20" value="DPT-Y-NYYKTQAGHALPGYHGAPVMYGAGVGGIFRSLFQ-AVPLLRRGLEI--KPHVKTAAQNIAKDVVSRVLKKQEGLGLMI-KRKR------ATR"/>
+                    <sequence id="seq_Mterrapin6" taxon="Mterrapin6" totalcount="20" value="DPT-Y-NYYKAQAGYALPGYHGAPVM-GAGVGGIFRSLFR-AVPLLRRGIEI--KPHVKTAAQNIAKDVVSRVLEKQEGSGLMI-KREKPP-KRRATR"/>
+                    <sequence id="seq_Mterrapin9" taxon="Mterrapin9" totalcount="20" value="DPT-Y-NYYKAQAGYALSGYHGAPVMYGAGV-GIFHSLFR-AVPLLRRGLEI--KPHIKTAAQNIAKDLVSCVLEKQERSGLMI-KRKRPP-KRRATR"/>
+                    <sequence id="seq_Mzebra1" taxon="Mzebra1" totalcount="20" value="D-SKYVKYYLSQAG-GLGGY-GTSTQYGTGLGGLFRSLFRFAVPLFKKGVSIVK?PHLKTAASGIVSDVITNI-TRQDGNGLYVYTKKTPP-KRKKPR"/>
+                    <sequence id="seq_Mzebra10" taxon="Mzebra10" totalcount="20" value="DPHRFVRYY-GQVGGSLLGFYGAPVMYGRGIGSIFSRLFRF-VPLFKSGFA?VAKPHLKTAATNIATDAVKRVMGKQEGGGMMVLSRKRPPGER-K--"/>
+                    <sequence id="seq_Mzebra13" taxon="Mzebra13" totalcount="20" value="DNNRFIGYY-TQAGNGLPGFSGAPVIYGRGIASIFSKLFRF-VPFIKRGVS?IAKPHLKSAVKGFASDIVTSSLSNQEGSGLTLISRKRPPGQRKKRR"/>
+                    <sequence id="seq_Mzebra14" taxon="Mzebra14" totalcount="20" value="EVPRYSGYY-TQAGNGLPGFSGAPVIYGRGIASIFSKLFRF-VPFIKRGVSIA?KPHLKSAVKGFASDIVTSSLSNQEGSGLTLISRKRPPGQRKKR?"/>
+                    <sequence id="seq_Mzebra19" taxon="Mzebra19" totalcount="20" value="DNNRFIGYY-TQAGNGLPGFSGAPVIYGRGIASIFSKLFRF-VPFIKRGVS?IAK?HLKSAVKGFASDIVTSSLSNQEGSGLTLIS?EATPGQRKKRR"/>
+                    <sequence id="seq_Mzebra21" taxon="Mzebra21" totalcount="20" value="E-SKLSAEEQGQAG-ELNGY-GTSTQCGAGLGGLFRSLFRIAVPLFKKGVSIVK-PHLKTAASGIVSDVISNI-TKQDGNGLYVTGTRKPK-RREK--"/>
+                    <sequence id="seq_Mzebra22" taxon="Mzebra22" totalcount="20" value="--VKGVFYEIQQAG-GLNGY-GTSTQCGAGLGGLFSSLFRIAVPLFKKGVST?VKPHLKTAASGIVSDVISNI-TKQDGNGLVCF-------KRKQKH"/>
+                    <sequence id="seq_Mzebra4" taxon="Mzebra4" totalcount="20" value="DPHRFVRYY-GQVGGSLPGFYGAPVMYGRGIGSIFSRLFRF-VPLFKSGFAVA?KPHLKTAATNIATDAVKRVMGKQEGGGMMVLSRKRPPGER-K--"/>
+                    <sequence id="seq_Mzebra7" taxon="Mzebra7" totalcount="20" value="DPHRFVRYY-GQVGGSLPGF-GAPVMYGRGIGSIFSRLFRF-VPLFKTGFAVA?KPHLKTAATNIATDAVKRVMGKQEGGGMMVLSR------R-K--"/>
+                    <sequence id="seq_Mzebra9" taxon="Mzebra9" totalcount="20" value="G-AKYVRYYLNQAG-GLGGY-STSMQYGAGLGGLFRSLFRFAVPLFRKGVCIVK?PHLKTAASGIVSDVVSNI-TKQDGNGVYVYTNKTPP-KCKKPR"/>
+                    <sequence id="seq_Nauritus1" taxon="Nauritus1" totalcount="20" value="DPS-F-NYYRAQACNGLPGFQGIPVMYGVGTGGIFCSLFR-A-ILLKRVLEI--KPHVKSM?KILQKTV---FMDKQEGSRFAI-KREKPS-TRRRKT"/>
+                    <sequence id="seq_Nauritus2" taxon="Nauritus2" totalcount="20" value="GST-Y-IYYRSQAGNGF-SFQDILVMYGAGV--KLHSLFR-AI-LLKRGLEI--KP-LKTS---I--NMICKVLDNQEG--LAI-QRKT---KKKN-K"/>
+                    <sequence id="seq_Nbrichardi1" taxon="Nbrichardi1" totalcount="20" value="D-AKYLKYYLAQAG-GLGGY-GTSRQYGAGLGGLFRSLFRFAVPLFKKGVSIVK?PHLKIAASGIVSDVISNI-AKQDGNGVYVYTNKTPP-KRKKPR"/>
+                    <sequence id="seq_Nbrichardi2" taxon="Nbrichardi2" totalcount="20" value="D-AKYLKYYLAQAG-GLGGY-GTSTQYVAGLGGLFRSLFRFAVPLFKKGVSIVK?PHLKTAASGIVSDVISNI-TKQDGNGVYVYTNKTPP-KRKKPR"/>
+                    <sequence id="seq_Nbrichardi3" taxon="Nbrichardi3" totalcount="20" value="--RKFIRYY-TQAGNGLPGFSVVPVIYGRGIASIFSKLFRF-VPFIKRGVS-IGKSHLKSAVKGFASDVVTSSLSNQEGSGLTLISRKRPLGQRKKRR"/>
+                    <sequence id="seq_Nbrichardi4" taxon="Nbrichardi4" totalcount="20" value="DNNRFIRYY-TQA-----?FLGAPVIYRRGIASIFSKLFRF-VPFIKRGVS-IAKPHLKAAVKGFASDVVTSSLSNQEGSGLSIISRKRPPGRRKKQR"/>
+                    <sequence id="seq_Nbrichardi5" taxon="Nbrichardi5" totalcount="20" value="?-AKYLKYYLTQAR-GLGGY-G--TQYGAGVGGLFRSLFRFAVPLFK?GVSIVK-PHLKTATSGKES-VISNI-TKQDGNVVYVY-------KLR-GR"/>
+                    <sequence id="seq_Nfurzeri2" taxon="Nfurzeri2" totalcount="20" value="DPNRFINYY-TQAGHSLPGCSGTPYLYGRGFGSLFSRLFRF-IPFVKKGFAV?AKPHLKKAATGIASDVLTRAVSKQEGSGLMVLSRKRPPGRRSQDR"/>
+                    <sequence id="seq_Nfurzeri5" taxon="Nfurzeri5" totalcount="20" value="DPNCFINYY-TQAGHGLPGFSGTPYLYGRGFGSIFSRLFRF-IPFVKKGFAL?AKPHLKKAATRIASDVLTQAVSKQEGSVLMVLSREKTP--QSRGR"/>
+                    <sequence id="seq_Nnippon1" taxon="Nnippon1" totalcount="20" value="ERA-Y-N-YRARANNGLPGFQGVPVMYGVDTGGIFHSLFR-AV-LLKWSLEI--KPHVKSIIQDIATNVISKLLDKKQEVRLDI-QRKR-P-KEKG-R"/>
+                    <sequence id="seq_Nsammara1" taxon="Nsammara1" totalcount="20" value="NPDKYVSYYTSQAGGDLPGYSGISSQYGAGQGGIFHGLFRMAFPLLKKGMHIAA-PHLKTAAKNIVSDVVTNVVA-QEGSGM-MIAI-RPP--RKKKR"/>
+                    <sequence id="seq_Nscutatus1" taxon="Nscutatus1" totalcount="20" value="----Y-AYYRAQAEVGLPGFRGSPIMYGTGLEGLFCGLFR-AKPFLRCGLEI--K?HMKSAAKNIARDVVSRIVEMQEGSG-MI---KNPP-KKRRVK"/>
+                    <sequence id="seq_Nscutatus2" taxon="Nscutatus2" totalcount="20" value="SPQ-Y-DYYRTQAGNGLPGFRGAPVMYGTGIGGLFWGLFG-AMPLLRRGLEI--KPHMK-VANNIVRDVVSRVFGGQEGAG-MV---KRPP-KKRRVK"/>
+                    <sequence id="seq_Ofasciatus1" taxon="Ofasciatus1" totalcount="20" value="NADKYISYYTVQAGGDLPGYSGLGSQYGAGLGGIFRGLFRLAFPLLKKGFTVAA-PHLKTAAKNIVSDVVTNVIT-QEGSGM-VMVY-RPP--RKKRR"/>
+                    <sequence id="seq_Ofasciatus3" taxon="Ofasciatus3" totalcount="20" value="NADKYISYFTAQVGGDLPGYSGLGSQYGAGLGGIFRG?FRLAFPLLKKVFTVAA-PHLKTAAKNIVSDVVNNVIM-QEGSGM-VLVI------RRRSQ"/>
+                    <sequence id="seq_Ohannah1" taxon="Ohannah1" totalcount="20" value="SPQ-Y-DYYRAQAGNSLPGFRGAPVMYGTGIGGLFRCLF--AMPLLRRGLEI--KPH------------VSRGVGGQEGAG-MV---KRPP-KKRRTA"/>
+                    <sequence id="seq_Ohannah2" taxon="Ohannah2" totalcount="20" value="SPQ-Y-DYYGA-AGNGLPGFRGAPVMYGTGIGGLFQGLFR-AMLSLRRGLEI--KPHVKAAANNIVRDVVSRVVGCQERSG-MV---KKPP-KKRWVK"/>
+                    <sequence id="seq_Ohoazin1" taxon="Ohoazin1" totalcount="20" value="DPS-H-HCYRAQAGNGLPGFQGV?VKHGVGVAGIFCSLPR-TI?CESVGLEI--KQHTKSTAQDTAKHVVSQVPNKQEGLGLVV-QIKRKV-NKHHDR"/>
+                    <sequence id="seq_Okisutch10" taxon="Okisutch10" totalcount="20" value="DTNRYVSYYVDEVGNGLTGYHGSPTIYGPGIGGIFHNLFRMVLPFVKRGLS?IAKPHLKSVAKNIVSEVVANAMTRQKGSGRMMLSRKSPPG---SVE"/>
+                    <sequence id="seq_Okisutch12" taxon="Okisutch12" totalcount="20" value="DPNRYVSYYVDQVGNGLPGYYGSPTMYGSGIGGIFRNLFRMVLPFMKRGLS?IAKPHLKSAAKNIVSEVVANAMTRQEGSGLMMCDKLRP---SHTYQ"/>
+                    <sequence id="seq_Okisutch23" taxon="Okisutch23" totalcount="20" value="DPNRYVSYYVDK----LPGYHGAPTMYGSGIGGIFRTSSGWFYPFMKRGFS-IAN?NLKSAA?QYVSEVVANAMTAQEGSG?MILSRKRPPGRR?K-R"/>
+                    <sequence id="seq_Okisutch24" taxon="Okisutch24" totalcount="20" value="NPGSYG--QQLGI----------RARCGGGIGGIFRNLFRMVLPFMKRGLSI-AKPHLKSAAKNIVSEVVAN?LTRQEGSGLMMLSR-------KK-Q"/>
+                    <sequence id="seq_Okisutch26" taxon="Okisutch26" totalcount="20" value="DPNRYVSYYVDQVGNGLPGYYGSPTMYGSGIGGIFRNLFRMVLPFMKRGLSIAK?PHLKSAAKNIVSEVVGNAMTRQEGSGLMMLSRKRPPGRRKKQR"/>
+                    <sequence id="seq_Okisutch28" taxon="Okisutch28" totalcount="20" value="D--RYVSYYVAQVGNGLPGYHGSPTMYGSGIGGIFRNLFRMVL?FMKRGLSI-AKPHLKSAAKNIVREVAGNAMTRQEASGLMMLSRKRPPGRRKKW-"/>
+                    <sequence id="seq_Okisutch30" taxon="Okisutch30" totalcount="20" value="TP--YVSYYVAQVGNGLPGYYGSPTM?GSGIGGIFRNLFRMVLPFMKRGLS-IAKPHLKSAAKNVVSEVVANAMTRQES?GLMMLSRKRPPGRRKK-R"/>
+                    <sequence id="seq_Okisutch31" taxon="Okisutch31" totalcount="20" value="DPNRYVSYYVDQVGNGLPGYYASPTMYGLGIGGIFHNLFRMVLPFMKRGLSI?AKPHLKSAAKNIV-?VVANAMTRQEGSGLMMLSRKRPPIRRKK-R"/>
+                    <sequence id="seq_Okisutch36" taxon="Okisutch36" totalcount="20" value="-PIHTTTHTGSTSGNGLPGYHVSATMY?SGIGGIFRNLFRMVLPFMKRGFS-IAKPHLKSAAKILVSEVVAIAMTRQEGSG?LMMSRKRPPGRRKK-R"/>
+                    <sequence id="seq_Okisutch39" taxon="Okisutch39" totalcount="20" value="GITMFELYQFSKA------YRVIRGL-GSGI---FCNLFRMVIHFMKRGISI-AKPYLKSAAKNIVSEMVANAMTRQEGSGLMLLSR-----RRKK--"/>
+                    <sequence id="seq_Okisutch6" taxon="Okisutch6" totalcount="20" value="DPNRYVSYYVDQVGNGLPGYYGSPTMYGSGIGGIFRNLFRMVLPFMKRGLSI?AKPHLKSAAKNIVSEVVANAMTRQEGSGLMMLSRKRPLGRRLKKW"/>
+                    <sequence id="seq_Okisutch8" taxon="Okisutch8" totalcount="20" value="DPNRYVSYYVDQVGNGLPGYYGSPTMYG---?GIFSNLFRMVLPFMKRGFS-IAKPHLKSAAKNIVSEVVANAMTRQEGSGLMMLSRKRPPGRRKK-R"/>
+                    <sequence id="seq_Omelastigm1" taxon="Omelastigm1" totalcount="20" value="DPQRFVRYY-SQVGGGLPGFYGAPVMYGRGLGSIFSRLFRF-VPLLKA-FSI?VKPHLSAAASDLATDVFRRTVSKQKGGGLAVLARKRPPGERGK-R"/>
+                    <sequence id="seq_Omelastigm2" taxon="Omelastigm2" totalcount="20" value="DPQRFVRYY-SQVGGGLPGFYGAPVMYGRGLGSIFSRLFRF-VPLLKA-FSI?VKPHLSAAASDLATDVFRRTVSKQQGGGLAVLARKRPPGERGK-R"/>
+                    <sequence id="seq_Omykiss12" taxon="Omykiss12" totalcount="20" value="DPNRYV-YYVDQVGNGLPGYHGSPTMYGSGIGGILRNLFRMVLPFMKRGLSI?AKPHLKSAAKNIVSEVVANVMTRQEGSGLMMLSRKRPPARRKKR?"/>
+                    <sequence id="seq_Omykiss15" taxon="Omykiss15" totalcount="20" value="DPNRYVSDYVDQVGNGLPGYYGSPTMYGSGIGGIFRNLFRMVLPFMKRGFSI?ANPHLKSAAKNTVSEVVANAMTRQGGSGLIVLSRKRPPGRRKKG-"/>
+                    <sequence id="seq_Omykiss16" taxon="Omykiss16" totalcount="20" value="DPNRYVSYYVAQVVNGLPGYYGSPTMYGSGIGGIFRNLFRMVLLFM-RGLSI?AKPHLKSAAKNIVSEVVANATTRQEGSGLMMLSRKRPPGMLKKR?"/>
+                    <sequence id="seq_Omykiss20" taxon="Omykiss20" totalcount="20" value="DPNRYVSYYVDQVGNGL-?YYGSPTMYCSGIGAIFRNFFRMVLPFMKRGLSI-AKPHLKSAAKNIVSEVVAIAMTRQEGSGLMMLSRKRPPGRRKK-R"/>
+                    <sequence id="seq_Omykiss21" taxon="Omykiss21" totalcount="20" value="DPNRYVSYYVAQVGNGLPGYYGSPTMYGSGIGGIFCNLFRMVLPLMKRGLSI?AKPHLKSAAKNIVSEVVANAMTRQE--G?MKLSRKRPPGRRKKR-"/>
+                    <sequence id="seq_Omykiss23" taxon="Omykiss23" totalcount="20" value="DPNRYVSYYVDEVGNGLPGYHGSPTIYGPGIGGIFRNLFRMVLTFMKRGLS?IAKPHLKSAAKNIVSEVVANAMTRQEDSGLMMLLRKSAESMK-K-E"/>
+                    <sequence id="seq_Omykiss24" taxon="Omykiss24" totalcount="20" value="DPKRYVSYFVDQVGNGLPGYHGSPTMYG?GIGGMFG?LFRMVLPFMKRGLS-IAKPHLKSAAKNIVSEVVANAMTRQEGSGLM-LSRKETSGQRTK--"/>
+                    <sequence id="seq_Omykiss28" taxon="Omykiss28" totalcount="20" value="GPNRYVSYYVAKVGNGLPGYYGSPTMYGSGIGGLFRNLFKMVLPFMKRGLSI?AKPHLKSAAKNIV?-VVANAMTRQE----IMIERKRKVGQ-KQCR"/>
+                    <sequence id="seq_Omykiss29" taxon="Omykiss29" totalcount="20" value="DPNRYVSYYVH-VGNGLPGCHRSPTMYGSGIGGIFRNLFRMVLPFMKRGLS?IAKPHLKSAAKNIVR--?ANAKTRH-----MLLSRKRPQGRRVKSR"/>
+                    <sequence id="seq_Oniloticus1" taxon="Oniloticus1" totalcount="20" value="D-SKYVKYYLSQAG-GLGGY-GTSTQYGSGLGGLFRSLFRFAVPLFKKGVSIVK?PHLKTAASGIVSDVISNI-TRQDGNGLYVYTKMTPP-KRKKPR"/>
+                    <sequence id="seq_Oniloticus2" taxon="Oniloticus2" totalcount="20" value="D-TKYLKYYIGQAG-GLGGY-GTSTQYGAGLGGLFRSLFRFAVPLFKKGVGILK?PHLKTAASGIVSDVISNI-TKQDGNGVYVYTNKTPP-KRKKPR"/>
+                    <sequence id="seq_Oniloticus20" taxon="Oniloticus20" totalcount="20" value="D-TRYLKYYVAQAG-GLGGY-GTSTQYGAGLGGLFRSLFRFAVPLFKKGVGILK?PHLKTAASGIVSDVISNI-TKQDGNGVYVYTNKTPP-KRKKPR"/>
+                    <sequence id="seq_Oniloticus31" taxon="Oniloticus31" totalcount="20" value="DPHRFVRYY-GQVGGSLPGFYGAPVMYGRGIGSIFSRLFRF-VPLFKTGFAV?AKPHLKTAATNIASDAVKRVMGKQEGGGMMVLSRKRPPGER-K--"/>
+                    <sequence id="seq_Oniloticus32" taxon="Oniloticus32" totalcount="20" value="D-TRYLKYYIGQAG-GLGGY-GTSTQYGAGLGGLFRSLFRFAVLLFKKGVGILK?PHLKTAASGIVSDVISNI-TKQDGNRVYVYTNKTPP-KRKKSR"/>
+                    <sequence id="seq_Oniloticus34" taxon="Oniloticus34" totalcount="20" value="E-AKYLKYYLAQAG-GLGGY-GTSTQYGAGLGGLFRSLFRFAVPLFKKGVSIVK-PHLKTAASGIVSDVISNI-TKQDGNGVYVYTNKTPP-KLKKSR"/>
+                    <sequence id="seq_Oniloticus37" taxon="Oniloticus37" totalcount="20" value="HPHRFVRYY-GQVGGSLPGFYGAPVMYGRGIGSIFSRLFRF-VPLFKTGFAVA-KPHLKTAATNIATDAVKRVMGKQEGGGMMVLSRKRPPGER-K--"/>
+                    <sequence id="seq_Oniloticus40" taxon="Oniloticus40" totalcount="20" value="DPHRFVRYY-GQVGGSLPGFYGAPVMYGRGIGSIFSRLFRF-VPLFKTGFAVA-KPHLKTAATNIATDAVKRVMGKQEG?GMMVLSRKRPPGQR-K--"/>
+                    <sequence id="seq_Oniloticus46" taxon="Oniloticus46" totalcount="20" value="D-SKYVKYYLSQAG-GLGGYVGTSTQYGSGLGGLFSSLFRFAVPLFKKGVSILK-PHLKTAASGIVSDVITNI-TRQDGNGLYVFTKKTPP-KRKKPR"/>
+                    <sequence id="seq_Oniloticus51" taxon="Oniloticus51" totalcount="20" value="K-TKYVKYYVSQ?G-GLGGY-GTSTQYGAGLGGLFCSLFRFVVLLFKKGVSIVK-PHLKTAASGIVSDVISNIT?RQDGNGLYVYTKKTPP-RRKKPR"/>
+                    <sequence id="seq_Oniloticus56" taxon="Oniloticus56" totalcount="20" value="DNNRFIRYY-TQAGNGLPGFLGAPVIY-RGIASIFSKLFRF-VPFIKRGVSIA?KPHLKTAVKSIASDVLTSAVGNQEGSGLSIISRKRPPGQRKKPR"/>
+                    <sequence id="seq_Oniloticus57" taxon="Oniloticus57" totalcount="20" value="D-TKYLRYYLNQTG-GLNGY-GTSTQYGAGLGDLFHSLFRFAVPLFKKGVNID?KPHLKRAASGIVSDVISNI-TKQDGNGLYVYTKKTPP-KRKKSR"/>
+                    <sequence id="seq_Oniloticus64" taxon="Oniloticus64" totalcount="20" value="DNNRFIKYY-SQAGNGLPGFSGAPVIYGRGIASIFSKLFRF-VPFLKRGVS?LVKPHLKTAVKGIATDVVTSSLSNQEGSGLSLLARKRPPGRRKKRR"/>
+                    <sequence id="seq_Oniloticus73" taxon="Oniloticus73" totalcount="20" value="DNNRFIKYY-SQAGNGLPGFSGAPVIYGRGIASIFSKLFRF-VPFLKRGVS?LVKPHLKTAVKGIATDVVTSSLSNQEGAGLSLIARKRPPGRRKKRR"/>
+                    <sequence id="seq_Oniloticus80" taxon="Oniloticus80" totalcount="20" value="DNARFVLYY-FQAGNGFPGFSGAPAIYGCGIASIFSKLFRF-VPFVK-GLSV?AKPHLKTAVKNIASDMLTTAVSKQEGSGLSIILRNHPPGQRKK?K"/>
+                    <sequence id="seq_Oniloticus82" taxon="Oniloticus82" totalcount="20" value="DNNRFIKYY-SQAGNGLPGFSGAPVIYGRGIASIFSKLFRF-VPFLKRGVS?LVKPHLKTAVKGIATDVVTSYRLRLRGSSRAVVTHK?ALGRRAMRV"/>
+                    <sequence id="seq_Oniloticus84" taxon="Oniloticus84" totalcount="20" value="D--IYLKYH--------PIVKGAPVIYG-GIASIFSKLFRF-VPFIKRGVS-IAKPHLKRAVKGFSSDIVTSSLGNQEGSGLSITSRKRPPGRRKKPR"/>
+                    <sequence id="seq_Ostewartii20" taxon="Ostewartii20" totalcount="20" value="DPERYFAYYRNQAGNGLPRYAGSPFMYGAGL-VIFKALFRTALPLLKRGFSIAK?PHLKTAARNIASDLVTSALSRQNGNRLMVMSLK-PPGRIK?DK"/>
+                    <sequence id="seq_Ostewartii21" taxon="Ostewartii21" totalcount="20" value="N---YVDYY-NQAGGGLPGYV-----HG?GLDGLFRGLFRLAIPILKRGFGI-AKPHLKSAPKNIAADVVSNALSRQDGSGLIFMARK-PPGRRKK?K"/>
+                    <sequence id="seq_Ostewartii23" taxon="Ostewartii23" totalcount="20" value="ETADYVSYYQNQAGCGLPGYSGSGVMYGAGLGGLFRGLFRMAVPLLKRGFS?FAKPHLKSAAKNIVSDVVSNVLTRQDGSGLMVMARK-PPGRR?KTV"/>
+                    <sequence id="seq_Ostewartii26" taxon="Ostewartii26" totalcount="20" value="ETADYVSYYQNQAGCGLPGYSGSGVMYGAGLGGLFRGLFRMAVPLLKRGFS?FAKPHLKSAAKNIVSDVVSNVLTRQDGSGLMVMARK-PPGRRKKTV"/>
+                    <sequence id="seq_Ostewartii29" taxon="Ostewartii29" totalcount="20" value="ETADYVSYYQNQAGCGLPGYSGSGVMYGAGLGGLFRGLFRMAVPLLKRGFS?FAKPHLKSAAKNIVSDVVSNVLTRQDGSGLMVMARK-PPGRRKKTV"/>
+                    <sequence id="seq_Ostewartii73" taxon="Ostewartii73" totalcount="20" value="DPERYVAYYRSQAGNGLPGYAGGPVMYGGGIGGIFKALFRTALPLLKRGFSI?VKPHLKTAARNIASDVVTSALSRQNGNGLMVMSRK-PPGRIKKAK"/>
+                    <sequence id="seq_Ostewartii80" taxon="Ostewartii80" totalcount="20" value="DPERYVAYYRSQAGNGLPGHAGGPVMYGGGIGGIFKALFRTALPLLKRGF---?KPHLKTAARNIASDVVTSALSRQNGNGLMVMSRK-PPGRIKKAK"/>
+                    <sequence id="seq_Ostewartii81" taxon="Ostewartii81" totalcount="20" value="DPERYVAYYRSQAGNELPSYAGGAIMYGGGIGGIFKALFRTALPLLKRGFSI----?VKP?ARNIASDVTSRFVT-HNRTQI-CISRRLPPAER-VWT"/>
+                    <sequence id="seq_Ostewartii82" taxon="Ostewartii82" totalcount="20" value="--ELMKNVYYNPSD---PGSLGGKEQ-------------------LKQGFSI-VKPHLKTAARNIASDVVTSALSRQNGNGLMVISRK-PPGRIKKAK"/>
+                    <sequence id="seq_Otshawytsc10" taxon="Otshawytsc10" totalcount="20" value="DPNRYVSY?VYQVGNGLPGYHGTPTMYGSGIGGVFRNLFRMVF?FLKRGLS-IAKPHLKSAAKNIVSEVVANAITRQEGPGLMLLSRKRPPGRRKK-R"/>
+                    <sequence id="seq_Otshawytsc14" taxon="Otshawytsc14" totalcount="20" value="YPNRYVSYYVAKVGNGLPGYYGSPTMYGSGIGGIFRNLFRM-VPFMKRGLSM?AKPHLKSAAKNIV?-VVANAMTRQEGSGLMMLSRKRPPGRHKK-W"/>
+                    <sequence id="seq_Otshawytsc20" taxon="Otshawytsc20" totalcount="20" value="-SGMYMRYTAGRAGRGWISCAGSAYCVSGGIGGIFRNLFRM-?PFMKRGLS-IAKPHLKLAAKNIVSEVVANAMTRQEGSGLMVLSRKRPLGRRNSKQ"/>
+                    <sequence id="seq_Otshawytsc23" taxon="Otshawytsc23" totalcount="20" value="--SQLLSYQGEEAGCGDPGLLGIRGRSGDGI---FRNLFRMVIHFMKRAISI?ANPYLKSAANNIVSEMVANAMTRQEGSGLMLAQE-----RKKE--"/>
+                    <sequence id="seq_Otshawytsc34" taxon="Otshawytsc34" totalcount="20" value="DPNRFVSYYVDQVGNGLPGYYGSPTMYGSGIGGIFRNLFRMVLPFMKRGLSI?AKPHFKSAATNIVSEVVANAMTRQEGSGLML-SRERPPGRRKK-Q"/>
+                    <sequence id="seq_Otshawytsc36" taxon="Otshawytsc36" totalcount="20" value="DPIRYVSYYVDQVGNGLPSYYGSPTMYGSGIGGIFRNLFRMVLPFMKRGLSI?AKPLLKSAAKNIVSEVVANAMTRQEGLGRMMLSRKRPPGRRLKKR"/>
+                    <sequence id="seq_Otshawytsc40" taxon="Otshawytsc40" totalcount="20" value="DPNRYVTYYVDQVGNGLPGYYGSPTMYGSGIGGIFRNLFRMVLPFMKRGFS?IAKPHLKSAAKNIVSEVVANAMTRQEGSGLM----MAPLT-RHTRP"/>
+                    <sequence id="seq_Otshawytsc43" taxon="Otshawytsc43" totalcount="20" value="DTPRAG--TIKGVWLWL---?GSPTMYGSGIGGIFRNLFRMVLPFMKRSLSI-AKPHLKSAAKNIVSEVVANAMTRQEGAGLMMLSRKRPLGRRKK-R"/>
+                    <sequence id="seq_Otshawytsc45" taxon="Otshawytsc45" totalcount="20" value="DPNRYVPYYVDQWVMGYP-LFGTPTM?GSGIGVYFV?LFRMVLPFMKRGF-SIAKPHLKSAAKNIVSEVVANAITRQ?GSGLMMLSRKEGLLRR-KKR"/>
+                    <sequence id="seq_Otshawytsc47" taxon="Otshawytsc47" totalcount="20" value="--ERFTTHYRHHVGNGLPA--GPPTMYGSGIGGIFRHLFRMV?PFMTRGFSLI----LKSAAKKIVSEVVANAITRQEGSGMM-LERKRPPGRRKRTR"/>
+                    <sequence id="seq_Otshawytsc5" taxon="Otshawytsc5" totalcount="20" value="NPNRYVSYYVDQVGNGLPGYYASPTMYGSGIGGIFRNLFRMVLPFMKRGFSI?ANPHLKSVAKNTVSEVVANAMTRQESSGLMMLSRKRPPGRRKKQ?"/>
+                    <sequence id="seq_Otshawytsc7" taxon="Otshawytsc7" totalcount="20" value="-P--YVSYYVAQVGNGLHGYYGSPTM?GSGIGGIFRNLFRMVLPFMRRGLS-IAKPHLKSAAKNVVSEVVANAMTRQES?GLMMLSRKRPLGRRKK-W"/>
+                    <sequence id="seq_Pbivittatu12" taxon="Pbivittatu12" totalcount="20" value="SPQ-Y-AYYTAQAGHSLADFQGTPVMYRTGLGGVFRGLFQ-SMPFLRKGLEI--QPHVKSAVKNIV?E-VSH-VEGQEGLG-MI---KNPP-KKR?EK"/>
+                    <sequence id="seq_Pbivittatu2" taxon="Pbivittatu2" totalcount="20" value="SPQ-Y-AYYRVQAGSDLAGFQGTPIMYGTDLGGLFHGLFQ-AMPFLRKG-EI--KPHVKTAAKIVVRDVVSCVVWGQEGSG-MM---KNLA-KKRKVK"/>
+                    <sequence id="seq_Pbivittatu7" taxon="Pbivittatu7" totalcount="20" value="DPNRYVAYYTAQAGHGLAGFRGTPVMYGTGLG-MFRGLFR-AMPFLRKGLH---KP-LKTAM-NVL-D-ISNSLAATDGSSIAI-N-H--PG-RSSTK"/>
+                    <sequence id="seq_Pflavoviri10" taxon="Pflavoviri10" totalcount="20" value="-PQ-YVAYYRAQ--NGLAAFRGAPVMY-TGIGGLF?FFFR-AMPLL-RGLEII-KPQLKAAAKNIATD-MSGLVSRQEGAG-MVI-RKHPPAKRKK-K"/>
+                    <sequence id="seq_Pflavoviri2" taxon="Pflavoviri2" totalcount="20" value="SPQ-Y-GYYRAQASGGLPGFQGAPIMYGTGLG?LSRGLFR-AMPFLRQGLEI--KPHMKSAAKNIARDVVSRVVERQDGSG-II---KNPP-KKRRVK"/>
+                    <sequence id="seq_Pflavoviri4" taxon="Pflavoviri4" totalcount="20" value="NPQ-Y-A-YRAQAGGGLPGFRGAPIMY----G?LFRG?FR-AMPFLRQGLEI--KPHVKSAAKNIARDVESRVVERQDGSG-MI---KNPP-KKRRVK"/>
+                    <sequence id="seq_Pflavoviri5" taxon="Pflavoviri5" totalcount="20" value="NPQ-Y-AYYRAQAGGGLPGFQGAPIMYGTGLGGQFCGLFR-AMPFLRRGLEI--KPHVKSAAKNIARDVVSRVVERQDGSG-LI---KNLP-KKRRTK"/>
+                    <sequence id="seq_Pflavoviri8" taxon="Pflavoviri8" totalcount="20" value="SPQ-Y-AYYRAQADGGLPGFQGA?IMYRTGLGGLFCGLFR-AMPFLSRGLEI--KPHVKSAAKNIARDVVSRVVERQDGSG-MI---KNPP-KKRRVK"/>
+                    <sequence id="seq_Pflavoviri9" taxon="Pflavoviri9" totalcount="20" value="SPQ-Y-AYYRAQAGGGLPVFQGAPIIYGTGLGGLFHGLFR-AIHFLR-GLEI--KPHMKSAAKNIARDVVSHVVERQDGSG-MI---KNLL-KKRRVK"/>
+                    <sequence id="seq_Pfluviatil1" taxon="Pfluviatil1" totalcount="20" value="DPRRFVAYY-GQVGGALPGFYGAPVMYGRGIGSIFSKLFRF-VPLLRKGFAVAK?PHLKTAATNIASDAVKGFMGKQEGGGIMVLSRKRPPGERKK-R"/>
+                    <sequence id="seq_Pfluviatil28" taxon="Pfluviatil28" totalcount="20" value="DPRRFVAYY-GQVGGALPGFYGAPVMYGRGIGSIFSKLFRF-VPLLRKGFAVAK?PHLKTAATNIASDAVKGFMGKQEGGGIMVLSRKRPPGERKK-R"/>
+                    <sequence id="seq_Pfluviatil34" taxon="Pfluviatil34" totalcount="20" value="DPRRFVA-Y-GQVGGTLPGFYGAPVMYGRGIGSIFSKLFRF-VPLLRKGFAVAK?PHLKTAATNIASDAVKGFMGKQ-GGGIMVLSRKRPPGERKK-R"/>
+                    <sequence id="seq_Pfluviatil37" taxon="Pfluviatil37" totalcount="20" value="D-GRYMHYYMNQAG-GLPGF-GSSTQYGHGLGGIFRNLFRMAVPLLKKGFNI?AKPHLKTAASGFIGDVVTNV--RQQGNGLMVYRKKRAP-KHKTKR"/>
+                    <sequence id="seq_Pfluviatil48" taxon="Pfluviatil48" totalcount="20" value="D-GRYMHYYMNQAG-GLPGF-GSSTQYGHGLGGIFRNLFRMAVPLLKKGFNI?AKPHLKTAASGFIGDVVTNV--RQQGNGLMVYRKKRPP-KHKTKR"/>
+                    <sequence id="seq_Pfluviatil56" taxon="Pfluviatil56" totalcount="20" value="D-GRYMHYYMNEAG-GLPGF-GSSTQYGHGLGGIFRNLFRMAVPLLKKGFN?IAKPHLKTAASGFIGDVVTNV--RQQGNGLMVYRKKRAP-KHKTKR"/>
+                    <sequence id="seq_Pfluviatil59" taxon="Pfluviatil59" totalcount="20" value="D-GRYMHYYMNQAG-GLPGF-GSSTQYGHGLGGIFRNLFRMAVPLLKKGFNI?AKPHLKTAASNAVKEAAIKF-ITYKAN----Y--KGAP-KRTTPK"/>
+                    <sequence id="seq_Pformosa1" taxon="Pformosa1" totalcount="20" value="DPHRFVHYY-NQVGGALPGFYGSPTMYGRGIGSIFSRLFRF-VPLFKSGFAL?AKPHLKKAATNIATDVIGKAMNKQEGGGIMVLSRKRPPGERQ--K"/>
+                    <sequence id="seq_Pformosa3" taxon="Pformosa3" totalcount="20" value="DPHRFVHYY-NQVGGTLPGFYGSPTMYGRGIGSIFSRLFRF-VPLFKSGFAL?AKPHLKKAATNIATDVIGKAMNKQEGSGIMVLSRKRPPGERQ--K"/>
+                    <sequence id="seq_Phypophtha10" taxon="Phypophtha10" totalcount="20" value="DPHRFVRYY-NQAGGDLGGFYGATVMYDRGTGSIFSKLFRF-VPLMKKGLEI?AKRHLKTAAAY-----------R---GGICVLSH---PAEREKDR"/>
+                    <sequence id="seq_Phypophtha2" taxon="Phypophtha2" totalcount="20" value="--QRPLDYYVHQAGNGLPGFHRAPTMYVSGLGGLFKGLYRMAVPFLKRGFAIT-KLHLNTVAKGVLSDVVSNIKSKQDGSGLLI-AHKGSRGRHNRHK"/>
+                    <sequence id="seq_Phypophtha3" taxon="Phypophtha3" totalcount="20" value="DPHRFVHYY-SQVGGELGGFHGAPVMYGRGIGSIFSKLFRF-IVLLKKGFTI?AKPHLKMAAIRIASDAFDRTVGTQEGGGIVVWSCKRPLGEHAK-R"/>
+                    <sequence id="seq_Phypophtha4" taxon="Phypophtha4" totalcount="20" value="-PQSYVDYYVHQ----------AA?MYGAGQGDLFKG?FRMAVPFLKRAYAIA-KPHLKTAAKGIVSDVVGNLMRKQDESGLLI-ARKQPP?RHNRRK"/>
+                    <sequence id="seq_Phypophtha5" taxon="Phypophtha5" totalcount="20" value="--ECYVDYYVHQAGNGLPGFHSAPTMYGSGLGGLFKGLYRMAVPFLKRGFAIT?KLHLKTMAKGILSDVVSNIMSKQDRSGLLI-AHKGSRGWHNRCK"/>
+                    <sequence id="seq_Phypophtha6" taxon="Phypophtha6" totalcount="20" value="--D?YVDYYTHQTGNGLPGFHGAPTMYRAGLGGVFKGLFRMAVPFLKRGFAIE-KPHL-TAAKDIVSDVVSNIMNKQDG?EIHG-LSKDPPGRHKQDS"/>
+                    <sequence id="seq_Phypophtha8" taxon="Phypophtha8" totalcount="20" value="DPHRFVRYY-NQA-------------?GHGIGSIFSKLFRF-VLLLKKGLDI-AKPHLKMAATRIAMDAVGRVVGKQEGGGIVVLSRRRPPGER-K-C"/>
+                    <sequence id="seq_Pkinsleyae10" taxon="Pkinsleyae10" totalcount="20" value="?SH-Y-EY-----------YNRAPVMYGGGLGGLFRVLLR-AVPFLKRTSN--AKPHFKSAAQNIAKDVATGLST-QEGSGLML----API-KKR---"/>
+                    <sequence id="seq_Pkinsleyae11" taxon="Pkinsleyae11" totalcount="20" value="DPN-Y-EYYRNQAGNGLPGYDGAPVMYGGGLGGLFQGLLR-AVPFLKRTFN?IVHPHILSAFKIIVQDKAKLSTT-LEFSGIFV----SL?-KGRE--"/>
+                    <sequence id="seq_Pkinsleyae3" taxon="Pkinsleyae3" totalcount="20" value="------GYYRNQAGNGLPGYNGAPIMYRAGLGGLFRGLLR-AVPFPKRTFNV-?KPHLKSAAQNIAKDMATRLTA-QEGSGLML----APN-KKR---"/>
+                    <sequence id="seq_Pkinsleyae7" taxon="Pkinsleyae7" totalcount="20" value="---RFIQYY-SQAGHGLPGFARSPVMYRRGLGSMVSRAFRL-VPFLKRGVD-IAKPHLKSAANGIASDLASSVVGRQEGSGLLLLPQKRPP--R-QGK"/>
+                    <sequence id="seq_Pkinsleyae8" taxon="Pkinsleyae8" totalcount="20" value="KGARFIQYY-SQAGHGLPGFAGSPVMYGHGLGSMLSRAFRF-IPFLKRGVD-IAKPHFKSAAKGIASDLA-G?VGRQEGSGSMVIKN--PPSNR-EG-"/>
+                    <sequence id="seq_Pmajor1" taxon="Pmajor1" totalcount="20" value="DPHRFVSYY-NQVGGALPGFYGAPVMYGRGIGSVFSKLFRF-VPLIKKGFTIAK?PHLKTAAKNIASQAISHAMSRQEGGGIMVLARKRPPGDLKK-P"/>
+                    <sequence id="seq_Pmajor2" taxon="Pmajor2" totalcount="20" value="DPLRLVSYY-SQVGG?LPGFAGSPVMYGRGIGSVFSRLFRF-VPLVKKGFAIA-KPHLKTAAKSIASDVFKQAVGKQEGVGIMVLARKRPPGHRKKRR"/>
+                    <sequence id="seq_Pmucrosqua10" taxon="Pmucrosqua10" totalcount="20" value="SPQ-Y-AYYRAQASGGLPGFRGAPIMYGTGLGGLFHGLF--AMPFLR-ELEI--KPHVKSAAKNIARDVVSRVVERQDGSG-MI---KNPP-KKRRVK"/>
+                    <sequence id="seq_Pmucrosqua12" taxon="Pmucrosqua12" totalcount="20" value="DPQ-YVAYYRAQ--NGLAAFRGAPVMY-TGIGGLFG-FFQ-AMPLL-RGLEII-KPQLKAAAKNIATD-MSGLVSHQEGAG-MVI-RKHPPAKRKK-K"/>
+                    <sequence id="seq_Pmucrosqua3" taxon="Pmucrosqua3" totalcount="20" value="NPQ-Y-AYYRAQAGGGLPGFRGAPIMYGTGLGGLFRGLFR-AMPFLRQALEI--KPHVKSAAKNIARDVVSRVVERQDGSG-MI---KNPP-KKRKVK"/>
+                    <sequence id="seq_Pmucrosqua5" taxon="Pmucrosqua5" totalcount="20" value="NPQ-Y-AYYRAQADGGLPGFQGAPIMYGTGLGGQFCGLFR-AMPFLRRGLEI--KPHVKSAAKNIARDVVSRVVERQDGSG-LI---KNPL-KQRRSK"/>
+                    <sequence id="seq_Pmucrosqua6" taxon="Pmucrosqua6" totalcount="20" value="NPQ-Y-AYYRAQAGGGLPGF-GAPNMYGTSLGGLFCGLFR-AMPLLRHGLEI--KPHVKSAAKNIARDVVSQVVERQDGSG-LI---KNPP-KKRRVK"/>
+                    <sequence id="seq_Pmucrosqua7" taxon="Pmucrosqua7" totalcount="20" value="SPQ-Y-GYYRAQASGGLPGFQGAPIMYGTGLG?LSRGLFR-AMSFLRQGLEI--KPHVKSAAKNIARDVVSRVVERQDGSG-II---KNPP-KKRRVK"/>
+                    <sequence id="seq_Pnattereri10" taxon="Pnattereri10" totalcount="20" value="D----VAYYQNQAG--MPG-------YGAGFGGIFRNVFRMAIPLFKRAFSIVSKLHLEAA-KHIVSDIALKINSKHHG----VYTIQAFP-YRN?-R"/>
+                    <sequence id="seq_Pnattereri11" taxon="Pnattereri11" totalcount="20" value="DPERYVSYYQNQAG--MPGYTGSRAMYGAGFGGIFRNFMRLLTPQCSK?INVAKKPHDETAQKKLLHQAVAKTIKKRKGRPRVTAAEK----R-RR-A"/>
+                    <sequence id="seq_Pnattereri6" taxon="Pnattereri6" totalcount="20" value="DPECDVSYYLNEAGGIIPGYA----MYEAGFGGIFRNIFRMAILLFKRGFSI?AKPHLKTAA?NILSKIVSSGLTQQDGLGMLVTAPKRPPGRR-GCQ"/>
+                    <sequence id="seq_Pnattereri7" taxon="Pnattereri7" totalcount="20" value="DPERYVAYYQYQAGGIMPGYIGGSAMYGAGFGGIFRDLL?MAIPLFKRGFS-IAKRHLKTAAKNTVSMV-----?H----------KKRPPGRHKKKK"/>
+                    <sequence id="seq_Pnattereri8" taxon="Pnattereri8" totalcount="20" value="EPER--------AGGIMPGYTGSPAVYGAGFGGIFRNLFRMAVLLFKRVFS-TAKPHLKTAAKN?LTDIVSKGLTHQDGTGMLVMARKRPPGRRKKTK"/>
+                    <sequence id="seq_Polivaceus1" taxon="Polivaceus1" totalcount="20" value="DPHRFVHYY-SQVGGNVPGFYGAPVMYGRGLGSIFSKLFRF-VPLVKRGFAI?AKPHLKSAASSIASDVFRRTMGKQEGGGIMVLARRRPPGDRKK-R"/>
+                    <sequence id="seq_Pparvicorn1" taxon="Pparvicorn1" totalcount="20" value="DPHSFISYYKGQGR--LPGL-GTA?HYGCGIDSLFS-LLRFLSPLLQKGFAIA-KPH?KNAASKIASDVIS-TIN-QGSSGILVLSRK-PPG-SRK-K"/>
+                    <sequence id="seq_Ppicta1" taxon="Ppicta1" totalcount="20" value="YPA-F-SYYQSQAGNGLPGFHGVPVMYGRGVGGIFRHLFR-AVPLFRKGVDV--KPHLKMAARNIAQDVVTHVMKKQEGSGL-L-KRKA-P--RSA--"/>
+                    <sequence id="seq_Ppicta2" taxon="Ppicta2" totalcount="20" value="DPE-Y-NYYKNQAGYALSGYHGAPVMYGAGVGGIFRSLFQ-AVPLLRSGFEL--NPHVKSAA-NLAKDVV---LNKQEGTG-----KE-VP------R"/>
+                    <sequence id="seq_Ppromelas1" taxon="Ppromelas1" totalcount="20" value="ETADYVAYYQNQAGGGLPGYSGGGVMYGAGIGGLFRGLFRMAIPLLKRGFS?IAKPHLKSAAKNIVSDVVSNVLTRQDGSGLMVMARK-PPGRRKKTI"/>
+                    <sequence id="seq_Ppromelas2" taxon="Ppromelas2" totalcount="20" value="ESPDYVAYYQNQAGGALPGYAGGGVMYGSGLGGIFRGLFRMAIPLLKRGFSIAK?PHLKSAAKNIASDVFSNVLMRQGGSGLMVMARK-PPGRRKKTT"/>
+                    <sequence id="seq_Preticulat1" taxon="Preticulat1" totalcount="20" value="DPHRFIHYY-NQVGGALPGFYGFATMYGRGIGSIFSRLFRF-VPLLKSGFSL?AKPHLKKAATNIATDVIGRAMNKQE?SGIMVLSRKRPPGERQ--I"/>
+                    <sequence id="seq_Preticulat2" taxon="Preticulat2" totalcount="20" value="DPQRLIQYY-NQVGGALPDFYGSATMYGRCIGSIFSRLFRF-VPLFKSGYAL?AKPHLKKAAVNIATDVIGKTMNKQAGSRIMVLSRK-?PGQRSQ-K"/>
+                    <sequence id="seq_Preticulat4" taxon="Preticulat4" totalcount="20" value="NPHRFVHYY-NQVGGALPGFYGSATTYGCGIGSIFSRLFRF-VPLVK-GFA?LAKLHLK?AATNIATDVIGRAMNKQEGSGIMVLSRKHPPREHQ--K"/>
+                    <sequence id="seq_Preticulat5" taxon="Preticulat5" totalcount="20" value="DPH?FVHYY-SQVGGALPGFHGSPVMYGRGI?SLFFLLFRF-VPFIKTGFAIA-RPHLKKAATNIASDVIGKAVNK---SGIMVLSQKRLSGEHQK--"/>
+                    <sequence id="seq_Psinensis1" taxon="Psinensis1" totalcount="20" value="DSK-Y-NYYKAQAGYALPGYHGAPVMYGAGVGGIFRSLFR-AVPLLRRGLEI--KPHIKTAAQNIARDVVSQVLEKQEGSGLMI-KRKRPP-KRRATR"/>
+                    <sequence id="seq_Psinensis2" taxon="Psinensis2" totalcount="20" value="IP?-Y-NYYKA-AGYALPGYHGAPVMYWAGVGRIFHTLF--AV-LLLKGLEI--KPHVKTAAQN?ARDVVSRILEKQEGSGLMI-RRKSPP-KRRATC"/>
+                    <sequence id="seq_Psinensis4" taxon="Psinensis4" totalcount="20" value="DPA-Y-NYYKAQAGYALPGYHGLPVMYGAGLGGIFRSLFR-AVPLLRRGFEI--KPHMKTAAKNITKDVVTSVMNKQEGLGLAM-VRKRPR-E-----"/>
+                    <sequence id="seq_Psinensis7" taxon="Psinensis7" totalcount="20" value="DPQ-Y-NYYKDQSGYALPGYHGAPVIYGAGMGEIFRSIFR-AVPFLRRGLEI--KPHVKIDAQNVARDLVSHVLEKQEGSGLMI-KRKRNP-KRRATR"/>
+                    <sequence id="seq_Psinensis8" taxon="Psinensis8" totalcount="20" value="DPS-H------QGPLALLGYPGLPEMYRAGLGG-----IR-AVPLLRRGLEI--KPHMRTAAKNITKDVVSSVMNKQEG--LVV-MRK-PP-KKKASR"/>
+                    <sequence id="seq_Psinensis9" taxon="Psinensis9" totalcount="20" value="DPT-Y-NYYKAQARYVLLGYHGALEMYGTGMGGIFHSLFQ-AVPFLRRGQEI--KPH-KTTTQNIARVMVSHVLEKSEGLGLMV-KRRRNP-KKK---"/>
+                    <sequence id="seq_Ptransmont2" taxon="Ptransmont2" totalcount="20" value="DQNRFIDYY-AQTGSGLAGFRGAPVHYGRGIGSIFARLFKF-VPMRRRGFQ?LSKLHLKTAAKNIVTDVFSAALAKD-CSGLLVLSRKRPPDT-KVRR"/>
+                    <sequence id="seq_Ptransmont3" taxon="Ptransmont3" totalcount="20" value="DQNRFIDYY-EQTGSGLAGFRGA?FHYGREIGSIFARLFKF-VPMLCRGFQ-LSKPHLKNAAKNIATDVFSAALAKD?GSGLMVLSRKRPPG--GTRG"/>
+                    <sequence id="seq_Pvitticeps1" taxon="Pvitticeps1" totalcount="20" value="DVN-Y-TYYNAQAGRGLPGFHG--NMYGAGLGGIFRGLFR-AVPLLRRGFEF--KPHIRTAAHNIAGDV---VMKKQEGSGLMM-KRK-PT-KKHQ-R"/>
+                    <sequence id="seq_Pvitticeps2" taxon="Pvitticeps2" totalcount="20" value="DIN-Y-DYYNAQASRGLPGFHG--NMYGAGLGGIFHWLF--AISLLRRGFEF--KPHIKTAVHNIAGDV---VIKKQEGS-LTL-KRK-P--KKSF-K"/>
+                    <sequence id="seq_Pvitticeps3" taxon="Pvitticeps3" totalcount="20" value="DIN-Y-AY-NAQAGHSLPGFHC--NMYGAGLGGIFHG?FQ-AVPLLRRGFQF--KSYIKTAMHNIAGDG---IMKKQE-SGLTL-KRK--S-RKKE-R"/>
+                    <sequence id="seq_Pwaltl12" taxon="Pwaltl12" totalcount="20" value="?RS-Y-DYYRVQAGYGGP-FQGAPVMYTAGLGSFFRSLFR-AMP?LRRGYEI-TKPHVKAAATNIAHDVVL-VAEHGCRTRRV----H?L--KKRTSK"/>
+                    <sequence id="seq_Pwaltl2" taxon="Pwaltl2" totalcount="20" value="YPS-Y-EYYRNQDGY--A-FQGVPVMYGTGLGGFFRSLFR-AVPFLRKGF-I-AKPHIKAVAENIAQAVVS-VVEHKRS?-ILR---KRP--KKKHLK"/>
+                    <sequence id="seq_Pwaltl4" taxon="Pwaltl4" totalcount="20" value="-PF-H-DFYRNQAGYGSP-LQGT?VMYGTGLGGILHSLSR-AMPFLRRGYEI-AKPHVKVAATNIAQDVVS-VVKHQEGVGLV---KK----------"/>
+                    <sequence id="seq_Rmarina1" taxon="Rmarina1" totalcount="20" value="DPS-Y-RYYVNQAGSGLEGFRG--YMYGAGLAGLFRGLFR-AVPLFRRGIDL--KPHVKTAARNIAKDAISAVMNKQKGSGLVV--KSRP?-KKMPKR"/>
+                    <sequence id="seq_Rmarina11" taxon="Rmarina11" totalcount="20" value="DPV-Y-RYYV---AAGLEGFRG--YMYGAGLVGIFKGLFR-AVP?FRREIKI--KPHLKNAVNNIAKDAVSTVIDKQKGSGVVV--KRQLP-MKKVKR"/>
+                    <sequence id="seq_Rmarina13" taxon="Rmarina13" totalcount="20" value="DAA-G-GYQQCSACSGMGGFRG--YMYGSGLAGLFRGLFR-AVPLFRRGIDL--KPHVKTAARNIAKDAISAVMNKQKGSGLVV-KKSRP--KK?---"/>
+                    <sequence id="seq_Rmarina6" taxon="Rmarina6" totalcount="20" value="DPS-Y-RYYVNQAGSGLEGFRG--YMYGAGLAGLFRGLFR-AVPLFRRGIDL--KPHVKTAARNIAKDAISAVMNKQKGSGLVV--KSRP--KKTPKR"/>
+                    <sequence id="seq_Salpinus10" taxon="Salpinus10" totalcount="20" value="DPNRYVSYYVAQVGNGLPGYYGSPTMYGSGIGGIFRNLFRMVLPFMKRGLSI?AKPHLKSAAKNIVSEVVANAMTRQEGSGLMMLS?KETPGRR-IKR"/>
+                    <sequence id="seq_Salpinus14" taxon="Salpinus14" totalcount="20" value="DPNH?VSFYVDQVGNGLPGYYGSPTMYGSGIGGIFRNLFRMVLSFMKRGLS-IAKPHLKSAAKNIV?EVVANAMTRQEGSGLMMLSRKRS?GRRKKRR"/>
+                    <sequence id="seq_Salpinus15" taxon="Salpinus15" totalcount="20" value="DPYQYVSYYVDQVGNGLPSYHGTPTMYGSGIGGIFRNLFRMVIPFMKRGIS?IAKPHLKSAA?NIVSGVVANAMTRQEGSGQM-LSRNRYPGRLSS-T"/>
+                    <sequence id="seq_Salpinus16" taxon="Salpinus16" totalcount="20" value="DPNRYVSYYVDQVGNGL-?YYGSPTMYGSGIGGIFRNLFGMVLPFMKRGLS-IAKQHFKSEAKNIVSEVVANAMTRQEGSGLMLLSRKRPPGRR?K-R"/>
+                    <sequence id="seq_Salpinus18" taxon="Salpinus18" totalcount="20" value="NPDLYVSYYVAHVGNGSPGYYGSP?MYGSGIGGIFRNLFRMVLPFMKRGL?SIAKPHLYSS-----------AIGRY-------------PGE-TSCY"/>
+                    <sequence id="seq_Salpinus3" taxon="Salpinus3" totalcount="20" value="DPNRYVSYYVDQVGNGLPGYYGSPTMYGSGIGSIFRNLFRMV-PFMKRGLS?IAKPHL-SVAKNTVSEVVANAMTRQEGSGLMILSRKRPPGRRKK?R"/>
+                    <sequence id="seq_Salpinus4" taxon="Salpinus4" totalcount="20" value="DPNRFVSYYVDQMGNGLPGYHGFPTLYGSEIGVIFRNLFRMFLPFMERGLS?IAKPHLKSAAKNIVSEVVANAMTR--?PGLMLLSRKRPPGRRKK-W"/>
+                    <sequence id="seq_Salpinus6" taxon="Salpinus6" totalcount="20" value="DPNRYVSYYVDQVGNGLPGYHGAPTMYGAGIGGIFRNLFRMVLPFMK?GFS-IAK?HLKSAAKNIVSEVVANAMTRQEGSGLMILSRKRP?GRRKK-R"/>
+                    <sequence id="seq_Salpinus8" taxon="Salpinus8" totalcount="20" value="DPNRYVSYYVAQVGNGLPGYYGSPTMYGSGIGGRFRNLFRMVLPFMKRGL?SIAKPHLKSAAKNIVSEVVANAMTRQEGSGLMMLSRKRPPGRRK?KR"/>
+                    <sequence id="seq_Sanshuiens1" taxon="Sanshuiens1" totalcount="20" value="DPERYVAYYQNQAGNDLPGYAGGGVMYGAGLGSLFRGLFRMAIPLLKRGFS?IAKPHFKSAAKNILSDVVSNTLTHQGGSGIMVMSRR-PPGRRK?RK"/>
+                    <sequence id="seq_Sanshuiens14" taxon="Sanshuiens14" totalcount="20" value="NAADYVDYYRNQAGGGLLGYAGGAVM-GAGLGGLFRGLFRMAVPLLKRGFS?IAKPHLKSAAKNIAADVISNALSRQGGSGLMVMARK-P?GRRKKTK"/>
+                    <sequence id="seq_Sanshuiens15" taxon="Sanshuiens15" totalcount="20" value="NAADYVDYFQNQACGGLPGYGGGAVMYGAGLGGLFRSLFRLAVPLLKRGLS?IAKPHLKSAAKNIAADVVSNALSRQDGSGLMVMARK-PPGRR?KTK"/>
+                    <sequence id="seq_Sanshuiens16" taxon="Sanshuiens16" totalcount="20" value="DLKRYVAYYRNQAGNGLPGYAGGPVMYGSGLGGIFRVLFRTALPLLKRRFSIA?KPHLKTAARNIASDVVTTALSRQNGNGLMVMSRK-PPGRMKKTK"/>
+                    <sequence id="seq_Sanshuiens17" taxon="Sanshuiens17" totalcount="20" value="NAADYVDYYQIQAGEGLPGNAGGAIMYRSGLGGLFRELFRMAIPLLKRVLS?IAKPHLKAAAKNIATDVF----SRQDSSGLMVMAHK-PPIRL-KKK"/>
+                    <sequence id="seq_Sanshuiens2" taxon="Sanshuiens2" totalcount="20" value="VPERYVTYYQNQAGNGLPGYAGGGVMYGAGLGGIFRGLFRMAIPLLKRGFN-IAKPHLKSAAKNILSDVVSNTLTRQDGSGLMVMSRR-PPGRRK-RR"/>
+                    <sequence id="seq_Sanshuiens5" taxon="Sanshuiens5" totalcount="20" value="DPERYVAYYRNQAGNGLPGYAGGPVMYGSGLGGIFRALFRTALPLLKRGFSIA-KPHLKTAARNIASDVVTTALSRQNGNGLMVMSRK-PPGRMKT?K"/>
+                    <sequence id="seq_Sanshuiens6" taxon="Sanshuiens6" totalcount="20" value="DPERYVAYYRNQAGNGLPGYAGGPVMYGSGIGGIFRALFRTALPLLKRGFSIA?KPHVKTAARNIASDVVTTALSRQNGNGLMYFTAT-PP---SQVS"/>
+                    <sequence id="seq_Sanshuiens8" taxon="Sanshuiens8" totalcount="20" value="DPERYVAYYQNQAGNDLPGYAGGGVIYGAGLGGLFRGLFRIAIPLLKREFS?IARPHLKSAAKNILSDVVSSILTHQGGSGLMVMSRR-PPGRRK?RK"/>
+                    <sequence id="seq_Sanshuiens9" taxon="Sanshuiens9" totalcount="20" value="NVADYVDYYRNQSGGGLPGYAGGAVMYGAGLGGLFRGLF-MAVPLLKKGFS?IAKPHLKVAAKNIVSDVVSNAMPRQDGSGLMVMARK-PPGRRKKTK"/>
+                    <sequence id="seq_Saurata1" taxon="Saurata1" totalcount="20" value="DPHRFVSYY-NQAGGALPGFYGAPVMYGRGIGSIFSRLFRF-VPLVKKGFAIAK?PHLKTAAKNIASQAVSHAMSRQEGGGIMVLARKRPPGDRKK-H"/>
+                    <sequence id="seq_Saurata2" taxon="Saurata2" totalcount="20" value="N-RGYMDIYMNQAG-GLPGF-GASTQYG?GLGGIFRSLFRMAYAFVK?GFSL-AKPHLRTAA?NIAGRYVSNI-ARQDGSGMLVYSRKRPP-KRK---"/>
+                    <sequence id="seq_Scamelus1" taxon="Scamelus1" totalcount="20" value="DLT-Y-NYYRAQASNGFPGFQGI-LMYGAGIGGIFHSLLG-AIPLLKRGLEI--KPHVKSVTQVIAKNVSSKVPDMQECLGLVI-QRKRPP-QKK---"/>
+                    <sequence id="seq_Scamelus10" taxon="Scamelus10" totalcount="20" value="------SCYCKDSGKPGASFQGVPVMYSVGLGGIFSSLFR-AVLLLKRRFDI--KSHVKSAAQQIAKSVISEVQ?KPEGLTLVI-PRDIT-----WS-"/>
+                    <sequence id="seq_Scamelus11" taxon="Scamelus11" totalcount="20" value="DPS-H-KYYRPQASNGLPGFQGVPVMYGAGVGGIF--LFR-AVPLFKRGLEI--?VHVKSAAQDIKKMCTSKFLDKQEGLGLVI-QRKRDP-KRKR--"/>
+                    <sequence id="seq_Scamelus2" taxon="Scamelus2" totalcount="20" value="DPS-Y-NYYRAQSGNGFPGFQGVPVIYGAGVGGIFHSLFR-AVPLLKRELEI--KPHVKSTTQNIAKNIISKILDKQESLGLVI-QRKKHP-QKKG--"/>
+                    <sequence id="seq_Scamelus3" taxon="Scamelus3" totalcount="20" value="DLS-C-NYYSVQASKCLPGFQDVPVIYGSGVRGIFCSFFR-AVLLLKRGLEI--KPHIESAAQSIAKIITSHILDK?EGLGVVI-KRKTPD-KKKTKT"/>
+                    <sequence id="seq_Scamelus4" taxon="Scamelus4" totalcount="20" value="DPC-Y-N-YLAQVGSHLLGFQGVPVTYGAGIGSMFVSLFR-AVPIFQT?LEI--RPHVKSALQNPAKNVVSKVLDKQKNSGFTI-QRKRPP-KRRMDR"/>
+                    <sequence id="seq_Scamelus5" taxon="Scamelus5" totalcount="20" value="DLA-Y-NYYRAETGNALPGFRVVPVMYGVGTGGIFRSLFR-AVQLLKRG-----KPHIKSTAQDIKK?VVSKIFYKQEG--LLI-QRKR---RQQSQK"/>
+                    <sequence id="seq_Scamelus6" taxon="Scamelus6" totalcount="20" value="ELA-Y-NYYRAQSGSGLPGF-------GTVAGGIPHSLFR-TVLLWKGGLEV--MTHIKSTVQDFAKNVVSKVLDKQEGSGLAI-QRKRPP-KRKRRE"/>
+                    <sequence id="seq_Scamelus7" taxon="Scamelus7" totalcount="20" value="DPS-Y-NYYRAQGSNGLSGFKEGPVNDGTGVGGIFCSLF?-TIPLLQRGLQI--KQHIKST----AKNVVSEILDKQED--LLI-QR-----KRETHK"/>
+                    <sequence id="seq_Scamelus8" taxon="Scamelus8" totalcount="20" value="QPL-F---VGAEAGFST---AG--VMHGAGMGGIFHSLFR-SVPLLKRGWKL--KS---TA-QTIAKNVVAQILDEQEGLGLVI-QRKR-P--RKA-R"/>
+                    <sequence id="seq_Scamelus9" taxon="Scamelus9" totalcount="20" value="DP--YVNYYRTQTGNG-PGFQGIPVIY-A-VGGI--NLFG-AI-LFK-GLEIV-KPYISTAAENV-S---TQLLDKQEG-GLVI-QRK--PG-KKQ-R"/>
+                    <sequence id="seq_Schordatus1" taxon="Schordatus1" totalcount="20" value="NPNRFVDYY-NQVGSGMPGFAGAPVLYGRGLGSIFGRMFRF-VPFFKQGINI?AKPHFKAAAKNIASDVVSAAINRQKGSGLYLISHKR----K-QRR"/>
+                    <sequence id="seq_Sdiagramma10" taxon="Sdiagramma10" totalcount="20" value="D-SKYVKYYLSQAG-GLGGY-GTSTQYGTGLGGLFRSLFRFAVPLFKKGVSIVK?PHLKTAASGIVSDVITNI-TRQDGNGLYVYTKKTPP-KRKKPR"/>
+                    <sequence id="seq_Sdiagramma11" taxon="Sdiagramma11" totalcount="20" value="D-AKYLQYYLAQAG-GLGGY-GTSTQYGAGLGGLFPSLFRFAVPLFKKGVSIVK?PHLKKGASGIVSDVISNI-TKQDGNGVYVYTYKTPP-KRKKPR"/>
+                    <sequence id="seq_Sdiagramma12" taxon="Sdiagramma12" totalcount="20" value="DNNRFIGYY-TQAGNGLPGFSGAPVIYGRGIASIFSKLFRF-VPFIKRGVSI?TKPHLKSAVKGFASDIVTSSLSNQEGSGLTLISRKRPPGQRKK?K"/>
+                    <sequence id="seq_Sdiagramma2" taxon="Sdiagramma2" totalcount="20" value="D-AKYVRYYLNQAG-GLNGY-GTSTQCGAGLGGLFSSLFRIAVLLFKKGVSIVK?PHLKTAASGIVSDVISNI-TKQDGNGLYVYTKKTPP-KRKKPR"/>
+                    <sequence id="seq_Sdiagramma3" taxon="Sdiagramma3" totalcount="20" value="DPHRFVRYY-GQMSGSLPGFYGAPVMYGKGIGSIFSRLFRF-VPLFKTGFAVAAKPHLKTAATNIATDAVKRVMGKQEGGGMMVLSRKRPPGER-K--"/>
+                    <sequence id="seq_Sdiagramma6" taxon="Sdiagramma6" totalcount="20" value="D-AKYVRYYLNQAG-GLGGY-VTSTQYGAGLGGLFRSLFRFAVPLFKKGVSIVK?PHLKTAASGIVSDVVSNI-TKQDGNGVYVYTNKTPP-KCKKPR"/>
+                    <sequence id="seq_Sdiagramma8" taxon="Sdiagramma8" totalcount="20" value="N-ISSVDYY-NSAG-GLNGY-GTSTQYGARLGGLFSSLFRIAVPLFKKGVSIVKP?HLKKAASGIVSDVISNI-TKQDGNGLYV-CRRTPG-KRKQKR"/>
+                    <sequence id="seq_Sdumerili2" taxon="Sdumerili2" totalcount="20" value="DPHRFVSYY-SQVGGALPGFYGALVMYGRGIGSIFSKLFRF-VPLLRKGSAI?AKPHLKLAASNIASDMI---?GKQEGGGIMILSHRRPPGECKK-R"/>
+                    <sequence id="seq_Sdumerili3" taxon="Sdumerili3" totalcount="20" value="DPHRFVSYY-SQ?GGGLPGFYGAAVMYGQDIGSIFSKLFSF-VPLLREGFTIA-KPHLKSAATNIASDMISK?VGKQEGGGIMIFFRRRLPGERQK--"/>
+                    <sequence id="seq_Sdumerili4" taxon="Sdumerili4" totalcount="20" value="-------HYMNQAG--LRGF-GTSTQYGKGLGSIFL-LFGMTVPLLR-RFSL?AKPHLKTATTNIVGDVVD-SLTRSQS--------V------SS-S"/>
+                    <sequence id="seq_Sdumerili5" taxon="Sdumerili5" totalcount="20" value="DPHRFVSYY-SQVGGALPGFYGAPVMYGRGIGSIFSKLFRF-VPLLRKGFGI?AKPHLKSAASTITSDVISRTVGKQEGGGIMILSRRRPPGERKK-R"/>
+                    <sequence id="seq_Sdumerili7" taxon="Sdumerili7" totalcount="20" value="DPHRFVSYY-SQ-GGTLPGFYGAPVMYGRGIGSIFSKLFRF-VPLLRKGFAIATP?HIKSAASNIASDVISCTVGKQEGGGIMILSCRRPAGERKK-R"/>
+                    <sequence id="seq_Sgrahami1" taxon="Sgrahami1" totalcount="20" value="DPERYVPYYQNQAGNGLPGYAGGGVMYGAGLGGLFRGLFRMAIPLLKRGFS?IARPHLKSAAKNILSDVVSNTLTHQGGSGLMVMSRR-PPGRRK?RK"/>
+                    <sequence id="seq_Sgrahami12" taxon="Sgrahami12" totalcount="20" value="NATDDVDYY-NQAGGGLPGNAGGAVMYGAGLGGLFRGLFRLAVPLL-RGFS?IAKPHLKSAAKNIAADVVSNALV-QDGSGLMVMAHK-PPGRRKKTK"/>
+                    <sequence id="seq_Sgrahami13" taxon="Sgrahami13" totalcount="20" value="HMKHVVNDIRNQASNGLPGYAGGPVMYGAGLGGIFRALFRTALPLLKRGFSI-AKPHLK?TARNIASDVVTTALSRQNGNGLMVMSRH-P--RMKKSK"/>
+                    <sequence id="seq_Sgrahami16" taxon="Sgrahami16" totalcount="20" value="DPERYVAYYRNQAGNGLPGYAGAPVMYGAGLGGIFRALFRTALPLLKRGFSI----A?Q----NISSEHIERWRT-QSTKGL-AVS----------YG"/>
+                    <sequence id="seq_Sgrahami17" taxon="Sgrahami17" totalcount="20" value="DPER-VAYYRNQAGNGLPGYAGGPVMYGSGIGGIFRALFRTALPLLKRA-------HLKTAARNIASDVVTTALSRQNGNGLMVMSRK-PPGRMKTK?"/>
+                    <sequence id="seq_Sgrahami2" taxon="Sgrahami2" totalcount="20" value="NTADYVNYYRNQAGGGLPGYAGGAVMYGAGLGGLFRGLFRMAVPLLKRGFS?IAKPHLKSAAKNIAADVVSNALSRQGGSGLMVMARK-PPGRRKKTK"/>
+                    <sequence id="seq_Sgrahami5" taxon="Sgrahami5" totalcount="20" value="DPERYVTYYQNQAGNGLPGYAGGGVMYGAGLGGIFRGLFRMAIPLLKRGFN?IAKPHLKSAAKNIQSDVVSNTLIHQDGSGLMVMSHR-PPGSRK?RR"/>
+                    <sequence id="seq_Sgrahami7" taxon="Sgrahami7" totalcount="20" value="NVADYVDYYRNQAGGGLPGYAGGAVMYGAGLGGLFRGLFRMAVPLLKKGFS?IDKPHLKAAAKNIVSDVISNAMPRQDGSGCMVMARK-PPGRRKKTK"/>
+                    <sequence id="seq_Sgrahami9" taxon="Sgrahami9" totalcount="20" value="NTADYVNYYRNQ?GGGLPGYAGGAVMYGAGLGGLFRGLFRLAVLFLKRGFS-IAKPHLKSVA?NIAADVVSNVLSRQDGSGLMVMARK-PPGRRKKTK"/>
+                    <sequence id="seq_Slalandi1" taxon="Slalandi1" totalcount="20" value="DPNHFVSYY-SQ?GGGLPGFY-AAVMYGRGIGSIFLKLFSF-VPLLRKGFTIA-KPHLKSAATNIASDVTSQTVGKQEGGGIMIFLRRRPPGDKQR--"/>
+                    <sequence id="seq_Slalandi2" taxon="Slalandi2" totalcount="20" value="DDSRYVSYYMNQAR--LRGF-GTSTQYGKGLGGIFL-LFGMTVPLLR-GFSLA?KPYLKTAATNIVVDVVS-TLE-HYGSGL----LR-----RE?-R"/>
+                    <sequence id="seq_Slalandi3" taxon="Slalandi3" totalcount="20" value="DPHRFVSYY-SQVGGALPGFYGAPVMYGRGIGSIFSKLFRF-VPLMRKGNAI?VKEH-KTAAQQVATFALSPELAK---AGD-----SRAPGS-GKL-"/>
+                    <sequence id="seq_Slalandi4" taxon="Slalandi4" totalcount="20" value="DPHRFVSYY-SQVGGALPGF?GAPVMYGRGVGSIFSKLFRF-VPLLRKGFAI-AKPHLKSAASNIASDVISRTVGKQEGGGIMILSRRRPPGERKI-C"/>
+                    <sequence id="seq_Smaximus3" taxon="Smaximus3" totalcount="20" value="DPYRYVSYY-NQVGGSLPGFYGSPVMYGRGIGSIFAKLFRF-VPFVKRGFA?VAKPHLKSAAKNIALDVIS---G?QEGGGIMVLARKRPPGQRSF-F"/>
+                    <sequence id="seq_Smaximus7" taxon="Smaximus7" totalcount="20" value="DPHRFVSYY-NQAGGSLPSFYVSPVMYRRGIGSIFAELFRF-VPFFKRGFAVA-KPHLKSAAKNIESD-?SRAVGKQEGGGIMVLARKRPPGPLNK-R"/>
+                    <sequence id="seq_Smelops1" taxon="Smelops1" totalcount="20" value="DPYRFVSYY-NQVGGALPGFYGAPVMYGRGIGSVFSRLFRF-VPMIKKGFNIAK?PHLKSAAKNIASQAFSHAMTRQEG-GIMMMARKRPPGDRNN-R"/>
+                    <sequence id="seq_Smelops5" taxon="Smelops5" totalcount="20" value="EPNRFVSYY-NQVGGALPGFYGAPVMYGRGIGSVFSRLFRF-VPMIKKGFNIAK?PHLTSAAKNIASQAFTHAMTRQHG-GIMMLARKRPPGDRNK-R"/>
+                    <sequence id="seq_Snigrocinc1" taxon="Snigrocinc1" totalcount="20" value="D-ARYMSYYLNQAG-GLPGF-GSST-YGNGLGSIFRNLFRMAVPLLKKGFSIA?KPHLKTAATNILGDVVSNI-ARQDVNGMTVYTRKRPP-KRKLKP"/>
+                    <sequence id="seq_Soccidenta1" taxon="Soccidenta1" totalcount="20" value="DPS-Y-N-YRAQAGNGLPCFQCILVMYGVSIGGIVYSLFR-AVPLLK?G-----TPHIKSTAQDIVKNVDSAVVDKEEGSGLAI-QRKRPP-------"/>
+                    <sequence id="seq_Spunctatus1" taxon="Spunctatus1" totalcount="20" value="DPR-Y-NYYKAQAGYALPGFHGAPVMYGAGIGGIFRSLFR-AVPLLRRGFEL--KPHAKTAAQNIAKDVVSRVMEKQEGSGLMI-QRKRAP-KRRIQR"/>
+                    <sequence id="seq_Spunctatus100" taxon="Spunctatus100" totalcount="20" value="DPR-Y-NYYKAQAGYTLPGFHGTPMMYGAGIGGIFHSLF--VVPLLRRGYEL--KPHAKTAAQNMAKDVVT-VMEKQEGSGLMT-Q-KRSP-KRR---"/>
+                    <sequence id="seq_Spunctatus104" taxon="Spunctatus104" totalcount="20" value="DPR-Y-NYYKAQAGYSLPGFQGAPVMYGTGIGGIFCRLFR-AVPLLRRDFEL--KPHAKTAAKNIAKDVVSHVLEKQEGSGLMI-QRKRPP-KRKAQS"/>
+                    <sequence id="seq_Spunctatus115" taxon="Spunctatus115" totalcount="20" value="DPR-Y-SYYKTQTGYALPGFHGAPLMYGAGIGGIFHSLFQ-AIPLLRRGFEF--KSHAKTATQNIAKDVVSRVMEKQEGSGLMI-QRKRPP-------"/>
+                    <sequence id="seq_Spunctatus129" taxon="Spunctatus129" totalcount="20" value="DPT-Y-NYYRAQAGYGLPGFRGLPVMYGAGLGGLFRNLVR-AIPLLRRGFEI--TPHMKTGAKNIASEVVSGVFNRQEGSG--V-KKKRPK-KTKSVH"/>
+                    <sequence id="seq_Spunctatus16" taxon="Spunctatus16" totalcount="20" value="DPR-Y-NYYKAQASYGLLGFQGAPVMYGAGIGGIFCSLFR-AIPL?KKGFQL--KPHAKTAAQNIAKDVVSCVLEKLEGSGLLI-QRKRPP-KRKAQR"/>
+                    <sequence id="seq_Spunctatus71" taxon="Spunctatus71" totalcount="20" value="DPT-Y-NYYRAQAGYTLPGFRGLPVMYGAGLSGLFCNLFR-AVPLLRKGFDI--KPHMKTATENIANNVVSGVFNRQEGLG--V-KKKRPP-KRKAAR"/>
+                    <sequence id="seq_Spunctatus90" taxon="Spunctatus90" totalcount="20" value="DPT-Y-NYYRAMAGYALPDFRGLPVMYGVGLGGLFRNLFR-AVPLLRRGFDI--KPHMKTAAKNIANDVVSGVF?LPRRVW--V-KKKKTP-KRKVVR"/>
+                    <sequence id="seq_Squinquera1" taxon="Squinquera1" totalcount="20" value="DPHRFVSYY-SQVGGALPGFYGAPVMYGRGVGSIFSKLFRF-VPLLRKGFAI?AKPHLKSAASNIASDVISRAVGKQEGGGIMILSRRRPPGERKK-R"/>
+                    <sequence id="seq_Squinquera2" taxon="Squinquera2" totalcount="20" value="DDSRYVSYYMNQAG--LRGF-GTSTQYGKGLGVIFL-LFGMTVPLLR-GFSLA?KPYLKTAATNIVVDVVS-TLERTQSPGG----RT-T?RRRRH-R"/>
+                    <sequence id="seq_Squinquera3" taxon="Squinquera3" totalcount="20" value="DDSRYVSYYMNQAG--LRGF-GTSTQYGKGLGVIFL-LFGMTVPLLR-GFSLA?KPYLKTAATNIVVDVVS-TLERTQSRGR----HR--DRRRRR-R"/>
+                    <sequence id="seq_Srhinocero10" taxon="Srhinocero10" totalcount="20" value="NTADYVDYYRNQAGGGLPGYAGGAVMYGVGLGGLFRGLFRLAVSLLKRGFS?IAKPHLKSAAKNIAADVISNALSRQGGSGLTVMTHK-PPGRRKKTK"/>
+                    <sequence id="seq_Srhinocero12" taxon="Srhinocero12" totalcount="20" value="NTADYVNYYRNQTGGGLPGYAGGAVMYGSGLGGLFRGLFRLAVLLLKRGFS?IAKPHLKSVAKNIAADVISNVLLRQDGSGLMVMARK-PPGRRKKTK"/>
+                    <sequence id="seq_Srhinocero16" taxon="Srhinocero16" totalcount="20" value="NPADYVDYYRNQAGGGLPGYAGGAVTYGAGLGGLFRGLFRMAVPLLKRGFS?IAKPHLKSAAKNIAADVVSNALSRQDGSGIVVMAHK-PPGRRKKTK"/>
+                    <sequence id="seq_Srhinocero17" taxon="Srhinocero17" totalcount="20" value="DLERYVAYYWNQAGNGLPGYAGGPVMYGSGLGGIFRALFRTALPLLKRGFSIA-?PHLKTAARNIASD-VTTALSRQNGNGLMVMSRK-PPGRM?KTK"/>
+                    <sequence id="seq_Srhinocero19" taxon="Srhinocero19" totalcount="20" value="DPERYVAYYRNQAGNGLPGYAGGPVMYGSGIGGIFRALFRTALPLLKRGFSIA?KPHLKTAARNIASDVVTTALSRQNGNGLMVMSRK-PPGRMKTK-"/>
+                    <sequence id="seq_Srhinocero2" taxon="Srhinocero2" totalcount="20" value="NVADYVDYYRNQAGGGLPGYAGGAVMYGAGLGGLFRGLFRMAVPLLKKGSS?IAKPHLKAAAKNIVSDVVSNAMPRQDDSGLMVMARK-PPGRRKKTK"/>
+                    <sequence id="seq_Srhinocero4" taxon="Srhinocero4" totalcount="20" value="DPERYVTYYQNQAGNGLPGYAGGGVMYGAGLGGIFRGLFRMAIPLLKRGFN?IAKPHLKSAAKNILSDVVSNTLTHQDGSGLMVMSRR-PPGRRK?RK"/>
+                    <sequence id="seq_Srhinocero5" taxon="Srhinocero5" totalcount="20" value="DPERYVAYYQNQAGNGLPGYAGGGVMYGAGLGGLFRGLFRMAIPLLKRGFS?IARPHFKSAAKNILSDVVSNTLTHQGGSGLMVMSRR-PPGRRK?RK"/>
+                    <sequence id="seq_Srhinocero8" taxon="Srhinocero8" totalcount="20" value="NAAYYVDYYRNQAGGGLPGYAGGAVMYEAGLGGLFRGLFRLAVPLLKRGFS?ITKPHLKSAAKNIAADVISNALSRQDGSGLMVMARK-PPGRRKKTK"/>
+                    <sequence id="seq_Srivoliana2" taxon="Srivoliana2" totalcount="20" value="DPHRFVNYY-SQVGGALPGFHGAPVMYGRGIGSIFSKLFHY-VPLLRKGFAI?TKPHLKSAASNIASDVISRTVGKQEGGGIMILSRRRPPGERKK-R"/>
+                    <sequence id="seq_Srivoliana5" taxon="Srivoliana5" totalcount="20" value="DPHRFVSYY-SQ?GSGLPSFY-AAVMFGRGIGSIFSKLFSF-VPLLREGFTIA-EPHLKSAATNIASDMISK?VGKQEGGGIMIFLRRRLPGE-----"/>
+                    <sequence id="seq_Srivoliana6" taxon="Srivoliana6" totalcount="20" value="DPHRFVSYY-SQVGGTLPSFYGTPVMYGRGIGSIFSKLFRF-VPLLRKGFAI?AKPHLKSAASNIASDVISRTVGKQEGGGIMILSRR------EK-K"/>
+                    <sequence id="seq_Srubrivinc1" taxon="Srubrivinc1" totalcount="20" value="D-ARYMSYYLNQAG-GLPGF-GSST-YGNGLGSIFRNLFRMAVPLLKKGFSIA?KPHLKTAATNILGDVVSNI-ARQDVNGMTVYTRKRPP-KRKLKP"/>
+                    <sequence id="seq_Ssalar13" taxon="Ssalar13" totalcount="20" value="DPNQYVSYYVDQVGNGLPGYHGTPTMYGSGIGGIFRNLFRMVLPFMKRGLS?IAKPHLKSAVKNIVSEVVANAMTRQEGSGLMLLSQKRPPGRRTLTA"/>
+                    <sequence id="seq_Ssalar15" taxon="Ssalar15" totalcount="20" value="HSNRYVSYYVDQVGNGLPGYHGFPTMYCSGIGGIFRNLFRMVLPFMKRGLSI?AKPHLKSEAKNIVSEVVANAMTRQEGSGLMMLSRKRPPVRRKKR?"/>
+                    <sequence id="seq_Ssalar21" taxon="Ssalar21" totalcount="20" value="DPNRYVSYYVDQVGNGLPGCHGSR?MYGSGIGGIFRNLFRMVLPFMKRGLS-IAKPQLKTDQNENIE-FTYVSMIVE-----?VNARYRPWGMF----"/>
+                    <sequence id="seq_Ssalar22" taxon="Ssalar22" totalcount="20" value="DPNRYVSYYVGQVGNGLPGYHGSPTMYGSGIGGIFRNLFRMVLPFMKRGLS?IAKPHLKLAAKNIVSEVVANAMNRQEGSGLMMLSRKRPPGRRKK?Q"/>
+                    <sequence id="seq_Ssalar23" taxon="Ssalar23" totalcount="20" value="DPNRYVSYYYDQVGNGLPGYHGSPTMYGSGIGGIFRNLFRMVLPFMKRG?LSIAKPHLKSVAKNIVSEVVANVMTRQEGSGLMMLSRKRPPCRR?KKR"/>
+                    <sequence id="seq_Ssalar26" taxon="Ssalar26" totalcount="20" value="DPNHYVSYYVDQVGNGLPGYHGSPTMYGSGIGGIFGNLFRMVLPFMKRGLS?IAKPHLKSAAKNIVSEVVANAMNRQEGSGLML-SRKRPPGRRKKQ?"/>
+                    <sequence id="seq_Ssalar39" taxon="Ssalar39" totalcount="20" value="DPNRYVSYYVDQVGNGLPGYHGSPTMYG?GIGGVLRNLFRMVLPFMKRGLS-IAKPHLKSAAKNVVSEVVANAMTRQEGSGLMLLSRKRPPGRRKK--"/>
+                    <sequence id="seq_Ssalar40" taxon="Ssalar40" totalcount="20" value="DPNCYVSYYVVQVGNGLPGYHGSPTMYG?GIGGIFHNLFRMVLPFMKRDLS-IAKPHLKSAVKNIV?-VVANAMTRQEGSKT-----?RPPGRRKK-W"/>
+                    <sequence id="seq_Ssalar8" taxon="Ssalar8" totalcount="20" value="NPNHYVSYYVDQVGNGLPGYHGSPTMYGSGIGGIFRNLFRMVLPFMNRGLS?IAKPHLKSAAKK-YSEVVANAMTRQEGSGLTM-SRKRPPGRRKKRR"/>
+                    <sequence id="seq_Talbacares1" taxon="Talbacares1" totalcount="20" value="DPHRFVSYN-NQAGGALC?FYGSPVMYGRGICSIFSKLFCF-VPMMKRDFAIT-KPHLKSAAKN-?SEVISHAVGKQEGGGIMIMARKRPPGQHKK-R"/>
+                    <sequence id="seq_Talbacares2" taxon="Talbacares2" totalcount="20" value="NPHRFVSYY-NQTGG?LPGFYG?RHMYGRGIGSIFSKLFSF-VPLIKRGFAIA-KPHLKAAKNT-ASEVISHAIGKKEGRGIMILARKRPPGQC?K-R"/>
+                    <sequence id="seq_Talbacares3" taxon="Talbacares3" totalcount="20" value="DPRRFVAYY-GQERGALPGFYRAPVMYGRGIGSIFSKLFRF-VPLLKTGFAAA--------------D?AKQVVGKQEGGGIMVLSHKCPPGDRKK--"/>
+                    <sequence id="seq_Tilisha1" taxon="Tilisha1" totalcount="20" value="DPNRYVHNYFSQSNGGL-AVQ--CFM?-RMLG--LFQTISF-VP-LKKGFDFA-KPHLKEAAKNIAS---ASVI-RQEGSG--II-TKI-PGQRQK-R"/>
+                    <sequence id="seq_Tilisha2" taxon="Tilisha2" totalcount="20" value="DQNCYIHYYLSQS?RGL-GFH-SSLVY-RGIGSVFHKLFCF-VP-LKKGFDIT-EPHLKEAAKNIAS--ISQAA-RNNGIGLFVF-RKR-DGRGHS-R"/>
+                    <sequence id="seq_Tmexicana20" taxon="Tmexicana20" totalcount="20" value="DPT-Y-NYYKAQAGYALPGYHGAPVMYGAGVGGIFRSLFR-AVPLLRRGLEI--KCHVKTAARNIAKDVVSRVLEKQEGSGLMI-KRKRPP-KRRATR"/>
+                    <sequence id="seq_Tmexicana22" taxon="Tmexicana22" totalcount="20" value="NPT-Y-NYYKAQVGYALPGYHGAPVMYGAAMGGIFRSLFR-AVPILRRGLEI--KPHIKTAAQNIARDVISHVLEKQEESGLMI-KRKRSP-KRRATC"/>
+                    <sequence id="seq_Tmexicana26" taxon="Tmexicana26" totalcount="20" value="DPF-Y-NYYKAQAGYALPGYQGLLVMYGASLGGIFRSLFR-AMPLLR-GFEI--KPHMKTAAKNITRDVESSVINKQEGSGLVV-MRKRPP-?KK?AR"/>
+                    <sequence id="seq_Tmexicana30" taxon="Tmexicana30" totalcount="20" value="DPI-Y-NYYKAQAGYAHPEYHEAPMMYGAGVGGIFHSLFR-AVPLLRRGVEI--KPHIKNATQNIAKDVISRVLEKQEGLGLMI-KRKR?W--ERS-R"/>
+                    <sequence id="seq_Tmexicana36" taxon="Tmexicana36" totalcount="20" value="TPT-Y-NYNK?QAGYALPGYHG?PMMYGAGVGGIFHSLFR-TVQLLRRELEI--KPHVKTAAQNIARDVISHAVEKQEGLGLMI-KMKRPL--TSNGK"/>
+                    <sequence id="seq_Tmexicana37" taxon="Tmexicana37" totalcount="20" value="DPI-----YKAQAGHTLPGYHAG?VMYGAGVDGIFRSLFQ-AVLLLRRGLEI--KPHIKTATQNI----V---LEKQERLGLMI-GRKR-H-KQRR-Q"/>
+                    <sequence id="seq_Tmexicana38" taxon="Tmexicana38" totalcount="20" value="NPT-Y-NYYKAQARYAPPGYHGAPMMDVVGVGGIFHSLF--TIPLLRRGLEI--KSHVK?ATQNIA?DV----LEKQERSGMMI-KRKRPP-KRRATH"/>
+                    <sequence id="seq_Tmexicana43" taxon="Tmexicana43" totalcount="20" value="DPT-Y-NYYKAQVGYALPGYHGAPVMYGAGVGGIFRSLFR-AVPLLRRGLEI--KPHVKTAAQNIAKDVVSRVLEKQEGSGLMI-KRKRPP-KRRTTR"/>
+                    <sequence id="seq_Tmexicana44" taxon="Tmexicana44" totalcount="20" value="DPT-Y-NYYKAQAGYALPGYHGAPVMYGAGVGGIFRSLFQ-AVPLLRRGLEI--KPHVKTAAQNIAKDVVSRVLEKQEGSGLMI-KRKRPP-KRRATR"/>
+                    <sequence id="seq_Tmexicana52" taxon="Tmexicana52" totalcount="20" value="DPT-Y-NYYKAQAGYALPGYDGAPVMYGAGVGGIFHSLFR-AVPLLRRGLEI--KLHVKTAAQNIAEDVVSCVLEKQEGSGLMI-KRKRPP-KRRATR"/>
+                    <sequence id="seq_Tmexicana54" taxon="Tmexicana54" totalcount="20" value="DPT-Y-NYYEVEAGYALPGYHGAPVMYGAGVGGIFRSLFR-AIPLLRRGLEF--KPHVKTAVQNIAKDVVSRVLEKQEGSGLMI-KRKRPP-KRRATR"/>
+                    <sequence id="seq_Tmexicana64" taxon="Tmexicana64" totalcount="20" value="NPT-S-NYYKAQAGYALPGYHRAPVMYGAGMGGIFHSLFR-DVPLLRRGLEI--KPHVKNAAQNTASDMVSHVLKKQEGSGLMI-KRKRAP-KRKAMR"/>
+                    <sequence id="seq_Tmexicana68" taxon="Tmexicana68" totalcount="20" value="DPT-Y-NYFKAQAGYALPGDHGAPVMYGAG?GGIFRSLFL-AVPLLRRGLEI--KPHVKTA-ANIAKDVVS-VLNTNQDSG-FI-AKK----KKTTTT"/>
+                    <sequence id="seq_Tmexicana71" taxon="Tmexicana71" totalcount="20" value="TP?-Y-NYYKVQAEYALPG-HGAPMMYRTGVGGIFHSRFQ-AAPLLRRGLE---KPYVKTAAQNIAP-----VLEKQEGSGLMI-KRKR---LSDAF-"/>
+                    <sequence id="seq_Tnigroviri1" taxon="Tnigroviri1" totalcount="20" value="DPRRFITYY-SQVGGALPGFYGAPVMYGRGIGSIFSKLFRF-VPLLKRGFAIAK?PHLKSAAGNIVSDVVKAASEKQEGGGIMVLSRKRPPGDRKK-R"/>
+                    <sequence id="seq_Tnigroviri2" taxon="Tnigroviri2" totalcount="20" value="DPRRFVSYY-SQVGG?LPGFAGAPVMYGRGIGSLFSRLFRF-VPLVKRGFALA-KPHLTAAAKNIASDVMTHAAGKQEGGGMMILSKKRPPGQRKKKR"/>
+                    <sequence id="seq_Torientali1" taxon="Torientali1" totalcount="20" value="EPRRFVAYY-GQEGGALPGFYRAPVMYGRGIGSIFSKLVRF-VPLLKTGFAAA--------------D?AKRVVGKQEGGGIMVLSHKCPPGGRKK--"/>
+                    <sequence id="seq_Tsirtalis1" taxon="Tsirtalis1" totalcount="20" value="SPQ-Y-DYYRAQAGNSLPDF-GAPVMYRTGIGALFQGFFQ-VMLLLRRELEI--KRHMKAAANNIARDVVSRVVGGQEGSG-MV---KKPP-KKRK--"/>
+                    <sequence id="seq_Tsirtalis2" taxon="Tsirtalis2" totalcount="20" value="SPQ-Y-VYYRTQAGNGLLGFRGAPVMYGTGIGGLFRGLF--VMPLLRRGLEI--KPHVKAAANNIARDVVSCVVGGQEGSG-MV---KKPP-KKRKVK"/>
+                    <sequence id="seq_Tsirtalis3" taxon="Tsirtalis3" totalcount="20" value="GSQ-Y-AYYRPQAGRGLPGFRGAPVMYGTGLGGLFHGLF--AMPFLR-GLET--KPHVKSAAKNIARDVVSCVVESQNGSG-LI---KNPP-KKRRVK"/>
+                    <sequence id="seq_Tsirtalis4" taxon="Tsirtalis4" totalcount="20" value="VPQ-Y-AYYRAQAGEGLLGFRGVPNM?GTGLGGLFHGLFR-AMPFLRRGLEI--KPHVKSAVKNITRDVVSCVVENQDGSH-VI---KNPP-KKRRVK"/>
+                    <sequence id="seq_Tsubterran11" taxon="Tsubterran11" totalcount="20" value="DPNRFVSYY-DQAGDGLPSFQGVPLQYGRGIG------------L?RNG-------------RNIASDVMSSAMARS-GSRL-MFSQKRPPGNYKKCR"/>
+                    <sequence id="seq_Tsubterran5" taxon="Tsubterran5" totalcount="20" value="DPNRFIDYY-SQTGHGMVGFRGAPVQYGRGFGSIFSRIF-F-VQLMRRG?FQLSKPHLKNAAKNIATDAFNAAISKQEGSGLMVLSRKRPPGARK?RH"/>
+                    <sequence id="seq_Tsubterran6" taxon="Tsubterran6" totalcount="20" value="DPNRF-GYY-SQTGNGLGGFRGAPVKYGRGFGSIFSRIF-F-VPLLCRGFQ?LSKPHLKNAAKNIVTDAFNAAISKQEGSGLMVLSRKRPPGATKR?L"/>
+                    <sequence id="seq_Tsubterran8" taxon="Tsubterran8" totalcount="20" value="DPNRFVSYY-DQAGDGLSSFQGVPVW--?GIGSMFARLFKF-VPLVMRGFS-MTKPHLKTAAWNIAADVMSSAMSRS-GSGL?MFSQKRPPGTSKKPQ"/>
+                    <sequence id="seq_Xcouchianu1" taxon="Xcouchianu1" totalcount="20" value="DPHRFVHYY-NQVGGTLPGFYGAPVMYGRGIGAVFSRLFRF-VPLVKSGFAL?AKPHLKRAAANIATDVLGKAMNKQEGSGIMVLSRTRPPGERQI-R"/>
+                    <sequence id="seq_Xcouchianu2" taxon="Xcouchianu2" totalcount="20" value="DPHRFVHYY-NQVGGTLPGFYGAPVMYGRGIGAVFSRLFRF-VPLVKSGFAL?AKPHLKRAAANIATDVLGKAMNKQEGSGIMVLSRTRPPGERQI-R"/>
+                    <sequence id="seq_Xhellerii10" taxon="Xhellerii10" totalcount="20" value="DPHRFVHYY-NQVGGALPGFYGAPVMYGRGIGAVFSRLFRF-VPLVKSGFAL?AKPHLKRAAANIATDVLGKAMNKQEGSGIMVLSRTRPPGERQI-R"/>
+                    <sequence id="seq_Xhellerii14" taxon="Xhellerii14" totalcount="20" value="DPHRFVHYY-NQVGGTLPGFYGAPVMYGRGIGAVFSRSFRF-VPLVKSGFAL?AKPHLKRAAANIATDVLGKAMNKQEGSGIMVLSRTRPPGERQI-R"/>
+                    <sequence id="seq_Xhellerii6" taxon="Xhellerii6" totalcount="20" value="DPHRFVHYY-NQVGGTLPGFYGAPVMYGRGIGAVFSRLFRF-VPLVKSGFAL?AKPHLKRAAANIATDVLGKAMNKQEGSGIMVLSRTRPPGERQI-R"/>
+                    <sequence id="seq_Xhellerii8" taxon="Xhellerii8" totalcount="20" value="DPHRFVHYY-NQVGGALPGFYGAPVMYGRGIGAVFSRLFRF-VPLVKSGFAL?AKPHLKRAAANIATDVLGKAMNKQEGSGIMVLSRTRPPGERQI-R"/>
+                    <sequence id="seq_Xlaevis2" taxon="Xlaevis2" totalcount="20" value="EPN-Y-AYYKVQAGHRISGFHG--YQHGAGFAGVFRALLR-AIPLLKR?IDF--KPHVKTAAKNIAKDFFSTMMNKQDGSGLVI-KNKR?L-LNKSRK"/>
+                    <sequence id="seq_Xlaevis3" taxon="Xlaevis3" totalcount="20" value="EPN-Y-AYHKAQAGHRISGFHR--YQHGAGLACVFR?LL-------KRGIDF--KPHVKTVAKNIAKDVVSTVMNKQDGSGLVI-KN---?-KASVGR"/>
+                    <sequence id="seq_Xlaevis4" taxon="Xlaevis4" totalcount="20" value="DPI-Y-PYYLAQAGHGLDRFRSAEYMHGAGIWGYIQWIYL-SIPIFRRGP?E--KPQIKNAAKNIVKDTVSTVMDRQEVSGIVR-SKKRGP-KRRR-K"/>
+                    <sequence id="seq_Xmaculatus1" taxon="Xmaculatus1" totalcount="20" value="DSHRFVHYY-NQVGGALPGFYGAPVMYGRGIGSIFSRLFRF-VPLVKSGFAL?AKPHLKRAAANIATDVIGKAMNKQEGSGIMVLSRTRPPGERQI-R"/>
+                    <sequence id="seq_Xmaculatus11" taxon="Xmaculatus11" totalcount="20" value="DPHRFVHYY-NQVGGTLPGFYGAPVMYGRGIGAVFSRLFRF-VPLVKSGFAL?AKPHLKRAAANIAMDVLGKAMNKQEGSGIMVLSRTRPPGEHQI-R"/>
+                    <sequence id="seq_Xmaculatus12" taxon="Xmaculatus12" totalcount="20" value="DPHRFVHYY-NQVGGALPGFYGAPVMYGRGIGAVFSRLFRF-VPLVKSGFAL?AKPHLKRAAANIATDVLGKAMNKQEGSGIMVLSITRPPGERQI-R"/>
+                    <sequence id="seq_Xmaculatus6" taxon="Xmaculatus6" totalcount="20" value="DPHRFVHYY-NQVGGALPGFYGAPVMYGRGIGAVFSRLFRF-VPLVKSGFAL?AKPHLKRAAANIATDVLGKAMNKQEGSGIMVLSRTRPPGERQI-R"/>
+                    <sequence id="seq_Xmaculatus8" taxon="Xmaculatus8" totalcount="20" value="DPHRFVHYY-NQVGGALPGFYGAPVMYGRGIGAVFSRLFRF-VPLVKSGFAL?AKPHLKRAAANIATDVLGKAMNKQEGSGIMVLSRTRPPGERQI-R"/>
+                    <sequence id="seq_Xtropicali11" taxon="Xtropicali11" totalcount="20" value="----Y-?YYKAQAGSGIAGFHG--YQHGRGLGGLFRALIR-AVP?FKRGIDI--KPHVKMAAKNIAKDVV?TVMNKQAGSDLVI-KNKRLS-QKRRK-"/>
+                    <sequence id="seq_Xtropicali2" taxon="Xtropicali2" totalcount="20" value="DPA-Y-HYYITQSGHGLDGFRGSEYMYGAGIGGLFRG-FF-TIPIFRRGLEI--KPHVKNAARNIVKDAVSTVMDRQEGSGIAI-SKKRAT-RRRR-Q"/>
+                    <sequence id="seq_Xtropicali6" taxon="Xtropicali6" totalcount="20" value="DPA-Y-HYYITQSGHGLDGFRGSEYMYGAGIGGLFRV-FF-TIPIFRRGLEI--KPHVKNS?KNIVKDAVSTVMDRQEGSGIAI-SKKHAT-RRRR-Q"/>
+                    <sequence id="seq_Xtropicali8" taxon="Xtropicali8" totalcount="20" value="GPA-Y-HYYITQSGYGLDGFRGSEYMYGAGIGGLFRG-FF-TIPTFRRGLEI--KPHVENAAKNIVKDAVSTVMDRQEGSGIAI-SKK-?I-N-RT-K"/>
+                    <sequence id="seq_Xtropicali9" taxon="Xtropicali9" totalcount="20" value="EPH-Y-SYYKAQAGSSIAGFHG--YQHGRGLGGLFRALIR-AVPL?KRGIDI--KPHVKTAAKNIAKDVVSTMMNKQAGSGLVI-KNKRPP-QKRRKT"/>
+                </data>
+
+
+    
+
+
+    
+
+
+    
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+
+
+<run id="mcmc" spec="MCMC" chainLength="20000000">
+    <state id="state" storeEvery="5000">
+        <tree id="Tree.t:PWs_tree" name="stateNode">
+            <taxonset id="TaxonSet.PWs_4BEAST" spec="TaxonSet">
+                <alignment idref="PWs_4BEAST"/>
+            </taxonset>
+        </tree>
+        <parameter id="birthRate.t:PWs_tree" name="stateNode">1.0</parameter>
+        <parameter id="gammaShape.s:site_model" name="stateNode">1.0</parameter>
+        <parameter id="ucldStdev.c:clock_model" lower="0.0" name="stateNode">0.1</parameter>
+        <stateNode id="rateCategories.c:clock_model" spec="parameter.IntegerParameter" dimension="1296">1</stateNode>
+        <parameter id="ucldMean.c:clock_model" name="stateNode">1.0</parameter>
+    </state>
+
+    <init spec='beast.util.TreeParser' id='NewickTree.t:PWs_tree' 
+   initial="@Tree.t:PWs_tree" taxa='@PWs_4BEAST' IsLabelledNewick="true" 
+   newick="(((((Sgrahami5,(Ccarpio8,Sanshuiens2)),Srhinocero4),((((Ccarpio18,Cauratus19),Cauratus42),(Cauratus29,Cauratus1)),((Sanshuiens1,Srhinocero5),((Ccarpio10,Sanshuiens8),Sgrahami1)))),((Ipunctatus31,(Ipunctatus2,Ipunctatus6)),Ipunctatus37)),(((Cauratus25,(Elucius17,((Elucius76,Elucius42),Elucius23))),((Eelectricu11,(((Amexicanus5,((Eelectricu10,Eelectricu6),Eelectricu2)),Amexicanus6),(((((Ipunctatus20,(Ipunctatus46,Ipunctatus23)),Ipunctatus50),(Phypophtha5,Phypophtha2)),Phypophtha4),Phypophtha6))),(((((Ajaponica25,(Ajaponica20,Arostrata6)),(((Ajaponica24,Ajaponica1),(Arostrata4,Ajaponica22)),(Ajaponica15,Arostrata2))),(Pkinsleyae11,(Pkinsleyae3,Pkinsleyae10))),((((Amexicanum76,((Amexicanum39,Amexicanum16),Amexicanum74)),((Pwaltl2,Pwaltl12),Pwaltl4)),((Pmucrosqua12,Pflavoviri10),((((Tsirtalis1,Ohannah2),Tsirtalis2),(Nscutatus2,Ohannah1)),(((Pflavoviri4,Pmucrosqua3),(Pflavoviri2,Pmucrosqua7)),((((Nscutatus1,Pflavoviri8),((Pflavoviri5,Pmucrosqua5),(((Cviridis5,Cviridis2),Pmucrosqua6),Cviridis3))),(((Pbivittatu7,Pbivittatu12),Pbivittatu2),Pflavoviri9)),((Tsirtalis4,Tsirtalis3),Pmucrosqua10)))))),((((Pvitticeps2,Pvitticeps3),Pvitticeps1),((((Xtropicali8,(Xtropicali6,Xtropicali2)),Xlaevis4),(Rmarina11,(Rmarina6,(Rmarina13,Rmarina1)))),((Xtropicali9,Xtropicali11),(Xlaevis2,Xlaevis3)))),(((((Cmydas14,(Acarolinen2,Acarolinen3)),Ppicta1),(Tmexicana68,(Tmexicana20,((((Tmexicana44,(((Mterrapin29,Cmydas2),(Gagassizii12,Mterrapin45)),(Cpicta3,Mterrapin5))),((Cpicta39,Tmexicana37),(Cpicta40,(Mterrapin44,Gagassizii10)))),(Mterrapin46,Cpicta16)),(((((Spunctatus104,Spunctatus16),((Spunctatus100,Spunctatus1),Spunctatus115)),(((((((((Asinensis46,Amississip41),Cporosus32),Ggangeticu36),Ggangeticu47),(((((((Ccasuarius5,Scamelus4),(Ohoazin1,(Scamelus7,Aaustralis3))),(Soccidenta1,((Scamelus5,(Scamelus6,Ccasuarius7)),(Nauritus1,Nnippon1)))),((((Aaustralis5,(Arowi1,(Ahaastii1,Aowenii1))),Scamelus10),((Scamelus11,Ccasuarius1),(Aaustralis6,Scamelus3))),((((Aaustralis2,(Scamelus1,Scamelus2)),Aaustralis4),Ccasuarius8),Scamelus8))),(Nauritus2,Ccasuarius6)),Scamelus9),((((Amississip20,((Asinensis44,Cporosus38),(Asinensis43,Amississip38))),Cporosus31),((Amississip18,Asinensis31),Ggangeticu23)),(((Asinensis25,(Ggangeticu22,((Asinensis29,Ggangeticu25),Cporosus67))),Amississip23),(Asinensis12,((Ggangeticu20,Amississip42),((Asinensis60,Amississip43),Cporosus10))))))),Cporosus19),(((Ggangeticu42,Asinensis63),(Asinensis18,(Amississip17,Asinensis20))),Ggangeticu45)),((Asinensis62,(((Asinensis47,Cporosus22),((Asinensis70,Amississip57),(Asinensis67,Amississip46))),Cporosus52)),(Ggangeticu19,Ggangeticu44))),(((Amississip58,Asinensis57),Ggangeticu16),(((((Asinensis69,(Amississip51,Amississip15)),Asinensis59),(Amississip36,Amississip45)),(Amississip2,((Ggangeticu43,Asinensis30),(((((Asinensis49,Ggangeticu29),((Amississip12,(Ggangeticu26,Asinensis41)),Amississip25)),((Cporosus25,(Asinensis71,Amississip61)),Asinensis72)),(Cporosus26,Asinensis42)),Cporosus66)))),(Cporosus56,(Asinensis73,Amississip59)))))),((((Mterrapin9,Cpicta13),Cpicta23),Tmexicana52),((((Cpicta9,Mterrapin13),Mterrapin19),((Cmydas13,(Cmydas10,Tmexicana38)),(((Tmexicana36,(Tmexicana71,(Cpicta20,Mterrapin20))),(Gagassizii11,Cmydas18)),(Cmydas7,Tmexicana30)))),(Psinensis2,((Mterrapin4,Cpicta8),Mterrapin21))))),((((Mterrapin26,Tmexicana54),(Mterrapin6,((Mterrapin35,Cpicta33),Mterrapin3))),(((((((((Psinensis9,Cmydas16),(Mterrapin11,Tmexicana64)),((Cmydas19,Mterrapin47),Gagassizii4)),Psinensis7),(Cpicta19,Tmexicana22)),Mterrapin34),Psinensis1),(Cpicta10,Mterrapin12)),(((Mterrapin15,Cpicta7),Cpicta30),(Mterrapin43,Cpicta4)))),(Mterrapin2,((Cpicta27,Tmexicana43),Gagassizii5)))))))),(Ppicta2,Gjaponicus1)),(((((((Gagassizii3,Cmydas6),Mterrapin40),((Cmydas15,Mterrapin38),((Mterrapin30,Cpicta26),(Tmexicana26,Mterrapin33)))),Gagassizii9),Psinensis4),Psinensis8),((Spunctatus71,Spunctatus90),Spunctatus129)))))),((((((Tilisha1,Tilisha2),Mmola7),(((Malbus16,Malbus20),(((Malbus10,Malbus27),(Bsplendens6,Bsplendens2)),Bsplendens8)),(Atestudine20,((Atestudine3,Atestudine6),Atestudine26)))),((Mpeelii1,(Mpeelii3,Pparvicorn1)),(((((Talbacares2,Talbacares1),((Saurata1,((Smelops1,Smelops5),Pmajor1)),Mfloridanu1)),((Aocellaris4,Apercula4),(Smaximus7,Smaximus3))),(Mjaponicus1,Tnigroviri2)),((((((Kmarmoratu1,((Alimnaeus3,(Nfurzeri2,Nfurzeri5)),(Alimnaeus14,Alimnaeus7))),(((Fheterocli17,Fheterocli14),Fheterocli1),(((Cvariegatu2,Cvariegatu3),((Pformosa3,((Preticulat2,(Preticulat1,Preticulat4)),Pformosa1)),(((Xmaculatus11,((Xhellerii14,Xhellerii6),(Xcouchianu1,Xcouchianu2))),(((Xmaculatus8,Xmaculatus6),Xmaculatus12),(Xhellerii8,Xhellerii10))),Xmaculatus1))),Preticulat5))),(((Phypophtha3,(Phypophtha10,Phypophtha8)),(((((((Oniloticus40,Acallipter17),Mzebra7),Oniloticus37),((Mzebra10,Acallipter14),((Acallipter10,Acallipter8),Mzebra4))),Sdiagramma3),Oniloticus31),(((Cacus1,Cacus2),(Talbacares3,Torientali1)),(Pfluviatil34,(Pfluviatil1,Pfluviatil28))))),(Apolyacant2,(((Apercula1,Aocellaris2),(Apercula2,(Aocellaris1,Apercula3))),Apolyacant1)))),(((Lcalcarife13,(Csemilaevi2,Csemilaevi1)),Lcalcarife16),((Omelastigm2,Omelastigm1),Polivaceus1))),((Tnigroviri1,(((Mmiiuy2,(Lcrocea22,Mmiiuy1)),Mmiiuy3),((Lcrocea6,Lcrocea1),Lcrocea9))),(((Slalandi3,Sdumerili2),((Slalandi4,Sdumerili5),(Srivoliana6,((Sdumerili7,Srivoliana2),(Slalandi1,(Srivoliana5,Sdumerili3)))))),Squinquera1))),((Pmajor2,((Mmola3,Mmola4),Mmola2)),(Lcrocea7,Aocellaris3)))))),(((Schordatus1,(Astriatus1,(Pkinsleyae8,Pkinsleyae7))),((Acitrinell10,Acitrinell4),(((((Nbrichardi3,((Sdiagramma12,Mzebra14),(Mzebra19,(Acallipter15,Mzebra13)))),(Nbrichardi4,Oniloticus84)),((Oniloticus73,Oniloticus64),Oniloticus82)),Oniloticus56),Oniloticus80))),(((Ptransmont2,Ptransmont3),(Tsubterran6,Tsubterran5)),(Tsubterran11,Tsubterran8)))),(Salpinus6,((((((Otshawytsc5,Omykiss15),(Otshawytsc40,Okisutch12)),Okisutch8),(((((Salpinus14,((Omykiss20,Salpinus3),(((Okisutch6,Otshawytsc36),Okisutch26),(Otshawytsc34,Salpinus16)))),((Omykiss16,(Otshawytsc14,Omykiss28)),(((Okisutch28,(Otshawytsc7,Okisutch30)),Omykiss21),(Salpinus10,(Salpinus18,Salpinus8))))),(((((Okisutch39,Otshawytsc23),Okisutch24),Otshawytsc43),((Otshawytsc20,Ssalar22),(Okisutch10,Omykiss23))),((((Hhucho39,Ssalar39),((Hhucho36,Salpinus4),(Ssalar26,Ssalar40))),(((((Ssalar13,Salpinus15),Hhucho38),Otshawytsc10),(Hhucho13,((Hhucho32,Hhucho3),(Hhucho20,Hhucho33)))),(Ssalar21,Omykiss29))),(Hhucho8,Omykiss24)))),((Ssalar15,(Okisutch31,Hhucho35)),Omykiss12)),Ssalar8)),((Otshawytsc45,Ssalar23),(Okisutch36,Otshawytsc47))),Okisutch23)))))),(((Cauratus28,Lwaleckii6),((((Ccarpio22,((((((Ostewartii82,(((Ostewartii80,Ostewartii73),Ostewartii81),Ostewartii20)),Cauratus30),Ccarpio17),(Cauratus24,Cauratus22)),Cauratus18),Ccarpio21)),(Sanshuiens6,((((Srhinocero17,(Sgrahami13,Sanshuiens16)),Sgrahami16),Sanshuiens5),(Srhinocero19,Sgrahami17)))),Cauratus27),(Drerio9,Drerio21))),(((((Bsplendens1,Nsammara1),((Mfloridanu3,Mfloridanu2),(Ofasciatus3,Ofasciatus1))),(((Llota1,Gmorhua2),Gmorhua1),((((((Srubrivinc1,Snigrocinc1),(((Marmatus19,(((Marmatus2,Marmatus22),Marmatus53),Marmatus69)),(Marmatus26,(Marmatus30,Marmatus44))),((((Pfluviatil56,Pfluviatil37),Pfluviatil59),Pfluviatil48),((((((Oniloticus57,((Sdiagramma2,Acallipter23),(Acallipter25,(Sdiagramma8,(Mzebra21,Mzebra22))))),((Sdiagramma11,((Nbrichardi1,Acallipter22),(Nbrichardi2,(((Oniloticus2,Oniloticus32),Oniloticus20),(Nbrichardi5,Oniloticus34))))),((Acallipter20,Mzebra9),Sdiagramma6))),Oniloticus51),(Oniloticus1,((((Sdiagramma10,Acallipter1),Acallipter5),Mzebra1),(Acallipter24,Oniloticus46)))),(Acitrinell9,Acitrinell5)),Acitrinell3)))),(((Mcapensis1,Saurata2),(Slalandi2,(Squinquera3,(Sdumerili4,Squinquera2)))),(Gaculeatus1,Gaculeatus2))),Mmola11),((Lcalcarife10,Lcalcarife5),Lcalcarife1)),Bglaciale1))),((((((Arostrata1,Ajaponica5),(Ajaponica27,Arostrata9)),Ajaponica18),(Arostrata3,(Ajaponica23,(Arostrata8,Ajaponica4)))),(Charengus4,Charengus1)),(Pnattereri7,((Pnattereri11,(Pnattereri10,Amarmoratu7)),((((Amarmoratu1,Amarmoratu18),Amarmoratu13),(Amarmoratu10,(Amexicanus9,(Amexicanus8,Amexicanus1)))),(Pnattereri6,Pnattereri8)))))),(((Drerio15,(Drerio18,(Drerio19,Drerio7))),((((Ostewartii23,Ostewartii26),Ostewartii29),Ppromelas1),Lwaleckii4)),((((((Srhinocero2,(Sgrahami7,Sanshuiens9)),((Ccarpio26,Ccarpio4),Ccarpio6)),((((Ostewartii21,Srhinocero8),((Sgrahami9,Srhinocero12),Sanshuiens15)),(Srhinocero16,(Sanshuiens17,Sgrahami12))),((Srhinocero10,Sgrahami2),Sanshuiens14))),(Ddracula14,(Ddracula12,Ddracula2))),Lwaleckii7),((Lwaleckii3,Ppromelas2),(((Ccarpio24,Cauratus51),(Ccarpio14,(Cauratus5,Cauratus10))),Lwaleckii2))))))),(Drerio2,Drerio1));"/>
+
+    <distribution id="posterior" spec="util.CompoundDistribution">
+        <distribution id="prior" spec="util.CompoundDistribution">
+            <distribution id="YuleModel.t:PWs_tree" spec="beast.evolution.speciation.YuleModel" birthDiffRate="@birthRate.t:PWs_tree" tree="@Tree.t:PWs_tree"/>
+            <prior id="YuleBirthRatePrior.t:PWs_tree" name="distribution" x="@birthRate.t:PWs_tree">
+                <Uniform id="Uniform.1" name="distr" upper="Infinity"/>
+            </prior>
+            <prior id="GammaShapePrior.s:site_model" name="distribution" x="@gammaShape.s:site_model">
+                <Exponential id="Exponential.0" name="distr">
+                    <parameter id="RealParameter.0" estimate="false" name="mean">1.0</parameter>
+                </Exponential>
+            </prior>
+            <prior id="MeanRatePrior.c:clock_model" name="distribution" x="@ucldMean.c:clock_model">
+                <Uniform id="Uniform.3" name="distr" upper="Infinity"/>
+            </prior>
+            <prior id="ucldStdevPrior.c:clock_model" name="distribution" x="@ucldStdev.c:clock_model">
+                <Gamma id="Gamma.0" name="distr">
+                    <parameter id="RealParameter.2" estimate="false" name="alpha">0.5396</parameter>
+                    <parameter id="RealParameter.3" estimate="false" name="beta">0.3819</parameter>
+                </Gamma>
+            </prior>
+            <distribution id="alligator-gavialis1.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:PWs_tree">
+                <taxonset id="alligator-gavialis1" spec="TaxonSet">
+                    <taxon id="Asinensis63" spec="Taxon"/>
+                    <taxon id="Ggangeticu42" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.0" name="distr">
+                    <parameter id="RealParameter.4" estimate="false" name="M">4.468</parameter>
+                    <parameter id="RealParameter.5" estimate="false" lower="0.0" name="S" upper="5.0">0.038</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="alligators1.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:PWs_tree">
+                <taxonset id="alligators1" spec="TaxonSet">
+                    <taxon id="Amississip57" spec="Taxon"/>
+                    <taxon id="Asinensis70" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.1" name="distr">
+                    <parameter id="RealParameter.6" estimate="false" name="M">3.855</parameter>
+                    <parameter id="RealParameter.7" estimate="false" lower="0.0" name="S" upper="5.0">0.128</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="alligators10.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:PWs_tree">
+                <taxonset id="alligators10" spec="TaxonSet">
+                    <taxon id="Amississip18" spec="Taxon"/>
+                    <taxon id="Asinensis31" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.2" name="distr">
+                    <parameter id="RealParameter.8" estimate="false" name="M">3.855</parameter>
+                    <parameter id="RealParameter.9" estimate="false" lower="0.0" name="S" upper="5.0">0.128</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="alligators2.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:PWs_tree">
+                <taxonset id="alligators2" spec="TaxonSet">
+                    <taxon id="Amississip58" spec="Taxon"/>
+                    <taxon id="Asinensis57" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.3" name="distr">
+                    <parameter id="RealParameter.10" estimate="false" name="M">3.855</parameter>
+                    <parameter id="RealParameter.11" estimate="false" lower="0.0" name="S" upper="5.0">0.128</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="alligators3.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:PWs_tree">
+                <taxonset id="alligators3" spec="TaxonSet">
+                    <taxon id="Amississip61" spec="Taxon"/>
+                    <taxon id="Asinensis71" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.4" name="distr">
+                    <parameter id="RealParameter.12" estimate="false" name="M">3.855</parameter>
+                    <parameter id="RealParameter.13" estimate="false" lower="0.0" name="S" upper="5.0">0.128</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="alligators4.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:PWs_tree">
+                <taxonset id="alligators4" spec="TaxonSet">
+                    <taxon id="Amississip43" spec="Taxon"/>
+                    <taxon id="Asinensis72" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.5" name="distr">
+                    <parameter id="RealParameter.14" estimate="false" name="M">3.855</parameter>
+                    <parameter id="RealParameter.15" estimate="false" lower="0.0" name="S" upper="5.0">0.128</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="alligators5.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:PWs_tree">
+                <taxonset id="alligators5" spec="TaxonSet">
+                    <taxon idref="Amississip57"/>
+                    <taxon idref="Asinensis70"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.6" name="distr">
+                    <parameter id="RealParameter.16" estimate="false" name="M">3.855</parameter>
+                    <parameter id="RealParameter.17" estimate="false" lower="0.0" name="S" upper="5.0">0.128</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="alligators6.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:PWs_tree">
+                <taxonset id="alligators6" spec="TaxonSet">
+                    <taxon id="Amississip46" spec="Taxon"/>
+                    <taxon id="Asinensis67" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.7" name="distr">
+                    <parameter id="RealParameter.18" estimate="false" name="M">3.855</parameter>
+                    <parameter id="RealParameter.19" estimate="false" lower="0.0" name="S" upper="5.0">0.128</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="alligators7.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:PWs_tree">
+                <taxonset id="alligators7" spec="TaxonSet">
+                    <taxon id="Amississip51" spec="Taxon"/>
+                    <taxon id="Asinensis69" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.8" name="distr">
+                    <parameter id="RealParameter.20" estimate="false" name="M">3.855</parameter>
+                    <parameter id="RealParameter.21" estimate="false" lower="0.0" name="S" upper="5.0">0.128</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="alligators8.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:PWs_tree">
+                <taxonset id="alligators8" spec="TaxonSet">
+                    <taxon id="Amississip59" spec="Taxon"/>
+                    <taxon id="Asinensis73" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.9" name="distr">
+                    <parameter id="RealParameter.22" estimate="false" name="M">3.855</parameter>
+                    <parameter id="RealParameter.23" estimate="false" lower="0.0" name="S" upper="5.0">0.128</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="alligators9.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:PWs_tree">
+                <taxonset id="alligators9" spec="TaxonSet">
+                    <taxon id="Amississip38" spec="Taxon"/>
+                    <taxon id="Asinensis43" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.10" name="distr">
+                    <parameter id="RealParameter.24" estimate="false" name="M">3.855</parameter>
+                    <parameter id="RealParameter.25" estimate="false" lower="0.0" name="S" upper="5.0">0.128</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="amphiprion1.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:PWs_tree">
+                <taxonset id="amphiprion1" spec="TaxonSet">
+                    <taxon id="Aocellaris2" spec="Taxon"/>
+                    <taxon id="Apercula1" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.11" name="distr">
+                    <parameter id="RealParameter.26" estimate="false" name="M">1.012</parameter>
+                    <parameter id="RealParameter.27" estimate="false" lower="0.0" name="S" upper="5.0">0.5</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="anguilla1.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:PWs_tree">
+                <taxonset id="anguilla1" spec="TaxonSet">
+                    <taxon id="Ajaponica5" spec="Taxon"/>
+                    <taxon id="Arostrata1" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.12" name="distr">
+                    <parameter id="RealParameter.28" estimate="false" name="M">2.622</parameter>
+                    <parameter id="RealParameter.29" estimate="false" lower="0.0" name="S" upper="5.0">0.1</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="astatotilapia-maylandia1.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:PWs_tree">
+                <taxonset id="astatotilapia-maylandia1" spec="TaxonSet">
+                    <taxon id="Acallipter17" spec="Taxon"/>
+                    <taxon id="Mzebra7" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.13" name="distr">
+                    <parameter id="RealParameter.30" estimate="false" name="M">1.404</parameter>
+                    <parameter id="RealParameter.31" estimate="false" lower="0.0" name="S" upper="5.0">0.17</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="chrysemys-malaclemys-terrapene1.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:PWs_tree">
+                <taxonset id="chrysemys-malaclemys-terrapene1" spec="TaxonSet">
+                    <taxon id="Cpicta20" spec="Taxon"/>
+                    <taxon id="Mterrapin20" spec="Taxon"/>
+                    <taxon id="Tmexicana71" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.14" name="distr">
+                    <parameter id="RealParameter.32" estimate="false" name="M">3.733</parameter>
+                    <parameter id="RealParameter.33" estimate="false" lower="0.0" name="S" upper="5.0">0.27</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="chrysemys-malaclemys1.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:PWs_tree">
+                <taxonset id="chrysemys-malaclemys1" spec="TaxonSet">
+                    <taxon id="Cpicta7" spec="Taxon"/>
+                    <taxon id="Mterrapin15" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.15" name="distr">
+                    <parameter id="RealParameter.34" estimate="false" name="M">3.197</parameter>
+                    <parameter id="RealParameter.35" estimate="false" lower="0.0" name="S" upper="5.0">0.28</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="chrysemys-malaclemys2.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:PWs_tree">
+                <taxonset id="chrysemys-malaclemys2" spec="TaxonSet">
+                    <taxon id="Cpicta26" spec="Taxon"/>
+                    <taxon id="Mterrapin6" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.16" name="distr">
+                    <parameter id="RealParameter.36" estimate="false" name="M">3.197</parameter>
+                    <parameter id="RealParameter.37" estimate="false" lower="0.0" name="S" upper="5.0">0.28</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="chrysemys-malaclemys3.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:PWs_tree">
+                <taxonset id="chrysemys-malaclemys3" spec="TaxonSet">
+                    <taxon id="Cpicta10" spec="Taxon"/>
+                    <taxon id="Mterrapin12" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.17" name="distr">
+                    <parameter id="RealParameter.38" estimate="false" name="M">3.197</parameter>
+                    <parameter id="RealParameter.39" estimate="false" lower="0.0" name="S" upper="5.0">0.28</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="chrysemys-malaclemys4.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:PWs_tree">
+                <taxonset id="chrysemys-malaclemys4" spec="TaxonSet">
+                    <taxon id="Cpicta3" spec="Taxon"/>
+                    <taxon id="Mterrapin5" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.18" name="distr">
+                    <parameter id="RealParameter.40" estimate="false" name="M">3.197</parameter>
+                    <parameter id="RealParameter.41" estimate="false" lower="0.0" name="S" upper="5.0">0.28</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="chrysemys-malaclemys5.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:PWs_tree">
+                <taxonset id="chrysemys-malaclemys5" spec="TaxonSet">
+                    <taxon id="Cpicta13" spec="Taxon"/>
+                    <taxon id="Mterrapin9" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.19" name="distr">
+                    <parameter id="RealParameter.42" estimate="false" name="M">3.197</parameter>
+                    <parameter id="RealParameter.43" estimate="false" lower="0.0" name="S" upper="5.0">0.28</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="chrysemys-malaclemys6.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:PWs_tree">
+                <taxonset id="chrysemys-malaclemys6" spec="TaxonSet">
+                    <taxon id="Cpicta9" spec="Taxon"/>
+                    <taxon id="Mterrapin13" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.20" name="distr">
+                    <parameter id="RealParameter.44" estimate="false" name="M">3.197</parameter>
+                    <parameter id="RealParameter.45" estimate="false" lower="0.0" name="S" upper="5.0">0.28</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="chrysemys-malaclemys7.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:PWs_tree">
+                <taxonset id="chrysemys-malaclemys7" spec="TaxonSet">
+                    <taxon id="Cpicta8" spec="Taxon"/>
+                    <taxon id="Mterrapin4" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.21" name="distr">
+                    <parameter id="RealParameter.47" estimate="false" name="M">3.197</parameter>
+                    <parameter id="RealParameter.48" estimate="false" lower="0.0" name="S" upper="5.0">0.28</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="chrysemys-malaclemys8.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:PWs_tree">
+                <taxonset id="chrysemys-malaclemys8" spec="TaxonSet">
+                    <taxon id="Cpicta4" spec="Taxon"/>
+                    <taxon id="Mterrapin21" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.22" name="distr">
+                    <parameter id="RealParameter.49" estimate="false" name="M">3.197</parameter>
+                    <parameter id="RealParameter.50" estimate="false" lower="0.0" name="S" upper="5.0">0.28</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="chrysemys-malaclemys9.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:PWs_tree">
+                <taxonset id="chrysemys-malaclemys9" spec="TaxonSet">
+                    <taxon id="Cpicta16" spec="Taxon"/>
+                    <taxon id="Mterrapin2" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.23" name="distr">
+                    <parameter id="RealParameter.51" estimate="false" name="M">3.197</parameter>
+                    <parameter id="RealParameter.52" estimate="false" lower="0.0" name="S" upper="5.0">0.28</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="crocodylus-gavialis1.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:PWs_tree">
+                <taxonset id="crocodylus-gavialis1" spec="TaxonSet">
+                    <taxon id="Cporosus56" spec="Taxon"/>
+                    <taxon id="Ggangeticu36" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.24" name="distr">
+                    <parameter id="RealParameter.53" estimate="false" name="M">3.999</parameter>
+                    <parameter id="RealParameter.54" estimate="false" lower="0.0" name="S" upper="5.0">0.12</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="malaclemys-gopherus1.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:PWs_tree">
+                <taxonset id="malaclemys-gopherus1" spec="TaxonSet">
+                    <taxon id="Gagassizii4" spec="Taxon"/>
+                    <taxon id="Mterrapin47" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.25" name="distr">
+                    <parameter id="RealParameter.55" estimate="false" name="M">4.556</parameter>
+                    <parameter id="RealParameter.56" estimate="false" lower="0.0" name="S" upper="5.0">0.03</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="malaclemys-terrapene1.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:PWs_tree">
+                <taxonset id="malaclemys-terrapene1" spec="TaxonSet">
+                    <taxon id="Mterrapin3" spec="Taxon"/>
+                    <taxon id="Tmexicana52" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.26" name="distr">
+                    <parameter id="RealParameter.57" estimate="false" name="M">3.733</parameter>
+                    <parameter id="RealParameter.58" estimate="false" lower="0.0" name="S" upper="5.0">0.27</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="malaclemys-terrapene2.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:PWs_tree">
+                <taxonset id="malaclemys-terrapene2" spec="TaxonSet">
+                    <taxon id="Mterrapin11" spec="Taxon"/>
+                    <taxon id="Tmexicana64" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.27" name="distr">
+                    <parameter id="RealParameter.59" estimate="false" name="M">3.733</parameter>
+                    <parameter id="RealParameter.60" estimate="false" lower="0.0" name="S" upper="5.0">0.27</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="oncorhynchus1.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:PWs_tree">
+                <taxonset id="oncorhynchus1" spec="TaxonSet">
+                    <taxon id="Okisutch24" spec="Taxon"/>
+                    <taxon id="Otshawytsc43" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.28" name="distr">
+                    <parameter id="RealParameter.61" estimate="false" name="M">1.163</parameter>
+                    <parameter id="RealParameter.62" estimate="false" lower="0.0" name="S" upper="5.0">0.75</parameter>
+                </LogNormal>
+            </distribution>
+            <distribution id="sinocyclocheilus1.prior" spec="beast.math.distributions.MRCAPrior" tree="@Tree.t:PWs_tree">
+                <taxonset id="sinocyclocheilus1" spec="TaxonSet">
+                    <taxon id="Sanshuiens1" spec="Taxon"/>
+                    <taxon id="Sgrahami1" spec="Taxon"/>
+                </taxonset>
+                <LogNormal id="LogNormalDistributionModel.29" name="distr">
+                    <parameter id="RealParameter.63" estimate="false" name="M">2.862</parameter>
+                    <parameter id="RealParameter.64" estimate="false" lower="0.0" name="S" upper="5.0">0.16</parameter>
+                </LogNormal>
+            </distribution>
+        </distribution>
+        <distribution id="likelihood" spec="util.CompoundDistribution" useThreads="true">
+            <distribution id="treeLikelihood.PWs_4BEAST" spec="ThreadedTreeLikelihood" data="@PWs_4BEAST" tree="@Tree.t:PWs_tree">
+                <siteModel id="SiteModel.s:site_model" spec="SiteModel" gammaCategoryCount="4" shape="@gammaShape.s:site_model">
+                    <parameter id="mutationRate.s:site_model" estimate="false" name="mutationRate">1.0</parameter>
+                    <parameter id="proportionInvariant.s:site_model" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                    <substModel id="JTT.s:site_model" spec="JTT"/>
+                </siteModel>
+                <branchRateModel id="RelaxedClock.c:clock_model" spec="beast.evolution.branchratemodel.UCRelaxedClockModel" clock.rate="@ucldMean.c:clock_model" rateCategories="@rateCategories.c:clock_model" tree="@Tree.t:PWs_tree">
+                    <LogNormal id="LogNormalDistributionModel.c:clock_model" S="@ucldStdev.c:clock_model" meanInRealSpace="true" name="distr">
+                        <parameter id="RealParameter.1" estimate="false" lower="0.0" name="M" upper="1.0">1.0</parameter>
+                    </LogNormal>
+                </branchRateModel>
+            </distribution>
+        </distribution>
+    </distribution>
+
+    <operator id="YuleBirthRateScaler.t:PWs_tree" spec="ScaleOperator" parameter="@birthRate.t:PWs_tree" scaleFactor="0.75" weight="3.0"/>
+
+    <operator id="YuleModelTreeScaler.t:PWs_tree" spec="ScaleOperator" scaleFactor="0.5" tree="@Tree.t:PWs_tree" weight="3.0"/>
+
+    <operator id="YuleModelTreeRootScaler.t:PWs_tree" spec="ScaleOperator" rootOnly="true" scaleFactor="0.5" tree="@Tree.t:PWs_tree" weight="3.0"/>
+
+    <operator id="YuleModelUniformOperator.t:PWs_tree" spec="Uniform" tree="@Tree.t:PWs_tree" weight="30.0"/>
+
+    <operator id="YuleModelSubtreeSlide.t:PWs_tree" spec="SubtreeSlide" tree="@Tree.t:PWs_tree" weight="15.0"/>
+
+    <operator id="YuleModelNarrow.t:PWs_tree" spec="Exchange" tree="@Tree.t:PWs_tree" weight="15.0"/>
+
+    <operator id="YuleModelWide.t:PWs_tree" spec="Exchange" isNarrow="false" tree="@Tree.t:PWs_tree" weight="3.0"/>
+
+    <operator id="YuleModelWilsonBalding.t:PWs_tree" spec="WilsonBalding" tree="@Tree.t:PWs_tree" weight="3.0"/>
+
+    <operator id="gammaShapeScaler.s:site_model" spec="ScaleOperator" parameter="@gammaShape.s:site_model" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="ucldStdevScaler.c:clock_model" spec="ScaleOperator" parameter="@ucldStdev.c:clock_model" scaleFactor="0.5" weight="3.0"/>
+
+    <operator id="CategoriesRandomWalk.c:clock_model" spec="IntRandomWalkOperator" parameter="@rateCategories.c:clock_model" weight="10.0" windowSize="1"/>
+
+    <operator id="CategoriesSwapOperator.c:clock_model" spec="SwapOperator" intparameter="@rateCategories.c:clock_model" weight="10.0"/>
+
+    <operator id="CategoriesUniform.c:clock_model" spec="UniformOperator" parameter="@rateCategories.c:clock_model" weight="10.0"/>
+
+    <operator id="ucldMeanScaler.c:clock_model" spec="ScaleOperator" parameter="@ucldMean.c:clock_model" scaleFactor="0.5" weight="1.0"/>
+
+    <operator id="relaxedUpDownOperator.c:clock_model" spec="UpDownOperator" scaleFactor="0.75" weight="3.0">
+        <up idref="ucldMean.c:clock_model"/>
+        <down idref="Tree.t:PWs_tree"/>
+    </operator>
+
+    <logger id="tracelog" fileName="PWs_4BEAST.log" logEvery="5000" model="@posterior" sanitiseHeaders="true" sort="smart">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log idref="treeLikelihood.PWs_4BEAST"/>
+        <log id="TreeHeight.t:PWs_tree" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:PWs_tree"/>
+        <log idref="YuleModel.t:PWs_tree"/>
+        <log idref="birthRate.t:PWs_tree"/>
+        <log idref="gammaShape.s:site_model"/>
+        <log idref="ucldStdev.c:clock_model"/>
+        <log id="rate.c:clock_model" spec="beast.evolution.branchratemodel.RateStatistic" branchratemodel="@RelaxedClock.c:clock_model" tree="@Tree.t:PWs_tree"/>
+        <log idref="ucldMean.c:clock_model"/>
+        <log idref="malaclemys-gopherus1.prior"/>
+        <log idref="alligators1.prior"/>
+        <log idref="anguilla1.prior"/>
+        <log idref="chrysemys-malaclemys1.prior"/>
+        <log idref="chrysemys-malaclemys-terrapene1.prior"/>
+        <log idref="chrysemys-malaclemys2.prior"/>
+        <log idref="chrysemys-malaclemys3.prior"/>
+        <log idref="oncorhynchus1.prior"/>
+        <log idref="astatotilapia-maylandia1.prior"/>
+        <log idref="alligator-gavialis1.prior"/>
+        <log idref="alligators2.prior"/>
+        <log idref="alligators3.prior"/>
+        <log idref="alligators4.prior"/>
+        <log idref="alligators5.prior"/>
+        <log idref="chrysemys-malaclemys4.prior"/>
+        <log idref="chrysemys-malaclemys5.prior"/>
+        <log idref="chrysemys-malaclemys6.prior"/>
+        <log idref="chrysemys-malaclemys7.prior"/>
+        <log idref="chrysemys-malaclemys8.prior"/>
+        <log idref="chrysemys-malaclemys9.prior"/>
+        <log idref="sinocyclocheilus1.prior"/>
+        <log idref="alligators6.prior"/>
+        <log idref="alligators7.prior"/>
+        <log idref="alligators8.prior"/>
+        <log idref="crocodylus-gavialis1.prior"/>
+        <log idref="amphiprion1.prior"/>
+        <log idref="malaclemys-terrapene1.prior"/>
+        <log idref="malaclemys-terrapene2.prior"/>
+        <log idref="alligators9.prior"/>
+        <log idref="alligators10.prior"/>
+    </logger>
+
+    <logger id="screenlog" logEvery="20000">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+    </logger>
+
+    <logger id="treelog.t:PWs_tree" fileName="$(tree).trees" logEvery="5000" mode="tree">
+        <log id="TreeWithMetaDataLogger.t:PWs_tree" spec="beast.evolution.tree.TreeWithMetaDataLogger" branchratemodel="@RelaxedClock.c:clock_model" tree="@Tree.t:PWs_tree"/>
+    </logger>
+
+</run>
+
+</beast>
